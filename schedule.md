@@ -1,5 +1,5 @@
 
-# IGME-330 - Sprint 2020: Schedule
+# IGME-330 - Spring 2020: Schedule
 
 ## Contents
 
