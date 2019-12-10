@@ -15,7 +15,7 @@
 - [Week 06 (Feb 17) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Feb 24) : Review Project 1 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
-- ***March 08-15 -- Spring Break***
+- ***\*\*March 08-15 -- Spring Break\*\****
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
 - [Week 10 (Mar 24) : Context-free Grammars / Web Services Review](#week10)
 - [Week 11 (Mar 31) : Node.js + More Web Services](#week11)
