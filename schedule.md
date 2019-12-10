@@ -7,21 +7,21 @@
 
 ### Weekly Outline
 
-- [Week 01 (Aug 26) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Sep 02) : Intro to Canvas Drawing API & Affine Transforms](#week2)
-- [Week 03 (Sep 09) : More Canvas & Drawing Images & Blending Modes](#week3)
-- [Week 04 (Sep 16) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 23) : More Web Audio / ES6 Module Pattern](#week5)
-- [Week 06 (Sep 30) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
-- [Week 07 (Oct 07) : Review Project 1 Prototypes / Midterm Exam](#week7)
-- [Week 08 (Oct 14) : October Break / Begin Computational Text Unit](#week8)
-- [Week 09 (Oct 21) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
-- [Week 10 (Oct 28) : Context-free Grammars / Web Services Review](#week10)
-- [Week 11 (Nov 04) : Node.js + More Web Services](#week11)
-- [Week 12 (Nov 11) : Vue.js & MVVM](#week12)
-- [Week 13 (Nov 18) : Cloud Data & JavaScript Topics](#week13)
-- [Week 13.5 (Nov 25) : Finish Cloud Data & Thanksgiving](#week13)
-- [Week 14 (Dec 02) : Review & Final Exam](#week14)
+- [Week 01 (Jan 13) : Course Intro & Review of Basic Web App Structure](#week1)
+- [Week 02 (Jan 20) : Intro to Canvas Drawing API & Affine Transforms](#week2)
+- [Week 03 (Jan 27) : More Canvas & Drawing Images & Blending Modes](#week3)
+- [Week 04 (Feb 03) : WebAudio API & Manipulating Bitmap data](#week4)
+- [Week 05 (Feb 10) : More Web Audio / ES6 Module Pattern](#week5)
+- [Week 06 (Feb 17) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
+- [Week 07 (Feb 24) : Review Project 1 Prototypes / Midterm Exam](#week7)
+- [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
+- ***March 08-15 -- Spring Break***
+- [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
+- [Week 10 (Mar 24) : Context-free Grammars / Web Services Review](#week10)
+- [Week 11 (Mar 31) : Node.js + More Web Services](#week11)
+- [Week 12 (Apr 06) : Vue.js & MVVM](#week12)
+- [Week 13 (Apr 13) : Cloud Data & JavaScript Topics](#week13)
+- [Week 14 (Apr 20) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
