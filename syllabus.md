@@ -1,5 +1,5 @@
 # IGME-330 Rich Media Web Application Development I. 
-## Fall 2019: Syllabus
+## Fall 2020: Syllabus
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
@@ -11,31 +11,38 @@
 
 ### Section 01
 - Professor: Tony Jefferson  
-- Teaching Assistant: Coehl Gleckner
+- Teaching Assistant: TBA
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
-  - MW 3:30PM - 4:45PM in GOL-2525
-  - TR 7:45PM - 8:30PM in GOL-3690
-- Class meetings: TR 3:30PM - 4:45PM in MSS-2175
+  - TBA
+- Class meetings: TR 3:30PM - 4:45PM in MSS-3110
 
 ### Section 02
+- Professor: Andrew Wheeland 
+- Teaching Assistant: TBA 
+- Office:  
+- Email: 
+- Office hours:
+  - TBA
+- Class meetings: TR 9:30AM - 10:45PM in GOL-2435
+
+### Section 03
 - Professor: Tony Jefferson  
-- Teaching Assistant: Dillon Chan 
+- Teaching Assistant: TBA
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
-  - MW 3:30PM - 4:45PM in GOL-2525
-  - TR 7:45PM - 8:30PM in GOL-3690
-- Class meetings: TR 2:00PM - 3:15PM in MSS-2175
+  - TBA
+- Class meetings: TR 11:00AM - 12:15PM in GOL-2435
 
-### Section 03
+### Section 04
 - Professor: Noah Bast
-- Teaching Assistant: Dillon Chan (dxc6879@rit.edu)
+- Teaching Assistant: TBA
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: After class or by appointment
-- Class meetings: MW 5:00PM - 06:15PM in ORN-1380
+- Class meetings: TR 5:00PM - 06:15PM in ORN-1375
 
 ## IV. Course Materials and Communication
 
