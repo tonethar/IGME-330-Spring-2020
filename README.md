@@ -1,4 +1,4 @@
-# IGME-330 (Fall 2019)
+# IGME-330 (Spring 2020)
 Welcome to the course materials for IGME-330 - *Rich Media Interactive Development I.*
 - You should first read the [syllabus](syllabus.md)
 - Then read the course [topics & outcomes](topics.md)
