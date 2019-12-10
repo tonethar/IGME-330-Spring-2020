@@ -1,5 +1,5 @@
 
-# IGME-330 - Fall 2019: Schedule
+# IGME-330 - Sprint 2020: Schedule
 
 ## Contents
 
