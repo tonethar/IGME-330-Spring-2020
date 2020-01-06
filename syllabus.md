@@ -21,8 +21,8 @@
 ### Section 02
 - Professor: Andrew Wheeland 
 - Teaching Assistant: TBA 
-- Office:  
-- Email: 
+- Office:  GOL-2634 (starting 1/13)
+- Email: anwigm@rit.edu (Discord contact preferred)
 - Office hours:
   - TBA
 - Class meetings: TR 9:30AM - 10:45PM in GOL-2435
