@@ -15,7 +15,8 @@
 - Office:  GOL-2525
 - Email: tony@mail.rit.edu
 - Office hours:
-  - TBA
+  - TR 10:00AM - 10:50AM
+  - R  12:30PM - 01:50PM
 - Class meetings: TR 3:30PM - 4:45PM in MSS-3110
 
 ### Section 02
