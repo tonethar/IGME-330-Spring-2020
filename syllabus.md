@@ -17,6 +17,7 @@
 - Office hours:
   - TR 10:00AM - 10:50AM
   - R  12:30PM - 01:50PM
+  - other hours available by appointment
 - Class meetings: TR 3:30PM - 4:45PM in MSS-3110
 
 ### Section 02
@@ -34,7 +35,9 @@
 - Office:  GOL-2525
 - Email: tony@mail.rit.edu
 - Office hours:
-  - TBA
+  - TR 10:00AM - 10:50AM
+  - R  12:30PM - 01:50PM
+  - other hours available by appointment
 - Class meetings: TR 11:00AM - 12:15PM in GOL-2435
 
 ### Section 04
@@ -46,7 +49,6 @@
 - Class meetings: TR 5:00PM - 06:15PM in ORN-1375
 
 ## IV. Course Materials and Communication
-
 - most of the course content will be located on this GitHub site
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
