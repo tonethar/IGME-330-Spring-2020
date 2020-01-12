@@ -56,7 +56,7 @@
 
 ![image](_images/spiral-generator.gif)
 
-### Game of Life
+### Conway's Game of Life
 
 ![image](_images/life-example.gif)
 
