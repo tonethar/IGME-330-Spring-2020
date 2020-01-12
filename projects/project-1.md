@@ -6,7 +6,7 @@ You will create a compelling interactive media experience that allows the user t
 
 ## II. Theme
 - Explore one of the *themes* that we covered in class:
-  - Dynamical Systems (Periodic functions, Phylotaxis, ...)
+  - Dynamical Systems (Periodic functions, Phyllotaxis, ...)
   - Randomness (Random walks, Perlin noise)
   - Emergence (Life, Reaction Diffusion)
   - or ??? (getting permission in advance is required):
