@@ -19,6 +19,7 @@
   - R  12:30PM - 01:50PM
   - other hours available by appointment
 - Class meetings: TR 3:30PM - 4:45PM in MSS-3110
+- Finals Week Meeting: Tuesday 5/5/2020, from 1:30PM - 4:00PM, in MSS-3110
 
 ### Section 02
 - Professor: Andrew Wheeland 
@@ -28,6 +29,7 @@
 - Office hours:
   - TBA
 - Class meetings: TR 9:30AM - 10:45PM in GOL-2435
+- Finals Week Meeting: 
 
 ### Section 03
 - Professor: Tony Jefferson  
@@ -39,6 +41,7 @@
   - R  12:30PM - 01:50PM
   - other hours available by appointment
 - Class meetings: TR 11:00AM - 12:15PM in GOL-2435
+- Finals Week Meeting: Tuesday 5/5/2020, from 10:45AM - 1:15PM, in GOL-2435
 
 ### Section 04
 - Professor: Noah Bast
@@ -47,6 +50,7 @@
 - Email: nbbigm@rit.edu
 - Office hours: After class or by appointment
 - Class meetings: TR 5:00PM - 06:15PM in ORN-1375
+- Finals Week Meeting: 
 
 ## IV. Course Materials and Communication
 - most of the course content will be located on this GitHub site
