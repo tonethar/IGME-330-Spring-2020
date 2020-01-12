@@ -73,8 +73,12 @@ Official description from SIS: *This course provides students the opportunity to
 - 3. JavaScript Review & Demo
   - declaring variables with `var`, `let`, and `const`
   - operators
-  - common types
-  - `Boolean`, `Number`, `String`, `Symbol` (new for ES6), `Null`, `Undefined`, and `Object`
+  - data types:
+    - `Boolean`, `Number`, `String`, `Null`, `Undefined`, `Symbol` (new for ES6) and `BigInt` (really new)
+    - and `Object
+    - Reference: 
+      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+      - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
   - Functions are also Objects and thus “first class” values, and can be both passed to functions and returned from them
   - `console.log()`
   - Standard built-in objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
