@@ -24,7 +24,7 @@ This material is review you need to do on your own - most of this is now taught 
 
 ## IV. WebAudio API
 - analyzer nodes: frequency and time domain
-- convolutions
+- audio effect nodes & convolutions
 
 ## V. Text
 - working with both unstructured and structured text
