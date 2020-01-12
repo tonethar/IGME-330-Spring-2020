@@ -42,7 +42,7 @@
 
 ### Section 04
 - Professor: Noah Bast
-- Teaching Assistant: TBA
+- Teaching Assistant: Justin Dennis
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: After class or by appointment
