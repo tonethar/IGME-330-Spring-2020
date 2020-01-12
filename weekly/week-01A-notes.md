@@ -3,12 +3,12 @@
 Welcome to the course!
 
 ## I. Overview
-Welcome to IGME-330 Rich Media Web Application Development I. In this course you will be building on top of IGME-230 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, with tools like Node.js and npm, and MVVM frameworks such as Vue.js
+Welcome to IGME-330 Rich Media Web Application Development I. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, with tools like Node.js and npm, and MVVM frameworks such as Vue.js
 
 
 ## II. Prerequisites
-IGME-230 is a pre-requisite, and you should have a solid understanding of these topics:
-- HTML/CSS, and be able to post web files to `people.rit.edu` - if you forgotten how, [here are the instructions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/posting-to-banjo.md)
+IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understanding of these topics:
+- HTML/CSS, and be able to post web files to `people.rit.edu` - if you forgotten how, [here are the instructions](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/core-skills/ftp-upload-walkthrough.md)
 - Basic JavaScript and the Web Browser DOM (Document Object Model)
 
 ### \*\*Important - Before class begins\*\*
@@ -39,8 +39,8 @@ Official description from SIS: *This course provides students the opportunity to
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * Course topics -> [topics.md](../topics.md)
-* [Project 1 Web Audio Visualizer](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
-* [Project 1 Showcase Video](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
+* [Project 1 Interactive Sandbox](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
+* [Project 2 Showcase Video](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
 * Example of "Twitter Bot" HW we'll do (it runs on Heroku) -> https://twitter.com/CarlosD46246555
 * Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
