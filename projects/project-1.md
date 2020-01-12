@@ -52,7 +52,7 @@
 
 ## VII. Examples
 
-### Spiral Generator
+### Spiral Generator (Procedural flower petal generation - *phylotaxis*)
 
 ![image](_images/spiral-generator.gif)
 
