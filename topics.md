@@ -6,9 +6,8 @@ This material is review you need to do on your own - most of this is now taught 
 
 ## II. More JavaScript
 - Object-Oriented JavaScript: Object literals, Function constructors, `Object.create()`, ES6 class constructors
-- Modular JavaScript: ES5 Module Pattern, ES6 Modules
+- Modular JavaScript: ES6 Modules
 - Transpiling between ES5 & ES6 using Node.js & Webpack
-- JavaScript closures
 
 ## III. Canvas Drawing API
 - **Getting a reference to 2D context** - `canvasElement.getContext("2d")`
