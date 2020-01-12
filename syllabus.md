@@ -50,7 +50,7 @@
 - Email: nbbigm@rit.edu
 - Office hours: After class or by appointment
 - Class meetings: TR 5:00PM - 06:15PM in ORN-1375
-- Finals Week Meeting: 
+- Finals Week Meeting: Thursday 4/30/2020, from 7:00PM - 9:30PM, in ORN-1375
 
 ## IV. Course Materials and Communication
 - most of the course content will be located on this GitHub site
