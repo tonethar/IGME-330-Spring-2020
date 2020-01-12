@@ -56,6 +56,8 @@
 
 ![image](_images/spiral-generator.gif)
 
+![image](_images/life-example.gif)
+
 ## VIII. Rubric
 
 - HTML/CSS
