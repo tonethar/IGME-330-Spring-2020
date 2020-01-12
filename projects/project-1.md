@@ -56,6 +56,8 @@
 
 ![image](_images/spiral-generator.gif)
 
+### Game of Life
+
 ![image](_images/life-example.gif)
 
 ## VIII. Rubric
