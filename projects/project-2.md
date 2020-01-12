@@ -1,4 +1,4 @@
-# Project 1 - Audio Visualizer
+# Project 2 - Audio Visualizer
 
 I. [Overview](#I)
   
