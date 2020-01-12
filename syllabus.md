@@ -75,8 +75,9 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (25%) - [Audio Visualizer](projects/project-1.md)
-* Project 2 (25%) - [MVVM Web Application](projects/project-2.md)
+* Project 1 (15%) - [Interactive Sandbox](projects/project-1.md)
+* Project 2 (20%) - [Audio Visualizer](projects/project-2.md)
+* Project 3 (20%) - [MVVM Web Application](projects/project-3.md)
 
 
 ### Exams (30%)
@@ -84,7 +85,7 @@ These exams consist of short answer, multiple choice, and "write some code" ques
 * **Written Midterm Exam**  - will be given the second class meeting of the 7th week of the semester, (Thursday October 10th  - right before Columbus day break)
 * **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday December 5th
 
-### Homework (15%)
+### Homework (10%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
 
 Homework and ICEs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). If you feel you have legitimate excuse, please contact the professor outside of class either by email or during office hours.
@@ -103,12 +104,12 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 - **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not hand** in code that you previously submitted (for example, a previous version Project 1 Audio Visualizer)*
 
 ## VII. Important RIT Deadlines
-- Last day of add/drop is Tuesday September 3rd, 2019.
-- Last day to withdraw with a grade of "W" is Friday November 8th, 2019.
+- Last day of add/drop is Tuesday January 21, 2020.
+- Last day to withdraw with a grade of "W" is Friday April 3rd, 2020.
 - You have one semester after the class has ended to challenge your grade. 
 
 ## VIII. Notices of Accommodation
-If you have a "Notice of Accommodation", your professor should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met.
+If you have a "Notice of Accommodation", I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met.
 
 ## IX. Discrimination and Harassment
 RIT is committed to providing a safe learning environment, free of harassment and discrimination as articulated in our university policies located on our governance website.  RIT’s policies require faculty to share information about incidents of gender based discrimination and harassment with RIT’s Title IX coordinator or deputy coordinators, regardless whether the incidents are stated to them in person or shared by students as part of their coursework. 
