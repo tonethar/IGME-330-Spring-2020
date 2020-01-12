@@ -45,8 +45,7 @@ Official description from SIS: *This course provides students the opportunity to
 * Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
-## VI. Presentation
-- [Course Overview (PDF)](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Course-Overview.pdf)
+## VI. Starter Code
 
 <a id="review-questions"></a>
  
