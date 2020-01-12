@@ -2,6 +2,8 @@
 
 ## I. Overview
 
+You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
+
 ## II. Theme
 - Explore one of the *themes* that we covered in class:
   - Dynamical Systems (Periodic functions, Phylotaxis, ...)
