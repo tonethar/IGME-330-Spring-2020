@@ -44,13 +44,16 @@ You will create a compelling interactive media experience that allows the user t
   
 
 ## VI. User Experience
-- At least XX distinct DOM controls that have a **meaningful effect on the experience**, in at least XX of the following categories:
-  - buttons
-  - sliders
-  - pulldowns
-  - radio buttons
-  - checkboxes
-- mouse interaction would be a nice plus, but is not required
+- Text Content title (in an &lt;h1></h1> and a description of the project:
+- Controls:
+  - At least XX distinct DOM controls that have a **meaningful effect on the experience**, in at least XX of the following categories:
+    - buttons
+    - sliders
+    - pulldowns
+    - radio buttons
+    - checkboxes
+    - mouse interaction would be a nice plus, but is not required
+
 
 ## VII. Examples
 
