@@ -26,6 +26,7 @@ You will create a compelling interactive media experience that allows the user t
 ## IV. JavaScript
 
 ### IV-A. Coding standards
+- `"use strict";` at the top of every JS file
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, `document.querySelector()` and `document.querySelectorAll()` only. `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc are NOT allowed
 
