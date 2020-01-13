@@ -9,9 +9,9 @@ You will create a compelling interactive media experience that allows the user t
   - Dynamical Systems (Periodic functions, Phyllotaxis, ...)
   - Randomness (Random walks - see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md) and Perlin noise)
   - Emergence (Life, Reaction Diffusion)
-  - or ??? (getting permission in advance is required):
+  - or ??? (getting permission in advance is required) - here are some ideas:
     - particle systems/falling sand app: https://github.com/pineapplemachine/websand
-    - more ideas: https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
+    - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
     
