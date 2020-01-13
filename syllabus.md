@@ -24,12 +24,14 @@
 ### Section 02
 - Professor: Andrew Wheeland 
 - Teaching Assistant: TBA 
-- Office:  GOL-2634 (starting 1/13)
+- Office:  GOL-2634
 - Email: anwigm@rit.edu (Discord contact preferred)
 - Office hours:
-  - TBA
+  - M  03:00PM - 04:30PM
+  - T  11:00AM - 12:30PM
+  - R  11:00AM - 12:00PM
 - Class meetings: TR 9:30AM - 10:45PM in GOL-2435
-- Finals Week Meeting: 
+- Finals Week Meeting: Thursday 4/30/2020, from 8:00AM - 10:30AM, in GOL-2435
 
 ### Section 03
 - Professor: Tony Jefferson  
