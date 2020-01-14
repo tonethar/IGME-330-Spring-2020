@@ -75,7 +75,7 @@ Official description from SIS: *This course provides students the opportunity to
   - operators
   - data types:
     - `Boolean`, `Number`, `String`, `Null`, `Undefined`, `Symbol` (new for ES6) and `BigInt` (really new)
-    - and `Object
+    - and `Object`
     - Reference: 
       - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
       - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
