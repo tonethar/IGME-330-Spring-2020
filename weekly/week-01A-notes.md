@@ -71,6 +71,7 @@ Official description from SIS: *This course provides students the opportunity to
     - shift-enter for multi-line code
     - up arrow to repeat last typed line
 - 3. JavaScript Review & Demo
+  - `'use strict';` - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
   - declaring variables with `var`, `let`, and `const`
   - operators
   - data types:
