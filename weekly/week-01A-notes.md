@@ -86,8 +86,6 @@ Official description from SIS: *This course provides students the opportunity to
     - `Date`
     - `Math`
     - `Array`
-  - Putting JavaScript in a <script> tag
-    - `"use strict";` (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
   - Functions
     - writing functions
     - calling functions
