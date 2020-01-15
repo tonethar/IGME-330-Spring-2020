@@ -115,9 +115,14 @@ Official description from SIS: *This course provides students the opportunity to
 
 We aren't always going to have video links, but here they are in case we run out of time today:
 
+<!---
 - [Week 1A - JavaScript and DOM review - 1 (20:36)](https://video.rit.edu/Watch/f8H5Akr4) - the lecture begins at 8:50, the demo begins at 13:30 
 - [Week 1A - JavaScript and DOM review - 2 (29:51)](https://video.rit.edu/Watch/Dr8n4XNz)
-
+--->
+- [JSReview-1: Using the console (06:18)](https://video.rit.edu/Watch/js-review-1-using-the-console)
+- [JSReview-2: Variables and scope (16:12)](https://video.rit.edu/Watch/js-review-2-variables-and-scope)
+- [JSReview-3: Working with DOM (12:19)](https://video.rit.edu/Watch/js-review-3-working-with-dom-A)
+- [JSReview-4: Working with DOM 2 (13:26)](https://video.rit.edu/Watch/js-review-4-working-with-dom-B)
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
