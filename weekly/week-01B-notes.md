@@ -44,7 +44,8 @@ We aren't always going to have video links, but here they are:
   - utilize helper functions and calling `getRandomColor()` and `getRandomInt()` from the console
   - write a helper function: `drawRandomRect()`
   - animation: `update()` function & `window.requestAnimationFrame()`
-- [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7)
+- [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
+  - Canvas2D *drawing state stack* methods: `ctx.save()` & `ctx.restore()`
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L)
 
 <hr><hr>
