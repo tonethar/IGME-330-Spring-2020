@@ -45,11 +45,13 @@ We aren't always going to have video links, but here they are:
   - write a helper function: `drawRandomRect()`
   - animation: `update()` function & `window.requestAnimationFrame()`
 - [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
+  - keep working on "ScreenSaver App" 
   - Canvas2D *drawing state stack* methods: `ctx.save()` & `ctx.restore()`
   - more helper functions: `drawRandomCircle()`, `drawRandomLine()` & `cls()`
   - Canvas2D *convenience method*: `ctx.clearRect()`
   - `window.setTimeout()`
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
+  - finish "ScreenSaver App" 
   - Canvas2D property: `ctx.globalAlpha`
   - Demo: ES6 arrow function
   - Demo: ES6 template string
