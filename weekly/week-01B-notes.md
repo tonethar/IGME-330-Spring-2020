@@ -51,6 +51,8 @@ We aren't always going to have video links, but here they are:
   - `window.setTimeout()`
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
   - Canvas2D property: `ctx.globalAlpha`
+  - Demo: ES6 arrow function
+  - Demo: ES6 template string
 
 <hr><hr>
 
