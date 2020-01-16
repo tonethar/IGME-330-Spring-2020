@@ -30,8 +30,15 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 We aren't always going to have video links, but here they are:
 
 - [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
-  - Intro to Canvas2D API, obtaining a drawing *context*, `ctx.fillStyle` and `ctx.fillRect()`
-- [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5)
+  - Intro to Canvas2D API
+  - Obtaining a drawing *context* with `canvas.getContext("2d")`
+  - Canvas2D method: `ctx.fillRect()`
+  - Canvas2D property: `ctx.fillStyle`
+- [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5):
+  - Filling and stroking rectangles and lines
+  - Canvas2D methods for describing a path :`ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`, `ctx.moveTo()` & `ctx.lineTo()`
+  - Canvas2D methods for rendering a path: `ctx.fill()` & `ctx.stroke()`
+  - Canvas2D state properties: `ctx.strokeStyle` & `ctx.lineWidth`
 - [Week 1B - Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe)
 - [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7)
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L)
