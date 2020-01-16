@@ -32,7 +32,7 @@ We aren't always going to have video links, but here they are:
 - [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
   - Intro to Canvas2D API
   - Obtaining a drawing *context* with `canvas.getContext("2d")`
-  - Canvas2D method: `ctx.fillRect()`
+  - Canvas2D *convenience method*: `ctx.fillRect()`
   - Canvas2D property: `ctx.fillStyle`
 - [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5):
   - Fill and stroke rectangles, lines & circles
@@ -47,6 +47,7 @@ We aren't always going to have video links, but here they are:
 - [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
   - Canvas2D *drawing state stack* methods: `ctx.save()` & `ctx.restore()`
   - more helper function: `drawRandomCircle()` & `drawRandomLine()`
+  - Canvas2D *convenience method*: `ctx.clearRect()`
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L)
 
 <hr><hr>
