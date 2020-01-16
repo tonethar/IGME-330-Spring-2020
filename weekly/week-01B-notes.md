@@ -49,7 +49,8 @@ We aren't always going to have video links, but here they are:
   - more helper functions: `drawRandomCircle()`, `drawRandomLine()` & `cls()`
   - Canvas2D *convenience method*: `ctx.clearRect()`
   - `window.setTimeout()`
-- [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L)
+- [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
+  - Canvas2D property: `ctx.globalAlpha`
 
 <hr><hr>
 
