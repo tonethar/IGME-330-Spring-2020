@@ -42,7 +42,7 @@ We aren't always going to have video links, but here they are:
 - [Week 1B - Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe):
   - HW Starter code - begin building "ScreenSaver App" (*The 80's are calling and want their flying toasters back!*)
   - utilize helper functions and calling `getRandomColor()` and `getRandomInt()` from the console
-  - write a helper function: `getRandomRect()`
+  - write a helper function: `drawRandomRect()`
   - animation: `update()` function & `window.requestAnimationFrame()`
 - [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7)
 - [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L)
