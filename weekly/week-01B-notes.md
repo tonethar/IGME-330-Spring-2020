@@ -29,7 +29,8 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 
 We aren't always going to have video links, but here they are:
 
-- [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H)
+- [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
+  - Intro to canvas, **firstCanvas.html**, obtaining a drawing *context*, `ctx.fillStyle`, `ctx.fillRect()`
 - [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5)
 - [Week 1B - Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe)
 - [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7)
