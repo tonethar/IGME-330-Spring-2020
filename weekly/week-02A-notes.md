@@ -28,6 +28,17 @@ Keep working on your Screen Saver:
 - write code that "flings" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 - "clean up" the code
 
+**This helper code will come in handy when we want to determine where the user clicked on the canvas:**
+
+```js
+function canvasClicked(e){
+  let rect = e.target.getBoundingClientRect();
+  let mouseX = e.clientX - rect.x;
+  let mouseY = e.clientY - rect.y;
+  console.log(mouseX,mouseY);
+}
+```
+
 ## VI. Stuff you should do on your own
 
 **\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
