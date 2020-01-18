@@ -21,9 +21,11 @@ Today we will:
 - [Canvas-2 More Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md) - drawing rings, polygons, `ctx.arcTo()`, `ctx.lineJoin`, line dashes
 
 ## V. Demo
-Keep working on Screen Saver:
+Keep working on your Screen Saver:
 - add controls
 - create more helper functions
+
+**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along\*\***
     
 ## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
