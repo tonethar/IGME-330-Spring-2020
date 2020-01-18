@@ -20,7 +20,7 @@ Today we will:
 - [Randomness and Aesthetics](https://github.com/tonethar/IGME-330-Master/blob/master/notes/randomness-1.md)
 - [Canvas-2 More Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md) - drawing rings, polygons, `ctx.arcTo()`, `ctx.lineJoin`, line dashes
 
-# V. Demo
+## V. Demo
 Keep working on Screen Saver:
 - add controls
 - create more helper functions
