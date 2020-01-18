@@ -1,4 +1,4 @@
-# Week 2A - JS Review and more Canvas
+# Week 2A - Review and more Canvas
 
 ## I. Overview
 Today we will: 
