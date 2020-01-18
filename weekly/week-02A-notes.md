@@ -25,9 +25,13 @@ Keep working on your Screen Saver:
 - add **Pause** and **Play** buttons, and a checkbox
 - create more helper functions
 
-**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here's a challenge for you:\*\***
+**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
 
+- add checkboxes to control the production of lines and circles
+- create functions named `drawLine()` and `drawCircle()` (similar to `drawRectangle()` from the demo)
 - create a `drawRing()` method that accepts an `innerRadius` and an `outerRadius` parameter (among others) and creates a ring like we did in Canvas-2 above.
+- add a `linedash` parameter to `drawRectangle()`/`drawLine()`/`drawCircle()`, and utilize it if the developer passes in an array
+
     
 ## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
