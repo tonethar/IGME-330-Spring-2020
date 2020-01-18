@@ -23,8 +23,8 @@ Today we will:
 
 ## V. Demo
 Keep working on your Screen Saver:
-- add **Pause** and **Play** buttons
 - add a checkbox to control whether or not rectangles appear
+- add **Pause** and **Play** buttons
 - create a `drawRectangle()` helper function
 - write code that "flings" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 
