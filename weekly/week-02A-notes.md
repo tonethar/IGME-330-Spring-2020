@@ -4,6 +4,7 @@
 Today we will: 
 - Take a look at the *ScreenSaver* submissions
 - Answer any questions from last week
+- Here are some additional review questions about JS and the DOM - we don't have time to review all of them today - but you should look these over at some point: [review-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/review-1.md)
 - Talk about *Randomness & Aesthetics*
 - Learn a little more about the Canvas API
 - Refactor and add features to our screen savers
