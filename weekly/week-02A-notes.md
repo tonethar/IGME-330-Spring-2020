@@ -30,7 +30,7 @@ Keep working on your Screen Saver:
 - add checkboxes to control the production of lines and circles
 - create functions named `drawLine()` and `drawCircle()` (similar to `drawRectangle()` from the demo)
 - create a `drawRing()` method that accepts an `innerRadius` and an `outerRadius` parameter (among others) and creates a ring like we did in Canvas-2 above.
-- add a `linedash` parameter to `drawRectangle()`/`drawLine()`/`drawCircle()`, and utilize it if the developer passes in an array
+- add a `linedash` parameter to `drawRectangle()`, `drawLine()` and `drawCircle()`, and utilize it if the developer passes in an array
 
     
 ## VI. Reference
