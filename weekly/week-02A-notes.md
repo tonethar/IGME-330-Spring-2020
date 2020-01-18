@@ -28,6 +28,8 @@ Keep working on your Screen Saver:
 - write code that "flings" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 - "clean up" the code
 
+## VI. Stuff you should do on your own
+
 **\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
 
 - add checkboxes to control the production of lines and circles
@@ -37,7 +39,7 @@ Keep working on your Screen Saver:
 - create a `drawTriangle()` function that accepts `width` and `height` parameters (among others) and draws a triangle like we did in Canvas-2 above
 
     
-## VI. Reference
+## VII. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 ## VI. Videos of lecture & demos
