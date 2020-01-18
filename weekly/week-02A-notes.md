@@ -55,7 +55,7 @@ function canvasClicked(e){
 ## VII. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
-## VI. Videos of lecture & demos
+## VIII. Videos of lecture & demos
 
 We aren't always going to have video links, but here is a re-cap of today's major topics:
 
