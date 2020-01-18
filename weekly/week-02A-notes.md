@@ -5,7 +5,7 @@ Today we will:
 - Take a look at the *ScreenSaver* submissions
 - Answer any questions from last week
 - Talk about *Randomness & Aesthetics*
-- Learn a little more about the canvas API
+- Learn a little more about the Canvas API
 - Refactor and add features to our screen savers
 
 ## II. Required Reading & Assignments (*see myCourses for due dates*)
