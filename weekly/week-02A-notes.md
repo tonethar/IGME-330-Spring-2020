@@ -22,7 +22,7 @@ Today we will:
 
 ## V. Demo
 Keep working on your Screen Saver:
-- add controls
+- add **Pause** and **Play** controls
 - create more helper functions
 
 **\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here's a challenge for you:\*\***
