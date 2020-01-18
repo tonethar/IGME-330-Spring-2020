@@ -25,6 +25,7 @@ Keep working on your Screen Saver:
 - add **Pause** and **Play** buttons
 - add a checkbox to control whether or not rectangles appear
 - create a `drawRectangle()` helper function
+- write code that "flings" rectangles onto the canvas when we click on it
 - "clean up" the code
 
 **\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
@@ -33,6 +34,7 @@ Keep working on your Screen Saver:
 - create functions named `drawLine()` and `drawCircle()` (similar to `drawRectangle()` from the demo)
 - create a `drawRing()` method that accepts an `innerRadius` and an `outerRadius` parameter (among others) and creates a ring like we did in Canvas-2 above.
 - add a `linedash` parameter to `drawRectangle()`, `drawLine()` and `drawCircle()`, and utilize it if the developer passes in an array
+- create a `drawTriangle()` function that accepts `width` and `height` parameters (among others) and draws a triangle like we did in Canvas-2 above
 
     
 ## VI. Reference
