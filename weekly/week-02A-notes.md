@@ -35,9 +35,6 @@ Keep working on Screen Saver:
 We aren't always going to have video links, but here is a re-cap of today's major topics:
 
 
-- [Week 2A - Canvas Intro - Part I (11:49)](https://video.rit.edu/Watch/k5T3Jpy2)
-- [Week 2A - Canvas Intro - Part II (11:57)](https://video.rit.edu/Watch/b5DRe4a8)
-
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
