@@ -31,6 +31,8 @@ Keep working on your Screen Saver:
 **This helper code will come in handy when we want to determine where the user clicked on the canvas:**
 
 ```js
+canvas.onclick = canvasClicked;
+
 function canvasClicked(e){
   let rect = e.target.getBoundingClientRect();
   let mouseX = e.clientX - rect.x;
