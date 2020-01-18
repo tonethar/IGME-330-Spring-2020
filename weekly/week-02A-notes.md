@@ -25,7 +25,9 @@ Keep working on your Screen Saver:
 - add controls
 - create more helper functions
 
-**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along\*\***
+**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here's a challenge for you:\*\***
+
+- create a `drawRing()` method that accepts an `innerRadius` and an `outerRadius` parameter (among others) and creates a ring like we did in Canvas-2 above.
     
 ## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
