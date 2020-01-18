@@ -22,8 +22,10 @@ Today we will:
 
 ## V. Demo
 Keep working on your Screen Saver:
-- add **Pause** and **Play** buttons, and a checkbox
-- create more helper functions
+- add **Pause** and **Play** buttons
+- add a checkbox to control whether or not rectangles appear
+- create a `drawRectangle()` helper function
+- "clean up" the code
 
 **\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
 
