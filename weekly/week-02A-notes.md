@@ -27,8 +27,6 @@ Keep working on Screen Saver:
     
 ## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
-- https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
-- More on clipping: https://stackoverflow.com/questions/18988118/how-can-i-clip-inside-a-shape-in-html5-canvas
 
 ## VI. Videos of lecture & demos
 
