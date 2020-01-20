@@ -2,17 +2,23 @@
 
 ## I. Overview
 Today we will:
-- review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md) & *smiley* HW submissions
-- look at how Canvas *tranformations* (translating, rotating, scaling) work
-- look at the Canvas drawing state "stack", and use cases for `ctx.save()` and `ctx.restore()`
+- review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md):
+  - *smiley* HW submissions
+  - all of the new drawing context *state properties* that were covered in this HW
+  - the *drawing state stack* and `ctx.save()` and `ctx.restore()`
+ 
+  ![Drawing State Stack](./_images/drawing-stack.jpg)
 
 ## II. Required Reading & Assignments
+<!--
 * Try It! *(Optional Exercise)* -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
 * Canvas Procedural Artwork with "Helper" Functions *(Optional Exercise)* -> [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 * Drawing App HW (get started on this if you have time) -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
+-->
 
 
 ## III. Presentation
+<!--
 1. Manipulating the drawing state stack via `ctx.save()` and `ctx.restore()`
 2. the **Current Transformation Matrix** (CTM)
   - `ctx.translate()`
@@ -23,8 +29,12 @@ Today we will:
     - **drawing attributes** (i.e. styles or properties):  `strokeStyle, fillStyle, globalAlpha, lineWidth, lineCap, lineJoin, miterLimit, shadowOffsetX, shadowOffsetY, shadowBlur, shadowColor, globalCompositeOperation, font, textAlign, textBaseline`
     - The **clipping region** - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
     - the **CTM** - *current transformation matrix* (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
-    
+
+-->
+
 ## IV. Demo
+
+<!--
 1. In **canvas-transforms-demo-start.html**, let's make some drawing changes to just our first green square.  We will see that using `ctx.save()` and `ctx.restore` helps to make this easier
 
 2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?  `ctx.save()` and `ctx.restore` to the rescue!
@@ -35,8 +45,13 @@ Today we will:
 
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
+-->
+
+
+
 ## V. Demo-A Start Files
 
+<!--
 **canvas-transforms-demo-start.html**
 
 ```html
@@ -130,17 +145,21 @@ Today we will:
 </body>
 </html>
 ```
+-->
 
-**Done Version:**
+<!--**Done Version:**
 
-![Screenshot](./_images/screen-saver-2C.gif)
+<!-- ![Screenshot](./_images/screen-saver-2C.gif) -->
 
-## VI. Demo-B
+
+
+<!-- ## VI. Demo-B
 - Let's use our knowledge of scale and rotate to create another screensaver!
 - Here's the start code:
 
-**screen-saver-2-start.html**
+<!--  **screen-saver-2-start.html** -->
 
+<!-- 
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -240,7 +259,7 @@ We aren't always going to have video links, but here is a re-cap of today's majo
 - [Week 2B - part IV - Animating Rotations (08:39)](https://video.rit.edu/Watch/Nx83ApHn)
 
 
-
+-->
 
 
 
