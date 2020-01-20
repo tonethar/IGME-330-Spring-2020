@@ -25,7 +25,7 @@ We will keep working on the Screen Saver:
 - add a checkbox to control whether or not rectangles appear
 - add **Pause** and **Play** buttons
 - create a `drawRectangle()` helper function
-- write code that "flings" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
+- write code that "spray paints" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 
 **This helper code will come in handy when we want to determine where the user clicked on the canvas:**
 
