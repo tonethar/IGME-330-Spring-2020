@@ -21,7 +21,7 @@ Today we will:
 - [Canvas-2 More Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md) - drawing rings, polygons, `ctx.arcTo()`, `ctx.lineJoin`, line dashes
 
 ## V. Demo
-Keep working on your Screen Saver:
+We will keep working on the Screen Saver:
 - add a checkbox to control whether or not rectangles appear
 - add **Pause** and **Play** buttons
 - create a `drawRectangle()` helper function
