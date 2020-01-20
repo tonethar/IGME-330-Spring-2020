@@ -58,11 +58,17 @@ function canvasClicked(e){
 
 We aren't always going to have video links, but here is a re-cap of today's major topics:
 
-- [Screen Saver With Controls-1](https://video.rit.edu/Watch/screen-saver-with-controls-1) - Adding a checkbox (12:33)
-- [Screen Saver With Controls-2](https://video.rit.edu/Watch/screen-saver-with-controls-2) - Adding Pause & Play buttons (06:53)
-- [Screen Saver With Controls-3](https://video.rit.edu/Watch/screen-saver-with-controls-3) - Creating a helper function (14:01)
-- [Screen Saver With Controls-4](https://video.rit.edu/Watch/screen-saver-with-controls-4) - Adding mouse interaction (08:59)
+- [Screen Saver With Controls-1 (12:33)](https://video.rit.edu/Watch/screen-saver-with-controls-1) - Adding a checkbox
+- [Screen Saver With Controls-2 (06:53)](https://video.rit.edu/Watch/screen-saver-with-controls-2) - Adding Pause & Play buttons 
+- [Screen Saver With Controls-3 (14:01)](https://video.rit.edu/Watch/screen-saver-with-controls-3) - Creating a helper function 
+- [Screen Saver With Controls-4 (08:59)](https://video.rit.edu/Watch/screen-saver-with-controls-4) - Adding mouse interaction
 
+<hr>
+
+- These videos continue with the Screen Saver, and show you a technique creating an external JS library using an IIFE - *Immediately Invoked Function Expression*. This is a requirement of Project 1. We will be covering this topic in class next week, but the video links are provided in case you are interested in learning this now:
+  - [Screen Saver With Controls-5 (22:06)](https://video.rit.edu/Watch/screen-saver-with-controls-5) - Getting rid of "magic numbers" and using an IIFE
+  - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6) - Creating an ES5 Style JS Library with an IIFE
+  
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
