@@ -2,7 +2,7 @@
 
 ## I. Overview
 Today we will:
-- review *smiley* HW submissions
+- review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md) & *smiley* HW submissions
 - look at how Canvas *tranformations* (translating, rotating, scaling) work
 - look at the Canvas drawing state "stack", and use cases for `ctx.save()` and `ctx.restore()`
 
