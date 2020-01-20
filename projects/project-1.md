@@ -7,7 +7,7 @@ You will create a compelling interactive media experience that allows the user t
 ## II. Theme
 - Explore one of the *themes* that we covered in class:
   - Randomness (Random walks - see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md) and Perlin noise)
-  - Dynamical Systems ([Lorenz Attractors](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md),Periodic functions, Phyllotaxis, ...)
+  - Dynamical Systems ([Lorenz Attractors](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md), Periodic functions, Phyllotaxis, ...)
   - Emergence (Life, Reaction Diffusion)
   - or ??? (getting permission in advance is required) - here are some ideas:
     - particle systems/falling sand app: https://github.com/pineapplemachine/websand
