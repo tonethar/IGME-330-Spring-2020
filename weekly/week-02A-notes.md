@@ -11,8 +11,9 @@ Today we will:
 
 ## II. Required Reading & Assignments (*see myCourses for due dates*)
 <!-- - Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md) -->
-- Study Guide-2 --> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 - This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter" --> [HW-Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
+- Study Guide-2 --> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+
 
 ## III. Extra Credit Opportunity (*see myCourses for due dates*)
 - This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter" --> [HW-Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
