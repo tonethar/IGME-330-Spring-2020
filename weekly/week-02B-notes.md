@@ -1,6 +1,6 @@
 # Week 2B - Periodic Functions and Algorithmic Botany
 
-# I. Overview
+## I. Overview
 Today we will:
 - Review the *Hello Canvas* HW
 - Look at how to draw Sine waves using canvas
@@ -27,7 +27,7 @@ Today we will:
 -->
 
 
-## III. Presentation
+<!--## III. Presentation-->
 <!--
 1. Manipulating the drawing state stack via `ctx.save()` and `ctx.restore()`
 2. the **Current Transformation Matrix** (CTM)
@@ -42,7 +42,9 @@ Today we will:
 
 -->
 
-## IV. Demo
+## IV. Demos & Videos
+
+- Everything is available on the linked pages above
 
 <!--
 1. In **canvas-transforms-demo-start.html**, let's make some drawing changes to just our first green square.  We will see that using `ctx.save()` and `ctx.restore` helps to make this easier
