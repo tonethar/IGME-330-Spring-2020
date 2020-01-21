@@ -49,7 +49,7 @@ Today we will:
 
 
 
-## V. Demo-A Start Files
+<!--## V. Demo-A Start Files-->
 
 <!--
 **canvas-transforms-demo-start.html**
