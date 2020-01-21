@@ -15,7 +15,7 @@ Today we will:
  
 ![Drawing State Stack](./_images/drawing-stack.jpg)
   
-2. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - this isn't HW, it's a demo. Here we are going to build both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
+2. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - this isn't HW, it's a demo. Here we are going to explore common periodic functions by building both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
 
 3. Phyllotaxis - Algorithmic Botany
 
