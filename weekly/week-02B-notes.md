@@ -4,7 +4,7 @@
 Today we will:
 - Review the *Hello Canvas* HW
 - Look at how to draw Sine waves using canvas
-- Get you started on Algorithmic Botany
+- Get you started on Algorithmic Botany (Phyllotaxis)
 
 ## II. Presentation
 
