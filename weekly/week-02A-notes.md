@@ -29,8 +29,39 @@ We will keep working on the Screen Saver:
 - create a `drawRectangle()` helper function
 - write code that "spray paints" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 
-**This helper code will come in handy when we want to determine where the user clicked on the canvas:**
+**Here's the HTML & CSS for the UI - for your copy/paste pleasure!**
 
+```html
+<section>
+  <button id="playButton">Play</button> <button id="pauseButton">Pause</button>
+</section>
+<section>
+  <span><input type="checkbox" id="rectanglesCB" checked><label for="rectanglesCB">Create Rectangles</label></span>
+</section>
+<section>
+  <p>Click on the screen to "spraypaint" rectangles (you probably want the screensaver to be paused)</p>
+</section>
+```
+
+```css
+body{
+  font-family: sans-serif;
+}
+	
+canvas{
+  border:1px solid gray;
+}
+	
+button{
+  font-size:1.2em;
+}
+
+section{
+  margin:.5em 0 .5em 0;
+}
+```
+
+**This helper code will come in handy when we want to determine where the user clicked on the canvas:**
 ```js
 canvas.onclick = canvasClicked;
 
