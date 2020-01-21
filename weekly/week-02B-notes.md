@@ -2,7 +2,7 @@
 
 ## I. Overview
 Today we will:
-- review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md):
+- Review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md):
   - *smiley* HW submissions
   - all of the new drawing context *state properties* that were covered in this HW
   - the *drawing state stack* and `ctx.save()` and `ctx.restore()`
