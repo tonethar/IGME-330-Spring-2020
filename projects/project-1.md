@@ -47,6 +47,7 @@ You will create a compelling interactive media experience that allows the user t
   - these functions are contained in an IIFE
   - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials
   - as "utility" functions these are ["pure functions"](https://en.wikipedia.org/wiki/Pure_function) - meaning that ...
+  - we covered this on the videos linked from [week-02A-notes.md](../weekly/week-02A-notes.md)
   
 ### IV-C. ES6 Class
 - the app must utilize at least one ES6 class
