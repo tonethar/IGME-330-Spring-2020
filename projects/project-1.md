@@ -2,6 +2,9 @@
 
 ## I. Overview
 
+***Note: the description and rubric of this project will be complete and assigned on Tuesday 1/28/2020 (beginning of week 3)***
+***Prior to that date, it's not too early to think about what you'd like to make!***
+
 You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
 
 ## II. Theme
@@ -52,7 +55,9 @@ You will create a compelling interactive media experience that allows the user t
   
 
 ## VI. User Experience
-- Text Content title (in an &lt;h1></h1> and a description of the project:
+- Text Content:
+  - title (in an &lt;h1></h1>
+  - a description of the project
 - Controls:
   - At least XX distinct DOM controls that have a **meaningful effect on the experience**, in at least XX of the following categories:
     - buttons
