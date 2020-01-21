@@ -1,15 +1,25 @@
-# Week 2B - Canvas Affine Transformations
+# Week 2B - Periodic Functions and Algorithmic Botany
 
-## I. Overview
+# I. Overview
 Today we will:
-- Review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md):
+- Review the *Hello Canvas* HW
+- Look at how to draw Sine waves using canvas
+- Get you started on Algorithmic Botany
+
+## II. Presentation
+
+1. Review [HW - Hello Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md):
   - *smiley* HW submissions
   - all of the new drawing context *state properties* that were covered in this HW
   - the *drawing state stack* and `ctx.save()` and `ctx.restore()`
  
-  ![Drawing State Stack](./_images/drawing-stack.jpg)
+![Drawing State Stack](./_images/drawing-stack.jpg)
+  
+2. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - this isn't HW, it's a demo. Here we are going to build both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
 
-## II. Required Reading & Assignments
+3. Phyllotaxis - Algorithmic Botany
+
+<!--## II. Required Reading & Assignments -->
 <!--
 * Try It! *(Optional Exercise)* -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
 * Canvas Procedural Artwork with "Helper" Functions *(Optional Exercise)* -> [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
