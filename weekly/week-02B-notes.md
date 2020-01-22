@@ -1,7 +1,9 @@
 # Week 2B - Periodic Functions and Algorithmic Botany
 
 ## I. Overview
-Today we will:
+Topics:
+- Any questions about "Screen Saver plus Controls" from last time?
+  - Reminder: be sure to watch the rest of the lecture videos!
 - Review the *Hello Canvas* HW
 - Look at how to draw Sine waves using canvas
 - Get you started on Algorithmic Botany (Phyllotaxis)
