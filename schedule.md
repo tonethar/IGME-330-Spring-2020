@@ -29,9 +29,9 @@
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
   - [Week 1B - Canvas Demo](weekly/week-01B-notes.md)
   
-## <a id="week2">Week 2 : Intro to Canvas Drawing API & Transforms
+## <a id="week2">Week 2 : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany
   - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
-  - [Week 2B - Canvas Affine Transformations](weekly/week-02B-notes.md)
+  - [Week 2B - Periodic Functions & Algorithmic Botany](weekly/week-02B-notes.md)
   
 ## <a id="week3">Week 3 : More Canvas & Manipulating Bitmap data
   - [Week 3A - Review Recent HW & Build a Paint App](weekly/week-03A-notes.md)
