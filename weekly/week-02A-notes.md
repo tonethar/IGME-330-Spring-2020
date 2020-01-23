@@ -104,7 +104,9 @@ The following two videos continue with the Screen Saver, and show you a techniqu
 - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6) - Creating an ES5 Style JS Library with an IIFE
 
 <hr><hr>
-  - If you code the Play button the way we did in the video, there's a problem. Click the Play button repeatedly and you'll see what the issue is. Go ahead and try to fix this - you can do so with just one line of code.
+
+ \* ***If you code the Play button the way we did in the video, there's a problem. Click the Play button repeatedly and you'll see what the issue is. Go ahead and try to fix this - you can do so with just one line of code.***
+ 
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
