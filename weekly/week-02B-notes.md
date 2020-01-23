@@ -1,4 +1,4 @@
-# Week 2B - Periodic Functions and Algorithmic Botany
+# Week 2B - Periodic Functions & Algorithmic Botany
 
 ## I. Overview
 Topics:
