@@ -8,7 +8,7 @@
 ### Weekly Outline
 
 - [Week 01 (Jan 13) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Jan 20) : Intro to Canvas Drawing API & Affine Transforms](#week2)
+- [Week 02 (Jan 20) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
 - [Week 03 (Jan 27) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Feb 03) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Feb 10) : More Web Audio / ES6 Module Pattern](#week5)
