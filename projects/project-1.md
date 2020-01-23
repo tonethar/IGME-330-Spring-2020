@@ -15,7 +15,7 @@ You will create a compelling interactive media experience that allows the user t
   - Dynamical Systems:
     - Chaotic Systems - see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions - see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
-    - Phyllotaxis (IGME-330 video coming soon)
+    - Phyllotaxis - see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
     - Perlin Noise --> RESOURCES: Coding Train [Coding Challenge #136.1: Polar Perlin Noise Loops](https://www.youtube.com/watch?v=ZI1dmHv3MeM) & [Noisejs](https://github.com/josephg/noisejs)
   - Emergence:
     - Life (IGME-330 video coming soon)
