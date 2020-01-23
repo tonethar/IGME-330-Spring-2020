@@ -92,7 +92,7 @@ function canvasClicked(e){
 We aren't always going to have video links, but here is a re-cap of today's major topics:
 
 - [Screen Saver With Controls-1 (12:33)](https://video.rit.edu/Watch/screen-saver-with-controls-1) - Adding a checkbox
-- [Screen Saver With Controls-2 (06:53)](https://video.rit.edu/Watch/screen-saver-with-controls-2) - Adding Pause & Play buttons 
+- [Screen Saver With Controls-2 (06:53)](https://video.rit.edu/Watch/screen-saver-with-controls-2) - Adding Pause & Play buttons \*
 - [Screen Saver With Controls-3 (14:01)](https://video.rit.edu/Watch/screen-saver-with-controls-3) - Creating a helper function 
 - [Screen Saver With Controls-4 (08:59)](https://video.rit.edu/Watch/screen-saver-with-controls-4) - Adding mouse interaction
 
@@ -102,7 +102,9 @@ The following two videos continue with the Screen Saver, and show you a techniqu
 
 - [Screen Saver With Controls-5 (22:06)](https://video.rit.edu/Watch/screen-saver-with-controls-5) - Getting rid of "magic numbers" and using an IIFE to remove our varaibles and functions from global scope
 - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6) - Creating an ES5 Style JS Library with an IIFE
-  
+
+<hr><hr>
+  - If you code the Play button the way we did in the video, there's a problem. Click the Play button repeatedly and you'll see what the issue is. Go ahead and try to fix this - you can do so with just one line of code.
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
