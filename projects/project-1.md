@@ -10,7 +10,7 @@ You will create a compelling interactive media experience that allows the user t
 
 <a id="theme"/>
 
-## II. Theme
+## II. Theme/Impact
 - Explore **one** of the *themes* that we covered in class:
   - Randomness:
     - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
@@ -27,6 +27,8 @@ You will create a compelling interactive media experience that allows the user t
     - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
+- **Impact:**
+  - 
     
 <a id="media"/>
 
@@ -73,9 +75,9 @@ You will create a compelling interactive media experience that allows the user t
 - Text Content:
   - title the app - in an &lt;h1></h1>, probably using an embedded font
   - a description of the project and instructions
-  - use the `title` attribute to provide tooltips to the user
+  - if needed, use the `title` attribute to provide tooltips to the user
 - Controls:
-  - At least 3 distinct DOM controls that have a **meaningful effect on the experience**, in at least XX of the following categories:
+  - *At least* 3 distinct DOM controls that have a **meaningful effect on the experience**, in at least 2 of the following categories:
     - buttons
     - sliders
     - pulldowns
@@ -146,7 +148,7 @@ Note:
 
 
 
-## IX. Submission
+## VIII. Submission
 - Documentation is required and consists of:
   - ...
 - See dropbox for deliverables and due dates
