@@ -1,5 +1,23 @@
 # Project 1 - *Interactive Sandbox* (DRAFT):
 
+[I. Overview](#overview)
+
+[II. Theme & Impact](#theme)
+
+[III. Media](#media)
+
+[IV. Code](#code)
+
+[V. User Experience](#user-experience)
+
+[VI. Examples](#examples)
+
+[VII. Rubric](#rubric)
+
+[VIII. Submission](#submission)
+
+<a id="overview"/>
+
 ## I. Overview
 
 ***\*\*Note: the description and rubric of this project will be complete and assigned on Tuesday 1/28/2020 (beginning of week 3)\*\****
@@ -102,6 +120,7 @@ You will create a compelling interactive media experience that allows the user t
     - checkboxes
   - Mouse interaction would be a nice plus, but is not required
 
+<a id="examples"/>
 
 ## VI. Examples
 
@@ -113,6 +132,7 @@ You will create a compelling interactive media experience that allows the user t
 
 ![image](_images/life-example.gif)
 
+<a id="rubric"/>
 
 ## VII. Rubric
 
@@ -165,6 +185,7 @@ Note:
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
 
+<a id="submission"/>
 
 ## VIII. Submission
 - Documentation is required and consists of:
