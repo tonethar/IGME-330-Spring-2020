@@ -183,6 +183,11 @@ You will create a compelling interactive media experience that allows the user t
 <a id="submission"/>
 
 ## VIII. Submission
-- Documentation is required and consists of:
-  - ...
+- Documentation is required:
+  - It's a good idea to document things as you are working on the project
+  - Consider setting up a google doc right away so that you can posts links and other information there as you are working.
+  - Elucidate how you met the 4 categories of requirements, and be specific about any extras you did - i.e. what code you wrote, where you went "above and beyond", and so on
+  - Discuss what went right and what went wrong. List what features you would have liked to add to the project if you'd had more time/energy
+  - Declare any non-course resources (libraries, sounds, images, tutorials, sample code) you utilized, in both your code comments, and in the final documentation of the project. Note: You don't have to document that you used the code we gave you in class
+  - Grade the overall project and justify it. Use a grade of 0-100%.
 - See dropbox for deliverables and due dates
