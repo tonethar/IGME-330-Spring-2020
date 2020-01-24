@@ -88,9 +88,11 @@ You will create a compelling interactive media experience that allows the user t
 
 ## V. User Experience
 - Text Content:
-  - title the app - in an &lt;h1></h1>, probably using an embedded font
-  - a description of the project and instructions
-  - if needed, use the `title` attribute to provide tooltips to the user
+  - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
+  - title the app - in an &lt;h1></h1> element, probably using an embedded font
+  - a description of what theme the project is exploring
+  - instructions on how to use the app
+  - if needed, use the `title` attribute of HTML elements to provide tooltips to the user
 - Controls:
   - *At least* 3 distinct DOM controls that have a **meaningful effect on the experience** by allowing the user to adjust various parameters of the experience, in at least 2 of the following categories:
     - buttons (pause and play buttons DO NOT count towards this requirement)
@@ -129,6 +131,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - Does the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
+|     **Overall:** Excellent/Outstanding (50/50), Very Good (45/50), Good (40/50), Fair (30-35)  | |
 | **B. [User Experience](#user-experience)** | **20** | |
 |    1. Has required controls | |
 |    2. Runs without errors | |
@@ -143,8 +146,9 @@ You will create a compelling interactive media experience that allows the user t
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
 |    - *Majority of CSS not in external file* | *(-5)* |
-|    - *Missing required semantic HTML elements* | *(-5 each)* |
+|    - *Missing required semantic HTML elements* | *(-5)* |
 |    - *Missing an embedded font* | *(-5)* | |
+|    - *Images not properly optimized* | *(-5)* | |
 | **D. [Code](#code)**  | **15** | |
 |    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
@@ -152,9 +156,6 @@ You will create a compelling interactive media experience that allows the user t
 
 | **Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-
-| *Deduction if missing a CSS framework or modern web layout* | *(-10)* | |
-
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
