@@ -155,6 +155,7 @@ You will create a compelling interactive media experience that allows the user t
 |    6. Users should be able to figure out how to use the app with minimal instruction | |
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
+|    **Overall:** You *should* aim to score 20/20 in this category ||
 | **C. [Media](#media)**  | **15** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
@@ -163,20 +164,17 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Missing required semantic HTML elements* | *(-5)* |
 |    - *Missing an embedded font* | *(-5)* | |
 |    - *Images not properly optimized* | *(-5)* | |
+|    **Overall:** You *should* aim to score 15/15 in this category ||
 | **D. [Code](#code)**  | **15** | |
 |    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
 |    3. *Missing ES5-style/IIFE Library* | *(-10)* | |
-
+|    **Overall:** You *should* aim to score 15/15 in this category ||
 | **Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
-Note:
-- **Good** (Meet all requirements above reasonably well) = 90%
-- **Better** (Go beyond expectations in 2 or more areas) = 95%
-- **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
 
 <a id="submission"/>
