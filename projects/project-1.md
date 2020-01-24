@@ -131,7 +131,8 @@ You will create a compelling interactive media experience that allows the user t
 |    - Does the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
-|     **Overall:** Excellent/Outstanding (50/50), Very Good (45/50), Good (40/50), Fair (30-35)  | |
+|     **Overall:** Excellent/Outstanding (50/50), Very Good (45/50), Good (40/50) | |
+|     Fair (30-35)  | |
 | **B. [User Experience](#user-experience)** | **20** | |
 |    1. Has required controls | |
 |    2. Runs without errors | |
