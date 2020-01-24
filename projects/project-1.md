@@ -23,13 +23,14 @@ You will create a compelling interactive media experience that allows the user t
     - Life (IGME-330 video coming soon)
     - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s)
   - or ??? (getting permission in advance is required) - here are some ideas:
+    - Generative Art - here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
     - Particle systems/falling sand app: https://github.com/pineapplemachine/websand
     - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
-- **Impact:**
-  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
-  - This app 
+- *Impact:*
+  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
+  - There must be a compelling 
     
 <a id="media"/>
 
