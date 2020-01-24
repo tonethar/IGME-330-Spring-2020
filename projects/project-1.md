@@ -85,7 +85,7 @@ You will create a compelling interactive media experience that allows the user t
 - `"use strict";` at the top of every JS file
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
-- `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc are NOT allowed
+-  NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button> are NOT allowed
 
