@@ -58,10 +58,10 @@ You will create a compelling interactive media experience that allows the user t
 <a id="media"/>
 
 ## III. Media
-- Procedural drawing via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class (e.g. Processing, Pixi.js, WebGL et al are NOT allowed):
+- Procedural drawing via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL et al are NOT allowed):
   - canvas methods must be used for rectangles, arcs and lines
   - `ctx.save()` and `ctx.restore()` must be used
-  - avoid using of convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
+  - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
 - HTML:
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` (use at *least* 3 of these)
 - CSS:
