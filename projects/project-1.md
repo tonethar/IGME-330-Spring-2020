@@ -170,6 +170,7 @@ You will create a compelling interactive media experience that allows the user t
 |    2. *Inline event handlers used* | *(-5)* |
 |    3. *Missing ES5-style/IIFE Library* | *(-10)* | |
 |    **Overall:** You *should* aim to score 15/15 in this category ||
+| | |
 | **Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
