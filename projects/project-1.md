@@ -30,14 +30,14 @@ You will create a compelling interactive media experience that allows the user t
 
 ## II. Theme & Impact
 - Explore **one** of the *themes* that we covered in class:
-  - Randomness:
+  - *Randomness*:
     - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
-  - Dynamical Systems:
+  - *Dynamical Systems*:
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
     - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
     - Perlin Noise --> RESOURCES: Coding Train [Coding Challenge #136.1: Polar Perlin Noise Loops](https://www.youtube.com/watch?v=ZI1dmHv3MeM) & [Noisejs](https://github.com/josephg/noisejs)
-  - Emergence:
+  - *Emergence*:
     - Life (IGME-330 video coming soon)
     - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s)
   - or ??? (getting permission in advance is required) - here are some ideas:
