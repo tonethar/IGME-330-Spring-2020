@@ -29,12 +29,13 @@ You will create a compelling interactive media experience that allows the user t
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
 - *Impact:*
-  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
-  - The app must do something that would be meaningful to the user, allowing them to explore your chosen theme in a compelling way.
+  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
+  - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - doing the minimum on many elements of the rubric below - for example, writing *exactly* 3 utility functions, creating *exactly* 3 controls, having exactly 5 CSS style rules ... - rather than letting the amount of these to be driven by what the app requires to work well
-    - copying/pasting styles and layout from the demos and exercises, rather than creating their own
+    - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
+    - mimimal modification or extension of the in-class code that was provided to them
     
 <a id="media"/>
 
@@ -47,7 +48,7 @@ You will create a compelling interactive media experience that allows the user t
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` etc
 - CSS:
   - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
-  - embedded font and CSS is required
+  - an embedded font (ex. Google Fonts) is required
 - Images:
   - if you end up using images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
 
