@@ -32,7 +32,7 @@ You will create a compelling interactive media experience that allows the user t
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
   - The app must do something that would be meaningful to the user, allowing them to explore your chosen theme in a compelling way.
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
-  - Here are some examples of the reverse:
+  - Here are some examples of the reverse (e.g. these are counter-examples):
     - doing the minimum on many elements of the rubric below - for example, writing *exactly* 3 utility functions, creating *exactly* 3 controls, having exactly 5 CSS style rules ... - rather than letting the amount of these to be driven by what the app requires to work well
     - copying/pasting styles and layout from the demos and exercises, rather than creating their own
     
