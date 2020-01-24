@@ -38,11 +38,13 @@ You will create a compelling interactive media experience that allows the user t
   - rectangles, arcs, lines
   - `ctx.save()` and `ctx.restore()`
   - use of convenience methods `ctx.fillRect()` and 
-- HTML
+- HTML:
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` etc
-- CSS
+- CSS:
   - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
   - embedded font and CSS is required
+- Images:
+  - if you end up using images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
 
 <a id="code"/>
 
