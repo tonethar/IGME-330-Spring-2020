@@ -78,7 +78,7 @@ You will create a compelling interactive media experience that allows the user t
 - The app file name is **index.html**
 - Most of the app's code is in a file named **index.js**, which is linked from **index.html**
   - Most of the rest of the app's code is in your "User-created JS library" (see below)
-- 
+- HTML/CSS/JS/Image files are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**
 
 ### IV-B. Coding standards
 - `"use strict";` at the top of every JS file
