@@ -135,12 +135,6 @@ You will create a compelling interactive media experience that allows the user t
 <a id="rubric"/>
 
 ## VII. Rubric
-
-- HTML/CSS
-  - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` etc
-  - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
-- JavaScript
-  - coding standards not followed (-1 to -5 per infraction)
   
   Your project will be graded on the following criteria:
 
