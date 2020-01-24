@@ -30,7 +30,11 @@ You will create a compelling interactive media experience that allows the user t
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
-  - There must be a compelling 
+  - The app must do something that would be meaningful to the user, allowing them to explore your chosen theme in a compelling way.
+  - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
+  - Here are some examples of the reverse:
+    - doing the minimum on many elements of the rubric below - for example, writing *exactly* 3 utility functions, creating *exactly* 3 controls, having exactly 5 CSS style rules ... - rather than letting the amount of these to be driven by what the app requires to work well
+    - copying/pasting styles and layout from the demos and exercises, rather than creating their own
     
 <a id="media"/>
 
@@ -87,8 +91,8 @@ You will create a compelling interactive media experience that allows the user t
   - a description of the project and instructions
   - if needed, use the `title` attribute to provide tooltips to the user
 - Controls:
-  - *At least* 3 distinct DOM controls that have a **meaningful effect on the experience**, in at least 2 of the following categories:
-    - buttons
+  - *At least* 3 distinct DOM controls that have a **meaningful effect on the experience** by allowing the user to adjust various parameters of the experience, in at least 2 of the following categories:
+    - buttons (pause and play buttons DO NOT count towards this requirement)
     - sliders
     - pulldowns
     - radio buttons
@@ -105,6 +109,7 @@ You will create a compelling interactive media experience that allows the user t
 ### Conway's Game of Life
 
 ![image](_images/life-example.gif)
+
 
 ## VII. Rubric
 
