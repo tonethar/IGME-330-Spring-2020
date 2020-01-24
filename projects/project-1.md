@@ -42,7 +42,7 @@ You will create a compelling interactive media experience that allows the user t
 - Procedural drawing via canvas:
   - rectangles, arcs, lines
   - `ctx.save()` and `ctx.restore()`
-  - use of convenience methods `ctx.fillRect()` and 
+  - avoid using of convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
 - HTML:
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` etc
 - CSS:
