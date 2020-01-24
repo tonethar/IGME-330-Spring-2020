@@ -142,7 +142,7 @@ You will create a compelling interactive media experience that allows the user t
 | -------- | ------ | ---------- |
 | **A. [Overall Theme/Impact](#theme)** | **50** | |
 |    - Does the app have an coherent and identifiable theme? | |
-|    - Does the app work as intended and visually engaging? | |
+|    - Does the app work as intended and it is reasonably engaging (both visually and otherwise)? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
 |    **Overall:** Excellent/Outstanding (A+ = 50/50), Very Good (A = 45/50), Good (40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
