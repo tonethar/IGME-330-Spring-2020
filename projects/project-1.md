@@ -146,6 +146,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
 |    **Overall:** Excellent/Outstanding (A+ = 50/50), Very Good (A = 45/50), Good (40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
+| &nbsp; | &nbsp; |
 | **B. [User Experience](#user-experience)** | **20** | |
 |    1. Has required controls | |
 |    2. Runs without errors | |
@@ -156,6 +157,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
 |    **Overall:** You *should* aim to score 20/20 in this category ||
+| &nbsp; | &nbsp; |
 | **C. [Media](#media)**  | **15** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
@@ -165,6 +167,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Missing an embedded font* | *(-5)* | |
 |    - *Images not properly optimized* | *(-5)* | |
 |    **Overall:** You *should* aim to score 15/15 in this category ||
+| &nbsp; | &nbsp; |
 | **D. [Code](#code)**  | **15** | |
 |    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
@@ -172,6 +175,7 @@ You will create a compelling interactive media experience that allows the user t
 |    **Overall:** You *should* aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Possible Total Points** | **100** | |
+| &nbsp; | &nbsp; |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
