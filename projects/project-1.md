@@ -10,7 +10,7 @@ You will create a compelling interactive media experience that allows the user t
 
 <a id="theme"/>
 
-## II. Theme/Impact
+## II. Theme & Impact
 - Explore **one** of the *themes* that we covered in class:
   - Randomness:
     - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
