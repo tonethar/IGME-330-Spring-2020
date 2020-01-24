@@ -50,6 +50,7 @@ You will create a compelling interactive media experience that allows the user t
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, `document.querySelector()` and `document.querySelectorAll()` only. `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc are NOT allowed
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
+- "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button> are NOT allowed
 
 ### IV-B. User-created JS library
 - we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-02A-notes.md](../weekly/week-02A-notes.md)
@@ -68,7 +69,7 @@ You will create a compelling interactive media experience that allows the user t
   
 <a id="user-experience"/>
 
-## VI. User Experience
+## V. User Experience
 - Text Content:
   - title the app - in an &lt;h1></h1>, probably using an embedded font
   - a description of the project and instructions
@@ -83,7 +84,7 @@ You will create a compelling interactive media experience that allows the user t
   - Mouse interaction would be a nice plus, but is not required
 
 
-## VII. Examples
+## VI. Examples
 
 ### Spiral Generator (Procedural flower petal generation - *phylotaxis*)
 
@@ -93,7 +94,7 @@ You will create a compelling interactive media experience that allows the user t
 
 ![image](_images/life-example.gif)
 
-## VIII. Rubric
+## VII. Rubric
 
 - HTML/CSS
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` etc
@@ -105,12 +106,12 @@ You will create a compelling interactive media experience that allows the user t
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Overall Theme/Impact](#theme)** | **20** | |
+| **A. [Overall Theme/Impact](#theme)** | **25** | |
 |    - Does the app have an coherent and identifiable theme? | |
 |    - Does the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
-| **B. [User Experience](#user-experience)** | **15** | |
+| **B. [User Experience](#user-experience)** | **25** | |
 |    1. Has required controls | |
 |    2. Runs without errors | |
 |    3. Starts in a pleasing state | |
@@ -119,14 +120,14 @@ You will create a compelling interactive media experience that allows the user t
 |    6. Users should be able to figure out how to use the app with minimal instruction | |
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
-| **C. [Media](#canvas)**  | **15** | |
+| **C. [Media](#canvas)**  | **25** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
 |    - *Majority of CSS not in external file* | *(-5)* |
 |    - *Missing required HTML elements* | *(-5 each)* |
-| **D. [Code](#code)**  | **5** | |
-|    1. *Conventions NOT followed* | *(-1 to -5)* |
+| **D. [Code](#code)**  | **25** | |
+|    1. *Standards NOT followed* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
 
 | **Above and Beyond (You need to document this)** | **5** | |
