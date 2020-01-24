@@ -180,8 +180,6 @@ You will create a compelling interactive media experience that allows the user t
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
-
-
 <a id="submission"/>
 
 ## VIII. Submission
