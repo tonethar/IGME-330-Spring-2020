@@ -156,7 +156,7 @@ You will create a compelling interactive media experience that allows the user t
 |    6. Users should be able to figure out how to use the app with minimal instruction | |
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
-|    **Overall:** You *should* aim to score 20/20 in this category ||
+|    **Overall:** You should aim to score 20/20 in this category ||
 | &nbsp; | &nbsp; |
 | **C. [Media](#media)**  | **15** | |
 |    1. Valid HTML | |
@@ -166,13 +166,13 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Missing required semantic HTML elements* | *(-5)* |
 |    - *Missing an embedded font* | *(-5)* | |
 |    - *Images not properly optimized* | *(-5)* | |
-|    **Overall:** You *should* aim to score 15/15 in this category ||
+|    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **D. [Code](#code)**  | **15** | |
 |    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
 |    3. *Missing ES5-style/IIFE Library* | *(-10)* | |
-|    **Overall:** You *should* aim to score 15/15 in this category ||
+|    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
 | &nbsp; | &nbsp; |
