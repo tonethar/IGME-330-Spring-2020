@@ -28,7 +28,8 @@ You will create a compelling interactive media experience that allows the user t
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
 - **Impact:**
-  - 
+  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
+  - This app 
     
 <a id="media"/>
 
@@ -47,14 +48,20 @@ You will create a compelling interactive media experience that allows the user t
 
 ## IV. Code
 
-### IV-A. Coding standards
+### IV-A. File Naming Conventions
+- The app file name is **index.html**
+- Most of the app's code is in a file named **index.js**, which is linked from **index.html**
+  - Most of the rest of the app's code is in your "User-created JS library" (see below)
+- 
+
+### IV-B. Coding standards
 - `"use strict";` at the top of every JS file
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, `document.querySelector()` and `document.querySelectorAll()` only. `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc are NOT allowed
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button> are NOT allowed
 
-### IV-B. User-created JS library
+### IV-C. User-created JS library
 - we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-02A-notes.md](../weekly/week-02A-notes.md)
 - the file - named `abcLIB.js` - where `abc` are your initials - will:
   - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...)
@@ -63,10 +70,10 @@ You will create a compelling interactive media experience that allows the user t
   - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials (as was shown in the videos)
   - as "utility" functions these must be "pure functions" - [Wikipedia - Pure Function](https://en.wikipedia.org/wiki/Pure_function) - see #1 and #2 in the definition
   
-### IV-C. ES6 Class
+### IV-D. ES6 Class
 - the app must utilize at least one [ES6 class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-### IV-D. Third-party libraries
+### IV-E. Third-party libraries
 - NOT allowed without advance approval
   
 <a id="user-experience"/>
@@ -108,12 +115,12 @@ You will create a compelling interactive media experience that allows the user t
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Overall Theme/Impact](#theme)** | **25** | |
+| **A. [Overall Theme/Impact](#theme)** | **50** | |
 |    - Does the app have an coherent and identifiable theme? | |
 |    - Does the app work as intended and visually engaging? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
 |    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
-| **B. [User Experience](#user-experience)** | **25** | |
+| **B. [User Experience](#user-experience)** | **20** | |
 |    1. Has required controls | |
 |    2. Runs without errors | |
 |    3. Starts in a pleasing state | |
@@ -122,22 +129,23 @@ You will create a compelling interactive media experience that allows the user t
 |    6. Users should be able to figure out how to use the app with minimal instruction | |
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
-| **C. [Media](#canvas)**  | **25** | |
+| **C. [Media](#media)**  | **15** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
 |    - *Majority of CSS not in external file* | *(-5)* |
-|    - *Missing required HTML elements* | *(-5 each)* |
-| **D. [Code](#code)**  | **25** | |
-|    1. *Standards NOT followed* | *(-1 to -5)* |
+|    - *Missing required semantic HTML elements* | *(-5 each)* |
+|    - *Missing an embedded font* | *(-5)* | |
+| **D. [Code](#code)**  | **15** | |
+|    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
 |    2. *Inline event handlers used* | *(-5)* |
+|    3. *Missing ES5-style/IIFE Library* | *(-10)* | |
 
-| **Above and Beyond (You need to document this)** | **5** | |
 | **Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-| *Deduction if missing an embedded font* | *(-5)* | |
+
 | *Deduction if missing a CSS framework or modern web layout* | *(-10)* | |
-| *Deduction if missing ES6 Module Pattern* | *(-15)* | |
+
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
