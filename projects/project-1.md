@@ -182,9 +182,11 @@ You will create a compelling interactive media experience that allows the user t
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **D. [Code](#code)**  | **15** | |
-|    1. *Standards NOT followed (per incident)* | *(-1 to -5)* |
-|    2. *Inline event handlers used* | *(-5)* |
-|    3. *Missing ES5-style/IIFE Library* | *(-10)* | |
+|    1. *File Naming standards NOT followed (per incident)* | *(-1 to -5)* |
+|    2. *Code standards NOT followed (per incident)* | *(-1 to -5)* |
+|    3. *Inline event handlers used* | *(-5)* |
+|    4. *Missing ES5-style/IIFE Library* | *(-10)* | |
+|    4. *Missing index.js* | *(-10)* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
