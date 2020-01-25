@@ -170,13 +170,15 @@ You will create a compelling interactive media experience that allows the user t
 |    **Overall:** You should aim to score 20/20 in this category ||
 | &nbsp; | &nbsp; |
 | **C. [Media](#media)**  | **15** | |
-|    1. Valid HTML | |
-|    2. Valid CSS | |
-|    3. Images properly optimized | |
-|    - *Majority of CSS not in external file* | *(-5)* |
+|    - *CSS does not pass validation* | *(-5)* |
+|    - *HTML does not pass validation* | *(-5)* |
 |    - *Missing required semantic HTML elements* | *(-5)* |
+|    - *Majority of CSS is not in an external stylesheet* | *(-5)* |
 |    - *Missing an embedded font* | *(-5)* | |
 |    - *Images not properly optimized* | *(-5)* | |
+|    - *Did not use 'canvas.save()` or `canvas.restore`* | *(-5)* | |
+|    - *Did not draw rectangles, arcs, and lines`* | *(-5)* | |
+|    - *Did not use canvas API* | *0 grade on project* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **D. [Code](#code)**  | **15** | |
