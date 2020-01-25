@@ -12,18 +12,29 @@
     - look at submissions
 - [Project 1](../projects/project-1.md) assigned! See dropboxes for due dates
 
-## II. Resources
+## II. Lecture - the IIFE - "Immediately Invoked Function Expression"
 
-- https://developer.mozilla.org/en-US/docs/Glossary/IIFE
 
-## III.
+- Let's head right to this page:
+  - https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+- ... which has a nice explanation of how an IIFE works, and what it is for, which is primarily:
+  - to create a private scope for a module (of code)
+  - to avoid "polluting" the browser's global scope
+- Used to be called a "Self-executing anonymous function"
+- With ES5 in a web browser, the only way to create truly *private* scope is by declaring variables and functions *inside* of an enclosing function
+
+
+## III. Demo
+- Let's go ahead and try out these IIFE examples in the page linked above
+  - Example #1 
+
 
 
 ## IV. Videos
 
 These videos were originally linked to on 2A:
 
-- [Screen Saver With Controls-5 (22:06)](https://video.rit.edu/Watch/screen-saver-with-controls-5) - Getting rid of "magic numbers" and using an IIFE ("immediately invoked function expression")to remove our varaibles and functions from global scope
+- [Screen Saver With Controls-5 (22:06)](https://video.rit.edu/Watch/screen-saver-with-controls-5) - Getting rid of "magic numbers" and using an IIFE ("immediately invoked function expression") to remove our variables and functions from global scope
 - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6) - Creating an ES5 Style JS Library with an IIFE
 
 
