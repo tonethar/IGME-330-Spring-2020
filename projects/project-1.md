@@ -177,7 +177,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Missing an embedded font* | *(-5)* | |
 |    - *Images not properly optimized* | *(-5)* | |
 |    - *Did not use `canvas.save()` or `canvas.restore()`* | *(-5)* | |
-|    - *Did not draw rectangles, arcs, and lines`* | *(-10)* | |
+|    - *Did not draw rectangles, arcs, and lines* | *(-10)* | |
 |    - *Did not use canvas API* | *0 grade on project* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
