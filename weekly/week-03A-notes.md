@@ -4,7 +4,7 @@
 ## I. Overview
 - Review [HW-SG-1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md):
   - look at Smiley submissions
-    - Concepts covered - this was mostly a review of what we have been doing in class (which is a good thing!)
+  - concepts covered - this was mostly a review of what we have been doing in class (which is a good thing!)
 - Review Periodic Functions & Phyllotaxis HW:
   - [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
     - look at submissions
