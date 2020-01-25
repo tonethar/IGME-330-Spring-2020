@@ -27,7 +27,7 @@
     - time allowing, we'll also take a quick look at how RiTa.js structures their library using an IIFE: https://rednoise.org/rita/download.php
 
 
-**Try it:** Once everything is working, move the remaining JS code in your HTML to an external JS file named **index.js**
+**Try it:** Once everything is working, move the remaining JS code in your HTML to an external JS file named **index.js**, and then import it with a &lt;script> tag
 
 
 ## IV. Videos
