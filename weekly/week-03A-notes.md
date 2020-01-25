@@ -16,6 +16,7 @@
 
 ## II. Lecture/Demo - the JavaScript IIFE
 - Stands for "Immediately Invoked Function Expression"
+- Using these is one of the requirements for Project 1
 - See [IIFE Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/IIFE-notes.md) & demo
 
 ## III. Demo - Modifying your "Screen Saver with Controls"
