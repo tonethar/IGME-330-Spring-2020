@@ -17,13 +17,7 @@
 ## II. Lecture - the IIFE - "Immediately Invoked Function Expression"
 
 
-- Let's head right to this page:
-  - https://developer.mozilla.org/en-US/docs/Glossary/IIFE
-- ... which has a nice explanation of how an IIFE works, and what it is for, which is primarily:
-  - to create a private scope for a module (of code)
-  - to avoid "polluting" the browser's global scope
-- Used to be called a "Self-executing anonymous function"
-- With ES5 in a web browser, the only way to create truly *private* scope is by declaring variables and functions *inside* of an enclosing function
+
 
 
 ## III. Demo
