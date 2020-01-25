@@ -160,7 +160,7 @@ You will create a compelling interactive media experience that allows the user t
 | &nbsp; | &nbsp; |
 | **B. [User Experience](#user-experience)** | **20** | |
 |    1. The purpose of the app and how to use it are obvious | |
-|    2. Users should be able to figure out how to use the app with minimal instruction | |
+|    2. Users should be able to figure out how to use the app with minimal instruction. The app runs without errors | |
 |    3. Has required text content | |
 |    4. Has required controls. Widgets are well labeled and follow interface conventions | |
 |    5. Runs without errors | |
