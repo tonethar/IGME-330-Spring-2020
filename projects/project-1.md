@@ -114,6 +114,8 @@ You will create a compelling interactive media experience that allows the user t
 ## V. User Experience
 - Usability:
   - the purpose of the app and how to use it should be obvious
+  - users should be able to figure out how to use the app with minimal instruction
+  - the app must run without errors
 - Text Content:
   - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
   - title the app - in an &lt;h1></h1> element, probably using an embedded font
@@ -158,13 +160,11 @@ You will create a compelling interactive media experience that allows the user t
 | &nbsp; | &nbsp; |
 | **B. [User Experience](#user-experience)** | **20** | |
 |    1. The purpose of the app and how to use it are obvious | |
-|    2. Has required text content | |
-|    3. Has required controls | |
-|    4. Runs without errors | |
-|    3. Starts in a pleasing state | |
-|    4. Visual design is pleasing (or at a minimum, "not ugly") | |
-|    5. Widgets are well labeled and follow interface conventions | |
-|    6. Users should be able to figure out how to use the app with minimal instruction | |
+|    2. Users should be able to figure out how to use the app with minimal instruction | |
+|    3. Has required text content | |
+|    4. Has required controls. Widgets are well labeled and follow interface conventions | |
+|    5. Runs without errors | |
+|    6. Visual design is pleasing (or at a minimum, "not ugly") | |
 |    - *Missing controls* | *(-5 each)* |
 |    - *Errors* | *(-? depending on severity)* |
 |    **Overall:** You should aim to score 20/20 in this category ||
