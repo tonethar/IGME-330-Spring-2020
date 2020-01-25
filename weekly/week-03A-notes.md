@@ -25,7 +25,7 @@
   - Then we'll create an ES5 style external "library" of reusable functions named **"abcLIB.js"** by using an IIFE (*abc* will be your initials)
 
 
-**Try it:** Once everything is working, move the remaining JS code in your HTML to an external JS file named **main.js**
+**Try it:** Once everything is working, move the remaining JS code in your HTML to an external JS file named **index.js**
 
 
 ## IV. Videos
