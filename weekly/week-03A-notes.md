@@ -10,7 +10,9 @@
     - look at submissions
   - [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md) 
     - look at submissions
-- [Project 1](../projects/project-1.md) assigned! See dropboxes for due dates
+- [Project 1](../projects/project-1.md) assigned! 
+  - Let's discuss!
+  - See dropboxes for due dates
 
 ## II. Lecture - the IIFE - "Immediately Invoked Function Expression"
 
