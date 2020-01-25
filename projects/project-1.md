@@ -52,7 +52,12 @@ You will create a compelling interactive media experience that allows the user t
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - not implementing specific requirements in the [rubric](#rubric) below
-    - meeting "the minimum" on many elements of the rubric - for example, writing *exactly* 3 utility functions, creating *exactly* 3 controls, using exactly 3 semantic HTML elements, having exactly 5 CSS style rules ... - rather than letting the amount of these to be driven by what the app requires to work well and look good
+    - meeting "the minimum" on many elements of the rubric - for example:
+      - writing *exactly* 3 utility functions
+      - creating *exactly* 3 controls
+      - using *exactly* 3 semantic HTML elements
+      - having *exactly* 5 CSS style rules 
+      - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
     - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
     - mimimal modification/extension of the in-class code that was provided
     
@@ -107,6 +112,8 @@ You will create a compelling interactive media experience that allows the user t
 <a id="user-experience"/>
 
 ## V. User Experience
+- Usability:
+  - the purpose of the app and how to use it should be obvious
 - Text Content:
   - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
   - title the app - in an &lt;h1></h1> element, probably using an embedded font
@@ -150,8 +157,10 @@ You will create a compelling interactive media experience that allows the user t
 |    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
 | &nbsp; | &nbsp; |
 | **B. [User Experience](#user-experience)** | **20** | |
-|    1. Has required controls | |
-|    2. Runs without errors | |
+|    1. The purpose of the app and how to use it are obvious | |
+|    2. Has required text content | |
+|    3. Has required controls | |
+|    4. Runs without errors | |
 |    3. Starts in a pleasing state | |
 |    4. Visual design is pleasing (or at a minimum, "not ugly") | |
 |    5. Widgets are well labeled and follow interface conventions | |
