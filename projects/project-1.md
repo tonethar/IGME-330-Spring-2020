@@ -86,7 +86,7 @@ You will create a compelling interactive media experience that allows the user t
   - Most of the rest of the app's code is in your "User-created JS library" (see below)
 - HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
 - JS file names can be camel-cased in some cases. Here's an example of an exception to previous rule: 
-  - if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
+  - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
 ### IV-B. Coding standards
 - `"use strict";` at the top of every JS file
