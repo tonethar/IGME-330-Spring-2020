@@ -52,7 +52,7 @@ You will create a compelling interactive media experience that allows the user t
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - not implementing specific requirements in the [rubric](#rubric) below
-    - meeting "the minimum" on many elements of the rubric - for example:
+    - barely meeting "the minimum" on many elements of the rubric - for example:
       - writing *exactly* 3 utility functions
       - creating *exactly* 3 controls
       - using *exactly* 3 semantic HTML elements
