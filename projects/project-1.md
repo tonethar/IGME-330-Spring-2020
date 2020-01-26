@@ -91,6 +91,7 @@ You will create a compelling interactive media experience that allows the user t
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
 -  NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
+- [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button> are NOT allowed
 
