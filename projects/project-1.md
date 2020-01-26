@@ -84,7 +84,7 @@ You will create a compelling interactive media experience that allows the user t
 - The app file name is **index.html**
 - Most of the app's code is in a file named **index.js**, which is linked from **index.html**, and located in an **src** folder
   - Most of the rest of the app's code is in your "User-created JS library" (see below)
-- HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
+- HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning all lower case letters -  NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
 - JS file names can be camel-cased in some cases. Here's an example of an exception to previous rule: 
   - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
