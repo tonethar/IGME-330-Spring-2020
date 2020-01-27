@@ -106,10 +106,7 @@ You will create a compelling interactive media experience that allows the user t
   - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials (as was shown in the videos)
   - as "utility" functions these must be "pure functions" - [Wikipedia - Pure Function](https://en.wikipedia.org/wiki/Pure_function) - see #1 and #2 in the definition
   
-### IV-D. ES6 Class
-- the app must utilize at least one [ES6 class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-
-### IV-E. Third-party libraries
+### IV-D. Third-party libraries
 - NOT allowed without advance approval
   
 <a id="user-experience"/>
