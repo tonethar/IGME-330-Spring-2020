@@ -95,7 +95,7 @@ You will create a compelling interactive media experience that allows the user t
 -  NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
 - [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
-- "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button> are NOT allowed
+- "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
 ### IV-C. User-created JS library
 - we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-02A-notes.md](../weekly/week-02A-notes.md)
