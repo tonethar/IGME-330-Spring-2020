@@ -14,7 +14,7 @@
 
 [VII. Rubric](#rubric)
 
-[VIII. Submission & Documentation](#submission)
+[VIII. Documentation & Submission](#submission)
 
 <a id="overview"/>
 
@@ -197,7 +197,7 @@ You will create a compelling interactive media experience that allows the user t
 
 <a id="submission"/>
 
-## VIII. Submission & Documentation
+## VIII. Documentation & Submission
 - Documentation is required:
   - *It's a good idea to document things as you are working on the project. Consider setting up a google doc right away so that you can posts links and other information there as you are working*
   - Elucidate how you met the 4 categories of requirements, and be specific about any extras you did - i.e. what code you wrote, where you went "above and beyond", and so on
