@@ -194,6 +194,7 @@ You will create a compelling interactive media experience that allows the user t
 | **Other Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
+| *-15% late penalty 0-24 hours after due date, -15% 24-48 hours and so on, means a maximum grad of 85% on any project that is submitted late* | *(-??)* | |
 
 <a id="submission"/>
 
