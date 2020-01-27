@@ -186,7 +186,7 @@ You will create a compelling interactive media experience that allows the user t
 |    - *Code standards NOT followed (per incident)* | *(-1 to -5)* |
 |    - *Inline event handlers used* | *(-5)* |
 |    - *Missing index.js* | *(-10)* | |
-|    - *Missing ES5-style/IIFE Library* | *(-15)* | |
+|    - *Missing/improperly implemented ES5-style/IIFE Library* | *(-15)* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
