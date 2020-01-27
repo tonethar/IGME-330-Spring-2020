@@ -152,10 +152,10 @@ You will create a compelling interactive media experience that allows the user t
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Overall Theme/Impact](#theme)** | **50** | |
-|    - Does the app have an coherent and identifiable theme? | |
-|    - Does the app work as intended and it is reasonably engaging (both visually and otherwise)? | |
-|    - Does the app functionality and programming go beyond what we did in class? | |
-|    - Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
+|    1. Does the app have an coherent and identifiable theme? | |
+|    2. Does the app work as intended and it is reasonably engaging (both visually and otherwise)? | |
+|    3. Does the app functionality and programming go beyond what we did in class? | |
+|    4. Is the app at least *approaching/approximating* "portfolio quality" that you would not hesitate to show a potential employer? | |
 |    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
 | &nbsp; | &nbsp; |
 | **B. [User Experience](#user-experience)** | **20** | |
@@ -182,11 +182,11 @@ You will create a compelling interactive media experience that allows the user t
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **D. [Code](#code)**  | **15** | |
-|    1. *File Naming standards NOT followed (per incident)* | *(-1 to -5)* |
-|    2. *Code standards NOT followed (per incident)* | *(-1 to -5)* |
-|    3. *Inline event handlers used* | *(-5)* |
-|    4. *Missing ES5-style/IIFE Library* | *(-10)* | |
-|    4. *Missing index.js* | *(-10)* | |
+|    - *File Naming standards NOT followed (per incident)* | *(-1 to -5)* |
+|    - *Code standards NOT followed (per incident)* | *(-1 to -5)* |
+|    - *Inline event handlers used* | *(-5)* |
+|    - *Missing ES5-style/IIFE Library* | *(-15)* | |
+|    - *Missing index.js* | *(-10)* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
