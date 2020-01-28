@@ -125,6 +125,7 @@ You will create a compelling interactive media experience that allows the user t
     - pulldowns
     - radio buttons
     - checkboxes
+  - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
   - Mouse interaction would be a nice plus, but is not required
 
 <a id="examples"/>
