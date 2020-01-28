@@ -55,7 +55,7 @@ You will create a compelling interactive media experience that allows the user t
       - having *exactly* 5 CSS style rules 
       - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
     - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
-    - mimimal modification/extension of the in-class code that was provided
+    - minimal modification/extension of the in-class code that was provided
     
 <a id="media"/>
 
