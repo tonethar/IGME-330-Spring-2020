@@ -1,4 +1,4 @@
-# Project 1 - *Interactive Sandbox* (DRAFT):
+# Project 1 - *Interactive Sandbox*
 
 [I. Overview](#overview)
 
@@ -19,10 +19,6 @@
 <a id="overview"/>
 
 ## I. Overview
-
-***\*\*Note: the description and rubric of this project will be complete and assigned on Tuesday 1/28/2020 (beginning of week 3)\*\****
-
-***\*\*Prior to that date, it's not too early to think about what you'd like to make!\*\****
 
 You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
 
