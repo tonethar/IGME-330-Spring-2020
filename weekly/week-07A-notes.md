@@ -1,4 +1,4 @@
-# Week 7A - Look at Project 1 - Checkpoint #2
+# Week 7A - Look at Project 2 - Checkpoint #2
 
 ## I. Overview & Agenda
 - ***Reminder: The midterm exam is next time!*** Here are some study resources, including a sample exam --> [midterm-exam-review.md](../exams/midterm-exam-review.md)
