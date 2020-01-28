@@ -12,8 +12,8 @@
 - [Week 03 (Jan 27) : IIFEs & Canvas Transformations](#week3)
 - [Week 04 (Feb 03) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Feb 10) : More Web Audio / ES6 Module Pattern](#week5)
-- [Week 06 (Feb 17) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
-- [Week 07 (Feb 24) : Review Project 1 Prototypes / Midterm Exam](#week7)
+- [Week 06 (Feb 17) : Review Project 2 Prototypes / JS Prototype Chain & Delegation](#week6)
+- [Week 07 (Feb 24) : Review Project 2 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
 - ***\*\*March 08-15 -- Spring Break\*\****
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
@@ -45,15 +45,15 @@
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
   - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
-## <a id="week6">Week 6 : Look at Project 1 Prototypes / JS prototype chain
+## <a id="week6">Week 6 : Look at Project 2 Prototypes / JS prototype chain
   - [Week 6A - Wrap up Modules / Audio Visualizer Prototypes](weekly/week-06A-notes.md)
   - [Week 6B - JS Prototype Chain & Delegation](weekly/week-06B-notes.md)
  
-## <a id="week7">Week 7 : Finish Project 1 / Midterm Exam
-  - [Week 7A - Review Project 1 Checkpoint #2](weekly/week-07A-notes.md)
+## <a id="week7">Week 7 : Finish Project 2 / Midterm Exam
+  - [Week 7A - Review Project 2 Checkpoint #2](weekly/week-07A-notes.md)
   - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
  
-## <a id="week8">Week 8 : Review midterm/ Project 1 / Begin Computational Text Unit
+## <a id="week8">Week 8 : Review midterm/ Project 2 / Begin Computational Text Unit
   - [Week 8 - Text & Computation](weekly/week-08-notes.md)
   
 ## <a id="week9">Week 9 :  Constrained Writing and Simple Text Analysis / Computational Literature
