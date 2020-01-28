@@ -36,7 +36,8 @@
     - getting rid of "magic numbers" by adding `canvasWidth`, `canvasHeight` variables, and a `drawParams` object
     - using `Object.freeze()` to create an [immutable object](https://en.wikipedia.org/wiki/Immutable_object)
     - using an IIFE ("immediately invoked function expression") to remove our variables and functions from global scope
-  - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6) - Creating an ES5 Style JS Library with an IIFE
+  - [Screen Saver With Controls-6 (15:35)](https://video.rit.edu/Watch/screen-saver-with-controls-6):
+    - Creating an ES5 Style JS Library with an IIFE
 
 
 
