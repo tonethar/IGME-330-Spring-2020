@@ -2,7 +2,7 @@
 
 ## I. Overview & Agenda
 - ***Reminder: The midterm exam is next time!*** Here are some study resources, including a sample exam --> [midterm-exam-review.md](../exams/midterm-exam-review.md)
-- Look at Project 1 - Checkpoint #2 Submissions
+- Look at Project 2 - Checkpoint #2 Submissions
 
 ## II. Review Questions <a id="review-questions"></a> from last time
 
