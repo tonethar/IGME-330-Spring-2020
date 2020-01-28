@@ -167,7 +167,7 @@ function createAudioGraph(audioElement,numSamples){
 
 ## IV. Project 1
 - Project 1 due dates have been updated
-- Look at [Project 1 - Audio Visualizer](../projects/project-1.md) prototypes
+- Look at [Project 2 - Audio Visualizer](../projects/project-2.md) prototypes
   - does your project prototype have at least the beginnings of "flair" and go beyond a *minimum effort*? 
     - https://www.youtube.com/watch?v=3vdcw415OcQ
   - does it go beyond what we did in the AV HW assignments?
