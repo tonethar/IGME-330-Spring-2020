@@ -4,6 +4,8 @@
 ## Overview
 
 - [Project 1](../projects/project-1.md) questions?
+- [The IIFE - "Immediately Invoked Function Expression"](IIFE-notes.md) questions?
+- Let's get you to do some [IIFE-review.md](./IIFE-review.md) on your own!
 - Review [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
 - Canvas transforms (translate, rotate, scale) --> [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)
 - Time allowing, and this is a demo, not HW:
