@@ -1,4 +1,4 @@
-# Week 4A - Project 1 Prototypes & Canvas Transformations Review
+# Week 4A - Project 1 Prototypes & Transforms Review
 
 ## I. Overview
 - Review some of the [Project 1 - Interactive Sandbox](../projects/project-1.md) prototypes
