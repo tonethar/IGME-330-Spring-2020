@@ -3,7 +3,7 @@
 ## I. Overview
 - Review some of the [Project 1 - Interactive Sandbox](../projects/project-1.md) prototypes
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
-- Review - Try It! --> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
+- Review - Try It! --> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)(not HW, it was optional)
 
 
 
