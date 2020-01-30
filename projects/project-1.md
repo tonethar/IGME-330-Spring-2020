@@ -101,6 +101,7 @@ You will create a compelling interactive media experience that allows the user t
   - these functions are contained in an IIFE (as was shown in the videos)
   - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials (as was shown in the videos)
   - as "utility" functions these must be "pure functions" - [Wikipedia - Pure Function](https://en.wikipedia.org/wiki/Pure_function) - see #1 and #2 in the definition
+- [IIFE-review.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/IIFE-review.md) will give you a good idea of how your project is supposed to be architected
   
 ### IV-D. Third-party libraries
 - NOT allowed without advance approval
