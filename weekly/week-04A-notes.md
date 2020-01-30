@@ -1,19 +1,9 @@
 # Week 4A - Web Audio API & Canvas Visualizer
 
 ## I. Overview
-- Review [Drawing App HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
-
-## II. Required Reading & Assignments
-- [Project 1 - Audio Visualizer](../projects/project-1.md)
-
-## III. Presentation
-- [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
-- [Demo - Web Audio API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
-
-## IV. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
-- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
-- http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
+- Review some of the [Project 1 - Interactive Sandbox](../projects/project-1.md) prototypes
+- Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
+- Review - Try It! --> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
 
 
 
