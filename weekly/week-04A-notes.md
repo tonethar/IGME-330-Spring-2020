@@ -1,4 +1,4 @@
-# Week 4A - Project 1 Prototypes & Transforms Review
+# Week 4A - Project 1 Prototypes & Review
 
 ## I. Overview
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
