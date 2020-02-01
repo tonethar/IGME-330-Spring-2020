@@ -1,4 +1,4 @@
-# Week 4B - 
+# Week 4B - Drawing Images & Blending Modes
 
 ## I. Overview
 - Any questions on [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)?
