@@ -3,6 +3,7 @@
 ## I. Overview
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
   - Optional Transforms Review for you to try on your own --> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)  (not HW, it was optional)
+  - Somthing to try for fun, if you want, some starter code for a Krustry the Clown Clock --> [Demo - Canvas Clock](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-clock.md)
 - Let's look over the [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md) notes
 - Question: *Are canvas transforms, gradients and bezier curves required on Project 1?* Nope! (But they are on Project 2!)
 - Review some of the [Project 1 - Interactive Sandbox](../projects/project-1.md) prototypes:
