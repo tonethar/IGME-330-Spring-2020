@@ -10,7 +10,7 @@
 - [Week 01 (Jan 13) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Jan 20) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
 - [Week 03 (Jan 27) : IIFEs & Canvas Transformations](#week3)
-- [Week 04 (Feb 03) : WebAudio API & Manipulating Bitmap data](#week4)
+- [Week 04 (Feb 03) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
 - [Week 05 (Feb 10) : More Web Audio / ES6 Module Pattern](#week5)
 - [Week 06 (Feb 17) : Review Project 2 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Feb 24) : Review Project 2 Prototypes / Midterm Exam](#week7)
@@ -37,9 +37,9 @@
   - [Week 3A - The IIFE](weekly/week-03A-notes.md)
   - [Week 3B - Canvas Transformations](weekly/week-03B-notes.md)
  
-## <a id="week4">Week 4 : WebAudio API
-  - [Week 4A - Web Audio API](weekly/week-04A-notes.md)
-  - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
+## <a id="week4">Week 4 : Project 1 prototypes, Drawing Images & Blending Modes
+  - [Week 4A - Project 1 Prototypes & Review](weekly/week-04A-notes.md)
+  - [Week 4B - Drawing Images & Blending Modes](weekly/week-04B-notes.md)
  
 ## <a id="week5">Week 5 : More Web Audio / ES6 Module Pattern
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
