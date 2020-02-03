@@ -2,7 +2,7 @@
 
 ## I. Overview
 - Let's look at the Project 1 submissions
-- And then talk about [Canvas-6: Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) - which will help on Project 2.
+- And then talk about [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) - which will help on Project 2.
 
 <hr><hr>
 
