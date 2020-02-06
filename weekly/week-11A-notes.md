@@ -11,7 +11,7 @@
   - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
   - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
 - Transpiling our ES6 code to ES5 via Node.js and WebPack - [Transpiling ES6 to ES5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
-- (transpiling is a requirement of Project 2!)
+- (transpiling is a requirement of Project 3!)
 
 ## III. Important Deadlines
 
