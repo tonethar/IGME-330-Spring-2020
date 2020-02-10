@@ -11,7 +11,7 @@
 - [Week 02 (Jan 20) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
 - [Week 03 (Jan 27) : IIFEs & Canvas Transformations](#week3)
 - [Week 04 (Feb 03) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
-- [Week 05 (Feb 10) : Web Audio / ES6 Module Pattern](#week5)
+- [Week 05 (Feb 10) : Sprites / ES6 Module Pattern](#week5)
 - [Week 06 (Feb 17) : Review Project 2 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Feb 24) : Review Project 2 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
@@ -41,13 +41,13 @@
   - [Week 4A - Project 1 Prototypes & Review](weekly/week-04A-notes.md)
   - [Week 4B - Drawing Images & Blending Modes](weekly/week-04B-notes.md)
  
-## <a id="week5">Week 5 : Web Audio / ES6 Module Pattern
-  - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
+## <a id="week5">Week 5 : Sprites / ES6 Module Pattern
+  - [Week 5A - Sprites](weekly/week-05A-notes.md)
   - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
-## <a id="week6">Week 6 : Look at Project 2 Prototypes / JS prototype chain
-  - [Week 6A - Wrap up Modules / Audio Visualizer Prototypes](weekly/week-06A-notes.md)
-  - [Week 6B - JS Prototype Chain & Delegation](weekly/week-06B-notes.md)
+## <a id="week6">Week 6 : Intro to Audio Visualizer
+  - [Week 6A - Wrap up Modules / Audio Visualizer](weekly/week-06A-notes.md)
+  - [Week 6B - More Audio Visualizer](weekly/week-06B-notes.md)
  
 ## <a id="week7">Week 7 : Finish Project 2 / Midterm Exam
   - [Week 7A - Review Project 2 Checkpoint #2](weekly/week-07A-notes.md)
