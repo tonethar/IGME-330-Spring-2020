@@ -1,6 +1,6 @@
 # Week 5B - JavaScript ES6 Module Pattern
 
-## I. Overview & Presentation
+## I. Overview
 
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
 - Today we are going to look at how to implement the *ES6 Module Pattern*:
