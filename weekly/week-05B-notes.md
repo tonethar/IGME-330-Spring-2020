@@ -7,8 +7,6 @@
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-module-pattern.md)
 - Note: One of the requirements of Project 2 is to utilize the *ES6 Module Pattern*
 
-## II. Reference
-- http://exploringjs.com/es6/ch_modules.html
 
 
 
