@@ -1,6 +1,8 @@
 # Week 6B - More WebAudio
 
+## Demo & Discussion
 
+- [Web Audio Demo II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
 
 
 <hr><hr>
