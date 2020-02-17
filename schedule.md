@@ -12,8 +12,8 @@
 - [Week 03 (Jan 27) : IIFEs & Canvas Transformations](#week3)
 - [Week 04 (Feb 03) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
 - [Week 05 (Feb 10) : Sprites / ES6 Module Pattern](#week5)
-- [Week 06 (Feb 17) : Review Project 2 Prototypes / JS Prototype Chain & Delegation](#week6)
-- [Week 07 (Feb 24) : Review Project 2 Prototypes / Midterm Exam](#week7)
+- [Week 06 (Feb 17) : Intro to Web Audio](#week6)
+- [Week 07 (Feb 24) : More Web Audio](#week7)
 - [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
 - ***\*\*March 08-15 -- Spring Break\*\****
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
@@ -46,10 +46,10 @@
   - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
 ## <a id="week6">Week 6 : Intro to Audio Visualizer
-  - [Week 6A - Wrap up Modules / Audio Visualizer](weekly/week-06A-notes.md)
+  - [Week 6A - Intro to Web Audio](weekly/week-06A-notes.md)
   - [Week 6B - More Audio Visualizer](weekly/week-06B-notes.md)
  
-## <a id="week7">Week 7 : Finish Project 2 / Midterm Exam
+## <a id="week7">Week 7 : More Web Audio
   - [Week 7A - Review Project 2 Checkpoint #2](weekly/week-07A-notes.md)
   - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
  
