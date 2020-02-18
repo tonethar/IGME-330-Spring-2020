@@ -25,7 +25,7 @@
 
 <a id="mission"></a> 
 
-1) Your mission:
+1) Your mission\*:
   - First, get a partner, and post both of your names to the discussion thread in mycourses. If you like, give your team a name. A partner is optional, you may work solo if you wish
     - *Both* partners shall contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project
   - In this project you will build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
@@ -37,6 +37,8 @@
       - the soundness of your programming
       - meeting the requirements detailed below
       - how far you went beyond what we did in class, as described below
+      
+ ***\* OR - maybe you would like to make something that's more on the game side. If you can come up with something that uses Canvas, WebAudio, and image data manipulation in a significant way, we might be able to work something out. Reach out to your Prof with a proposal ASAP and we'll talk.***
     
 <a id="resources"></a> 
     
