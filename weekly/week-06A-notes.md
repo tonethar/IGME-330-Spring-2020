@@ -1,6 +1,11 @@
 # Week 6A - Intro to WebAudio API
 
-## I. Overview
+## I. Review
+- Any questions on last week's HW?
+  - [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
+  - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+- BTW - everyone knows how to set breakpoints in the browser debugger, right?
+  - https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
 
 ## II. Presentation
 
