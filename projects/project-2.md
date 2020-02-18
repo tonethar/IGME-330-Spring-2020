@@ -2,8 +2,8 @@
 
 [I. Overview](#overview)
 
-  - A. [Mission](#mission)
-  - B. [Resources](#resources)
+  - [Mission](#mission)
+  - [Resources](#resources)
 
 [II. Impact](#theme)
 
@@ -25,7 +25,7 @@
 
 <a id="mission"></a> 
 
-- A) Your mission:
+1) Your mission:
   - First, get a partner, and post both of your names to the discussion thread in mycourses. If you like, give your team a name. A partner is optional, you may work solo if you wish
     - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project
   - In this project you will build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
@@ -40,7 +40,7 @@
     
 <a id="resources"></a> 
     
-- B) Course Resources:
+2) Course Resources:
   - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-1.md)
   - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md)
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md)
