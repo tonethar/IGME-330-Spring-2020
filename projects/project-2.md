@@ -37,7 +37,9 @@
       - the soundness of your programming
       - meeting the requirements detailed below
       - how far you went beyond what we did in class, as described below
-      
+  
+ <a id="OR" />
+ 
  ***\* OR - maybe you would like to make something that's more on the game side. If you can come up with something that uses Canvas, WebAudio, and image data manipulation in a significant way, we might be able to work something out. Reach out to your Prof with a proposal ASAP and we'll talk.***
     
 <a id="resources"></a> 
