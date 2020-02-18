@@ -55,6 +55,9 @@
 
 ## II. Impact
 - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
+- Does the app functionality and programming go beyond what we did in class?
+  - Is there an analogous relationship between the sound data and what people are seeing on the screen?
+  - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
 - READ --> [*What makes for an effective audio visualization?*](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-05A-notes.md#effective-audio-visualizer)
 - *Impact:*
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
