@@ -185,6 +185,21 @@
 - 2165 and older:
   - Conway's Game of Life Visualizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
 
+<a id="VI"></a>
+  
+### VI-A. Screenshots
+  
+![screenshot](./_images/av-1.jpg)
+   
+![screenshot](./_images/awesome.jpg)
+
+![screenshot](./_images/disco.jpg)
+
+![screenshot](./_images/glb-av.jpg)
+
+![screenshot](./_images/life.jpg)
+
+![screenshot](./_images/audio-pulse.jpg)
 
 ## VII. Rubric
   
