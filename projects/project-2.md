@@ -71,23 +71,23 @@
 
 ## III. Media
 1) Audio data (frequency and waveform) must be sampled and used to draw graphics on the canvas via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
-  - canvas methods MUST be utilized for drawing either quadratic or cubic bezier curves
-  - it is expected that you will also be drawing one or more of the following: rectangles, arcs, lines, text and/or images
-  - you MUST utilize at least one canvas gradient (a linear OR radial gradient is fine)
-  - use drawing context state variables where appropriate such as `.strokeStyle`, `.fillStyle`, `.lineWidth`, `.lineCap`, `.lineJoin`, `.globalAlpha` etc ...
-  - `ctx.save()` and `ctx.restore()` MUST be used
-  -  Recall that if your functions manipulate any drawing state variables, it's a good idea to `ctx.save()` the drawing state at the top of the function, and `ctx.restore()` the state at the bottom of the function
-  - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
+    - canvas methods MUST be utilized for drawing either quadratic or cubic bezier curves
+    - it is expected that you will also be drawing one or more of the following: rectangles, arcs, lines, text and/or images
+    - you MUST utilize at least one canvas gradient (a linear OR radial gradient is fine)
+    - use drawing context state variables where appropriate such as `.strokeStyle`, `.fillStyle`, `.lineWidth`, `.lineCap`, `.lineJoin`, `.globalAlpha` etc ...
+    - `ctx.save()` and `ctx.restore()` MUST be used
+    -  Recall that if your functions manipulate any drawing state variables, it's a good idea to `ctx.save()` the drawing state at the top of the function, and `ctx.restore()` the state at the bottom of the function
+    - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
 2) Bitmap data:
-  - image data fetched with `ctx.getImageData()` will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()`
-  - the user will be able to control or toggle the effects on and off. 
+    - image data fetched with `ctx.getImageData()` will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()`
+    - the user will be able to control or toggle the effects on and off. 
 3) HTML:
-  - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` (use at *least* 3 of these)
+    - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` (use at *least* 3 of these)
 4) CSS:
-  - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
-  - an embedded font (ex. Google Fonts) is required
-- Images:
-  - if you end up using static images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
+    - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
+    - an embedded font (ex. Google Fonts) is required
+5) Images:
+    - if you end up using static images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
 
 <a id="code"/>
 
@@ -96,25 +96,25 @@
 ### IV-A. File Naming Conventions and Organization
 1) The ES6 module pattern will be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
 2) The app file name is **index.html**:
-  - this file will contain only HTML. All CSS & JS will be located in other files
+    - this file will contain only HTML. All CSS & JS will be located in other files
 3) All of the JS code files are contained in a **src** directory
 4) Any CSS files will be located in a folder named **styles**
 5) All of the JavaScript files will utilize the ES6 module pattern, and will thus produce a public interface by having `import` and/or `export` keywords
 6) There is a file named **loader.js** that is linked to from the index page. The `type` of this link is `"module"` : 
-  - **loader.js** will `import` an `init()` function from **main.js** (see below)
-  - NO OTHER JavaScript files will be linked from the index page, EXCEPT possibly 3rd-party libraries (if approved), or a library of your own creation (example: **abcLIB.js** from Project 1)
+    - **loader.js** will `import` an `init()` function from **main.js** (see below)
+    - NO OTHER JavaScript files will be linked from the index page, EXCEPT possibly 3rd-party libraries (if approved), or a library of your own creation (example: **abcLIB.js** from Project 1)
 7) Most of the app's code is in a file named **main.js**
 8) The location of most of the rest of the app's code is up to you - for example you could have **utils.js**, **canvas-utils.js**, **classes.js**, **visualizer.js** and so on
 9) HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning all lower case letters -  NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
 10) JS file names can be camel-cased in some cases. Here's an example of an exception to the previous rule: 
-  - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
+    - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
 ### IV-B. Coding standards
 1) `"use strict";` is NO LONGER NEEDED in ES6 modules, so be sure to delete this line of code
 2) `let` and `const` only:
-  - `var` is NOT allowed
+    - `var` is NOT allowed
 3) For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
-  - NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
+    - NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
 4) [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
 5) Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 6) "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
