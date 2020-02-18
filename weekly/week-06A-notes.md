@@ -27,7 +27,7 @@ See myCourses dropboxes for due dates:
 2) Due in myCourses dropbox **Thursday 2/27/2020** (week 7), start of class: 
     - a working prototype that goes at least somewhat beyond the AV HW assignments
     - we will look at these in class
-    - this dropbox will stay open until **Saturday 2/29 @ 11:59PM** - anything that makes it into the dropbox will be considered submitted with no grade penalty
+    - this dropbox will stay open until **Saturday 2/29 @ 11:59PM** - anything that makes it into the dropbox will be considered properly submitted with no grade penalty
     - there is a -10% deduction from the final project 2 grade if this prototype is not submitted to the dropbox
 3) Due in myCourses dropbox class **Thursday 3/5/2020** (week 8), start of class:
     - working prototype #2 - at a bare minimum a "minimum viable product" that shows your main features and idea - to the dropbox
