@@ -53,21 +53,17 @@
 
 <a id="theme"/>
 
-## II. Theme & Impact
-
+## II. Impact
+- The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
+- READ --> [*What makes for an effective audio visualization?*](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-05A-notes.md#effective-audio-visualizer)
 - *Impact:*
-  - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - not implementing specific requirements in the [rubric](#rubric) below
-    - barely meeting "the minimum" on many elements of the rubric - for example:
-      - writing *exactly* 3 utility functions
-      - creating *exactly* 3 controls
-      - using *exactly* 3 semantic HTML elements
-      - having *exactly* 5 CSS style rules 
-      - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
+    - barely meeting "the minimum" on many elements of the rubric  
     - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
     - minimal modification/extension of the in-class code that was provided
-    
+    - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
+   
 <a id="media"/>
 
 ## III. Media
