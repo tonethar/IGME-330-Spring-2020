@@ -20,7 +20,7 @@ See myCourses dropboxes for due dates:
   
 ## IV. Project 2 & Deliverables
 
-[Project 2 - Audio Visualizer](../projects/project-2.md)
+[Project 2 - Audio Visualizer](../projects/project-2.md) - **Deliverables:**
 
 
 1) Due in discussion thread **Thursday 2/20/2020**, start of class:
