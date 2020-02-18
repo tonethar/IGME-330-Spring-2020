@@ -122,10 +122,12 @@
 <a id="user-experience"/>
 
 ## V. User Experience
-1) Usability:
+1) Usability & Aesthetics:
     - the purpose of the app and how to use it should be obvious
     - users should be able to figure out how to use the app with minimal instruction
     - the app must run without errors
+    - the app UI must NOT resemble the AV homework's UI - throw out the HW UI and start over
+    - at a bare minimum, create a UI that respects the C.R.A.P. principles --> https://vwo.com/blog/crap-design-principles/
 2) Text Content:
     - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
     - title the app - in an &lt;h1></h1> element, probably using an embedded font
