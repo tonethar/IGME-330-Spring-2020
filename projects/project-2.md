@@ -54,7 +54,7 @@
 
  - C) Examples:
    - [Audio Visualizer Project Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
-   - Here are some examples from 2171 & 2175 (most run best in Chrome, but because Chrome changed their security policy recently, it broke most of these examples, so try them in FireFox instead):
+   - Here are some examples from 2171 & 2175 (Originally, most of these ran best in Chrome, but because Chrome changed their autoplay security policy recently, it broke most of these examples, so try them in FireFox instead):
      - https://mcs2515.github.io/Magical_Visualizer/#
      - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
      - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
