@@ -203,7 +203,7 @@
 
 ![screenshot](./_images/audio-pulse.jpg)
 
-## VII. Rubric
+## VII. Rubric (DRAFT - will be tweaked and completed soon!)
   
   Your project will be graded on the following criteria:
 
@@ -257,7 +257,7 @@
 <a id="submission"/>
 
 ## VIII. Documentation & Submission
-- Documentation is required:
+- Documentation is required - if you have a team member, you should both submit it:
   - *It's a good idea to document things as you are working on the project. Consider setting up a google doc right away so that you can posts links and other information there as you are working*
   - Elucidate how you met the 4 categories of requirements, and be specific about any extras you did - i.e. what code you wrote, where you went "above and beyond", and so on
   - Discuss what went right and what went wrong. List what features you would have liked to add to the project if you'd had more time/energy
