@@ -120,16 +120,18 @@
 <a id="user-experience"/>
 
 ## V. User Experience
-- Usability:
+1) Usability:
   - the purpose of the app and how to use it should be obvious
   - users should be able to figure out how to use the app with minimal instruction
   - the app must run without errors
-- Text Content:
+2) Text Content:
   - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
   - title the app - in an &lt;h1></h1> element, probably using an embedded font
   - if needed, instructions on how to use the app
   - if needed, use the `title` attribute of HTML elements to provide tooltips to the user
-- Controls:
+3) Controls:
+  - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
+  - be sure that the default settings of these controls results in an app that starts up in a visually pleasing state
   - Required Controls:
     - the controls that we added in the Audio Visualizer exercises (play/pause button and volume slideer )
     - a progress indicator - either in digital format such as `01:22` or as a graphical playhead or something non-standard
@@ -138,7 +140,11 @@
     - at least 1 radio button group
     - a way to choose between at least 3 distinct audio tracks (ideally, find your own tracks and don't reuse what we gave you) 
     - A "fullscreen" button
-  - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
+ 4) Ideas for optional controls:
+    - Make your entire UI minimalist by using dat.gui instead of standard DOM controls --> http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
+    - Mouse control (clicking or moving the mouse changes how the visualizer looks)
+    - Web Cam input changes how the visualizer looks:
+      - The web cam demo links are here --> [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
 
 <a id="examples"/>
 
