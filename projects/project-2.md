@@ -4,7 +4,6 @@
 
   - A. [Mission](#mission)
   - B. [Resources](#resources)
-  - C. [Examples](#examples)
 
 [II. Theme & Impact](#theme)
 
@@ -50,46 +49,13 @@
   - [Canvas Image Data Demo](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-canvas-image-data.md)
   - [Week 5A - Tuning up our Audio Visualizers](https://github.com/tonethar/IGME-330-Spring-2019/blob/master/weekly/week-05A-notes.md)
   
-<a id="examples"></a> 
 
- - C) Examples:
-   - [Audio Visualizer Project Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
-   - Here are some examples from 2171 & 2175 (Originally, most of these ran best in Chrome, but because Chrome changed their autoplay security policy recently, it broke most of these examples, so try them in FireFox instead):
-     - https://mcs2515.github.io/Magical_Visualizer/#
-     - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
-     - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
-     - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
-     - https://people.rit.edu/etn6701/330/Project%201/
-     - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
-     - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
-     - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
-     - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
-   - 2165 and older:
-     - Conway's Game of Life Visualizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
 
 <a id="theme"/>
 
 ## II. Theme & Impact
-- Explore **one** of the *themes* that we covered in class:
-  - *Randomness*:
-    - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
-  - *Dynamical Systems*:
-    - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
-    - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
-    - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
-    - Perlin Noise --> RESOURCES: Coding Train [Coding Challenge #136.1: Polar Perlin Noise Loops](https://www.youtube.com/watch?v=ZI1dmHv3MeM) & [Noisejs](https://github.com/josephg/noisejs)
-  - *Emergence*:
-    - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
-    - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s)
-  - or ??? (getting permission in advance is required) - here are some ideas:
-    - Generative Art - here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
-    - Particle systems/falling sand app: https://github.com/pineapplemachine/websand
-    - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
-    - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
-    - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
+
 - *Impact:*
-  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
-  - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - not implementing specific requirements in the [rubric](#rubric) below
@@ -161,32 +127,37 @@
 - Text Content:
   - title the app - in a &lt;title> element (this helps with bookmarking and search engines)
   - title the app - in an &lt;h1></h1> element, probably using an embedded font
-  - a description of what theme the project is exploring
-  - instructions on how to use the app
+  - if needed, instructions on how to use the app
   - if needed, use the `title` attribute of HTML elements to provide tooltips to the user
 - Controls:
-  - *At least* 3 distinct DOM controls that have a **meaningful effect on the experience** by allowing the user to adjust various parameters of the experience, in at least 2 of the following categories:
-    - buttons (pause and play buttons DO NOT count towards this requirement)
-    - sliders
-    - pulldowns
-    - radio buttons
-    - checkboxes
+  - Required Controls:
+    - the controls that we added in the Audio Visualizer exercises (play/pause button and volume slideer )
+    - a progress indicator - either in digital format such as `01:22` or as a graphical playhead or something non-standard
+    - at least 2 additional sliders
+    - at least 3 checkboxes
+    - at least 1 radio button group
+    - a way to choose between at least 3 distinct audio tracks (ideally, find your own tracks and don't reuse what we gave you) 
+    - A "fullscreen" button
   - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
-  - Mouse interaction would be a nice plus, but is not required
 
 <a id="examples"/>
 
 ## VI. Examples
 
-### Spiral Generator (Procedural flower petal generation - *phylotaxis*)
+- [Audio Visualizer Project Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
+- Here are some examples from 2171 & 2175 (Originally, most of these ran best in Chrome, but because Chrome changed their autoplay security policy recently, it broke most of these examples, so try them in FireFox instead):
+  - https://mcs2515.github.io/Magical_Visualizer/#
+  - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
+  - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
+  - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
+  - https://people.rit.edu/etn6701/330/Project%201/
+  - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
+  - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
+  - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
+  - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+- 2165 and older:
+  - Conway's Game of Life Visualizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
 
-![image](_images/spiral-generator.gif)
-
-### Conway's Game of Life
-
-![image](_images/life-example.gif)
-
-<a id="rubric"/>
 
 ## VII. Rubric
   
