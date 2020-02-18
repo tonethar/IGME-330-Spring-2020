@@ -114,9 +114,8 @@
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
 ### IV-C. Third-party libraries
-- CSS Framework libraries ARE allowed:
-  - 
-- DatGUI
+- CSS Framework libraries ARE allowed - for example: https://fresh.codingphase.com/articles/5-popular-css-frameworks-to-use-in-2020
+- [dat.gui](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) is allowed 
 - Other libraries are NOT allowed without advance approval (but please ask if you see something that you think would be helpful to your project!)
   
   
