@@ -1,4 +1,4 @@
-# Project 2 - *Audio Visualizer* (DRAFT)
+# Project 2 - *Audio Visualizer*
 
 [I. Overview](#overview)
 
