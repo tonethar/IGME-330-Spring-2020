@@ -94,11 +94,11 @@
 ## IV. Code
 
 ### IV-A. File Naming Conventions and Organization
-1) The ES6 module pattern will be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+1) The ES6 module pattern shall be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
 2) The app file name is **index.html**:
     - this file will contain only HTML. All CSS & JS will be located in other files
 3) All of the JS code files are contained in a **src** directory
-4) Any CSS files will be located in a folder named **styles**
+4) All CSS files will be located in a folder named **styles**
 5) All of the JavaScript files will utilize the ES6 module pattern, and will thus produce a public interface by having `import` and/or `export` keywords
 6) There is a file named **loader.js** that is linked to from the index page. The `type` of this link is `"module"` : 
     - **loader.js** will `import` an `init()` function from **main.js** (see below)
