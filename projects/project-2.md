@@ -5,7 +5,7 @@
   - [Mission](#mission)
   - [Resources](#resources)
 
-[II. Impact](#theme)
+[II. Quality of Experience & Impact](#theme)
 
 [III. Media](#media)
 
@@ -55,7 +55,7 @@
 
 <a id="theme"/>
 
-## II. Impact
+## II. Quality of Experience & Impact
 1) The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
 2) Does the app functionality and programming go beyond what we did in class?
     - Is there an analogous relationship between the sound data and what people are seeing on the screen?
@@ -209,7 +209,7 @@
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Overall Theme/Impact](#theme)** | **50** | |
+| **A. [Overall Quality of Experience/Impact](#theme)** | **50** | |
 |    1. Does the app have an coherent and identifiable theme? | |
 |    2. Does the app work as intended and it is reasonably engaging (both visually and otherwise)? | |
 |    3. Does the app functionality and programming go beyond what we did in class? | |
