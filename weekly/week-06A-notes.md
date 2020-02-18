@@ -20,7 +20,9 @@ See myCourses dropboxes for due dates:
   
 ## IV. Project 2 & Deliverables
 
-- [Project 2 - Audio Visualizer](../projects/project-2.md)
+[Project 2 - Audio Visualizer](../projects/project-2.md)
+
+
 1) Due in discussion thread **Thursday 2/20/2020**, start of class:
     - Who is your partner (or are you working solo, which is fine)?
     - If you want to do more of a game project, and take advantage of the ["OR"](../projects/project-2.md#OR) option
