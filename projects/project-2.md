@@ -151,7 +151,7 @@
       - Make your entire UI minimalist by using dat.gui instead of standard DOM controls --> http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
       - Mouse control (clicking or moving the mouse changes how the visualizer looks)
       - Web Cam input changes how the visualizer looks:
-        - The web cam demo links are here --> [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
+        - The web cam demo links are here --> [Demo - Webcam Links](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-webcam-links.md)
       - The user can load their own tracks using [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) or the [HTML `File` API](https://developer.mozilla.org/en-US/docs/Web/API/File)
 
 <a id="examples"/>
