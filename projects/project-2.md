@@ -87,35 +87,38 @@
 
 ## IV. Code
 
-### IV-A. File Naming Conventions
-- The app file name is **index.html**
-- Most of the app's code is in a file named **index.js**, which is linked from **index.html**, and located in an **src** folder
-  - Most of the rest of the app's code is in your "User-created JS library" (see below)
+### IV-A. File Naming Conventions and Organization
+- The ES6 module pattern will be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+- The app file name is **index.html**:
+  - this file will contain only HTML. All CSS & JS will be located in other files
+- All of the JS code files are contained in a **src** directory
+- Any CSS files will be located in a folder named **styles**
+- All of the JavaScript files will utilize the ES6 module pattern, and will thus produce a public interface by having `import` and/or `export` keywords
+- There is a file named **loader.js** that is linked to from the index page. The `type` of this link is `"module"` : 
+  - **loader.js** will `import` an `init()` function from **main.js** (see below)
+  - NO OTHER JavaScript files will be linked from the index page, EXCEPT possibly 3rd-party libraries (if approved), or a library of your own creation (example: **abcLIB.js** from Project 1)
+- Most of the app's code is in a file named **main.js**
+- The location of most of the rest of the app's code is up to you - for example you could have **utils.js**, **canvas-utils.js**, **classes.js**, **visualizer.js** and so on
 - HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning all lower case letters -  NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
-- JS file names can be camel-cased in some cases. Here's an example of an exception to previous rule: 
+- JS file names can be camel-cased in some cases. Here's an example of an exception to the previous rule: 
   - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
 ### IV-B. Coding standards
-- `"use strict";` at the top of every JS file
-- `let` and `const` only. `var` is NOT allowed
+- `"use strict";` is NO LONGER NEEDED in ES6 modules, so be sure to delete this line of code
+- `let` and `const` only:
+  - `var` is NOT allowed
 - For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
--  NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
+  - NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
 - [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
-### IV-C. User-created JS library
-- we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-02A-notes.md](../weekly/week-02A-notes.md)
-- the file - named `abcLIB.js` - where `abc` are your initials - will:
-  - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...)
-  - contain at least 3 (and probably more) useful utility functions that were **created by you**
-  - these functions are contained in an IIFE (as was shown in the videos)
-  - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials (as was shown in the videos)
-  - as "utility" functions these must be "pure functions" - see these notes --> [pure-function-notes.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/pure-function-notes.md)
-- [IIFE-review.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/IIFE-review.md) will give you a good idea of how your project is supposed to be architected
+### IV-C. Third-party libraries
+- CSS Framework libraries ARE allowed:
+  - 
+- DatGUI
+- Other libraries are NOT allowed without advance approval (but please ask if you see something that you think would be helpful to your project!)
   
-### IV-D. Third-party libraries
-- NOT allowed without advance approval
   
 <a id="user-experience"/>
 
