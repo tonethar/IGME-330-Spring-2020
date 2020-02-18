@@ -23,11 +23,11 @@
 
 ### Section 02
 - Professor: Andrew Wheeland 
-- Teaching Assistant: TBA 
+- Teaching Assistant: Nick Mercadante 
 - Office:  GOL-2634
 - Email: anwigm@rit.edu (Discord contact preferred)
 - Office hours:
-  - M  03:00PM - 04:30PM
+  - M  04:00PM - 05:30PM
   - T  11:00AM - 12:30PM
   - R  11:00AM - 12:00PM
 - Class meetings: TR 9:30AM - 10:45PM in GOL-2435
