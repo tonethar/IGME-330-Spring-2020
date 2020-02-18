@@ -5,7 +5,7 @@
   - A. [Mission](#mission)
   - B. [Resources](#resources)
 
-[II. Theme & Impact](#theme)
+[II. Impact](#theme)
 
 [III. Media](#media)
 
