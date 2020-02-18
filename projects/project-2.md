@@ -71,11 +71,13 @@
   - canvas methods MUST be utilized for drawing either quadratic or cubic bezier curves
   - it is expected that you will also be drawing one or more of the following: rectangles, arcs, lines, text and/or images
   - you MUST utilize at least one canvas gradient (a linear OR radial gradient is fine)
+  - use drawing context state variables where appropriate such as `.strokeStyle`, `.fillStyle`, `.lineWidth`, `.lineCap`, `.lineJoin`, `.globalAlpha` etc ...
   - `ctx.save()` and `ctx.restore()` MUST be used
+  -  Recall that if your functions manipulate any drawing state variables, it's a good idea to `ctx.save()` the drawing state at the top of the function, and `ctx.restore()` the state at the bottom of the function
   - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
 2) Bitmap data:
   - image data fetched with `ctx.getImageData()` will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()`
-  -  ideally the user will be able to control or toggle the effects on and off. 
+  - the user will be able to control or toggle the effects on and off. 
 3) HTML:
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` (use at *least* 3 of these)
 4) CSS:
@@ -89,35 +91,43 @@
 ## IV. Code
 
 ### IV-A. File Naming Conventions and Organization
-- The ES6 module pattern will be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
-- The app file name is **index.html**:
+1) The ES6 module pattern will be used. We covered this here --> [ES-6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+2) The app file name is **index.html**:
   - this file will contain only HTML. All CSS & JS will be located in other files
-- All of the JS code files are contained in a **src** directory
-- Any CSS files will be located in a folder named **styles**
-- All of the JavaScript files will utilize the ES6 module pattern, and will thus produce a public interface by having `import` and/or `export` keywords
-- There is a file named **loader.js** that is linked to from the index page. The `type` of this link is `"module"` : 
+3) All of the JS code files are contained in a **src** directory
+4) Any CSS files will be located in a folder named **styles**
+5) All of the JavaScript files will utilize the ES6 module pattern, and will thus produce a public interface by having `import` and/or `export` keywords
+6) There is a file named **loader.js** that is linked to from the index page. The `type` of this link is `"module"` : 
   - **loader.js** will `import` an `init()` function from **main.js** (see below)
   - NO OTHER JavaScript files will be linked from the index page, EXCEPT possibly 3rd-party libraries (if approved), or a library of your own creation (example: **abcLIB.js** from Project 1)
-- Most of the app's code is in a file named **main.js**
-- The location of most of the rest of the app's code is up to you - for example you could have **utils.js**, **canvas-utils.js**, **classes.js**, **visualizer.js** and so on
-- HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning all lower case letters -  NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
-- JS file names can be camel-cased in some cases. Here's an example of an exception to the previous rule: 
+7) Most of the app's code is in a file named **main.js**
+8) The location of most of the rest of the app's code is up to you - for example you could have **utils.js**, **canvas-utils.js**, **classes.js**, **visualizer.js** and so on
+9) HTML/CSS/Image file names are [kebab-cased](https://wiki.c2.com/?KebabCase) - meaning all lower case letters -  NO spaces are allowed in file names, and dashes separate words - ex. NOT **myStyles.css** or **my styles.css**, INSTEAD USE **my-styles.css**:
+10) JS file names can be camel-cased in some cases. Here's an example of an exception to the previous rule: 
   - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
 ### IV-B. Coding standards
-- `"use strict";` is NO LONGER NEEDED in ES6 modules, so be sure to delete this line of code
-- `let` and `const` only:
+1) `"use strict";` is NO LONGER NEEDED in ES6 modules, so be sure to delete this line of code
+2) `let` and `const` only:
   - `var` is NOT allowed
-- For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
+3) For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
   - NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
-- [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
-- Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
-- "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
+4) [**D.R.Y.**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - "Don't Repeat Yourself" - avoid redundancy - multiple blocks of similar code should be factored out into functions
+5) Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
+6) "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
 ### IV-C. Third-party libraries
-- CSS Framework libraries ARE allowed - some examples are here: https://fresh.codingphase.com/articles/5-popular-css-frameworks-to-use-in-2020
-- [dat.gui](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) is allowed 
-- Other libraries are NOT allowed without advance approval (but please ask if you see something that you think would be helpful to your project!)
+1) CSS Framework libraries ARE allowed - some examples are here: https://fresh.codingphase.com/articles/5-popular-css-frameworks-to-use-in-2020
+2) [dat.gui](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) is allowed 
+3) Other libraries are NOT allowed without advance approval (but please ask if you see something that you think would be helpful to your project!)
+4) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you - do so both in the code comments AND in your documentation. Failing to give credit opens you to charges of **academic dishonesty**:
+   - examples of acceptable use for this project:
+     - copying and lightly modifying code for an emboss effect - https://www.i-programmer.info/programming/graphics-and-imaging/2078-canvas-bitmap-operations-bitblt-in-javascript.html?start=2
+     - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
+   - Cite the code source **both** in the source code itself as a comment, and in your final documentation
+   - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
+   - You do not need to cite code that you received from our in-class exercises, demos or HW
+   - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
   
   
 <a id="user-experience"/>
