@@ -67,17 +67,22 @@
 <a id="media"/>
 
 ## III. Media
-- Procedural drawing via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
-  - canvas methods must be used for rectangles, arcs and lines
-  - `ctx.save()` and `ctx.restore()` must be used
+1) Audio data (frequency and waveform) must be sampled and used to draw graphics on the canvas via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
+  - canvas methods MUST be utilized for drawing either quadratic or cubic bezier curves
+  - it is expected that you will also be drawing one or more of the following: rectangles, arcs, lines, text and/or images
+  - you MUST utilize at least one canvas gradient (a linear OR radial gradient is fine)
+  - `ctx.save()` and `ctx.restore()` MUST be used
   - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
-- HTML:
+2) Bitmap data:
+  - image data fetched with `ctx.getImageData()` will be manipulated with "Photoshopish" effects and then displayed to the user in some way using `ctx.putImageData()`
+  -  ideally the user will be able to control or toggle the effects on and off. 
+3) HTML:
   - use semantic HTML where possible - `<header>`, `<footer>`, `<main>`, `<section>` (use at *least* 3 of these)
-- CSS:
+4) CSS:
   - use an external CSS style sheet with at least 5 rules ("mobile friendly" CSS would be nice, but is not required)
   - an embedded font (ex. Google Fonts) is required
 - Images:
-  - if you end up using images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
+  - if you end up using static images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
 
 <a id="code"/>
 
@@ -133,13 +138,15 @@
     - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
     - be sure that the default settings of these controls results in an app that starts up in a visually pleasing state
     - Required Controls:
-      - the controls that we added in the Audio Visualizer exercises (play/pause button and volume slideer )
+      - the controls that we added in the Audio Visualizer exercises (play/pause button, volume slider and "Fullscreen" button)
       - a progress indicator - either in digital format such as `01:22` or as a graphical playhead or something non-standard
       - at least 2 additional sliders
       - at least 3 checkboxes
       - at least 1 radio button group
       - a way to choose between at least 3 distinct audio tracks (ideally, find your own tracks and don't reuse what we gave you) 
-      - A "fullscreen" button
+      - give the user the ability to view both the frequency AND the waveform data (not necessarily simultaneously)
+      - add at least one additional audio effect node (besides the analyser and gain nodes that were given to you in the HW), and give the user the ability to manipulate it. Be sure that the effect is *aesthetically pleasing* and not merely tacked on to meet a requirement
+     
 4) Ideas for optional controls:
       - Make your entire UI minimalist by using dat.gui instead of standard DOM controls --> http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
       - Mouse control (clicking or moving the mouse changes how the visualizer looks)
