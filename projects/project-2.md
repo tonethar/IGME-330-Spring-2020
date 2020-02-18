@@ -27,16 +27,16 @@
 
 - A) Your mission:
   - First, get a partner, and post both of your names to the discussion thread in mycourses. If you like, give your team a name. A partner is optional, you may work solo if you wish
-  - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project
+    - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project
   - In this project you will build on the Web Audio Visualizer ICE and create a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs:
-  - This could be a great portfolio piece for you - so give it your best effort!
-  - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome
-  - The assignment is graded out of 100 points. An A grade will be awarded only for meeting the requirements below, AND going sufficiently "above and beyond" the what we did in the Audio Visualizer ICE
-  - You will be evaluated on:
-    - the quality of the experience you create
-    - the soundness of your programming
-    - meeting the requirements detailed below
-    - how far you went beyond what we did in class, as described below
+    - This could be a great portfolio piece for you - so give it your best effort!
+    - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome
+    - The assignment is graded out of 100 points. An A grade will be awarded only for meeting the requirements below, AND going sufficiently "above and beyond" the what we did in the Audio Visualizer ICE
+    - You will be evaluated on:
+      - the quality of the experience you create
+      - the soundness of your programming
+      - meeting the requirements detailed below
+      - how far you went beyond what we did in class, as described below
     
 <a id="resources"></a> 
     
