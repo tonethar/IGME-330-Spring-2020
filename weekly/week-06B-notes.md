@@ -2,7 +2,7 @@
 
 ## Demo & Discussion
 
-- Due NOW - post to discussion thread!
+- Due NOW - post to [Project 2](../projects/project-2.md) discussion thread!
 - [Web Audio File Chooser Demo](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-file-chooser.md)
 - [Web Audio Demo II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
 
