@@ -2,6 +2,7 @@
 
 ## Demo & Discussion
 
+- [Web Audio File Chooser Demo](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-file-chooser.md)
 - [Web Audio Demo II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
 
 
