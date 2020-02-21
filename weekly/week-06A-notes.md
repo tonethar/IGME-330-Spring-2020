@@ -6,6 +6,7 @@
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
   - https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
+- [Web Audio Visualizer "Home" for IGME-330](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
 
 ## II. Presentation
 
