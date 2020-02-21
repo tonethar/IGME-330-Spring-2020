@@ -10,7 +10,7 @@
 
 ## II. Presentation
 
-- [Demo - Web Audio API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
+- [Web Audio I - Build a Simple Audio Visualizer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
 
 ## III. Homework Assignments
 
