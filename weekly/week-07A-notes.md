@@ -1,26 +1,10 @@
-# Week 7A - Look at Project 2 - Checkpoint #2
+# Week 7A - More WebAudio
 
 ## I. Overview & Agenda
-- ***Reminder: The midterm exam is next time!*** Here are some study resources, including a sample exam --> [midterm-exam-review.md](../exams/midterm-exam-review.md)
-- Look at Project 2 - Checkpoint #2 Submissions
+- ***Reminder: The midterm exam is next week on 8B (Thursday 3/5/2020)*** Here are some study resources (we'll take a quick peek now):
+  - [Midterm Review: Variables, scope & functions](../exams/midterm-variables-scope-functions-review.md)
+  - [Midterm Review: Objects & Classes](../exams/midterm-objects-classes-review.md)
 
-## II. Review Questions <a id="review-questions"></a> from last time
-
-**A. ES5 Object Literals**
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
-1. Describe *prototypical inheritance* & the *prototype chain*
-2. What is *property shadowing*?
-3. What property of all objects is used to implement *prototypical inheritance*
-4. What does **OLOO** stand for, and what method of `Object` is used to implement this concept?
-
-**B. ES6 Classes**
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
-1. Write a ES6 class named `Car`:
-    - it will have `year` and `speed` properties
-    - it will have a `.speedUp()` method that increases the car speed by 1
-    - it will have a constructor that takes `year` and `speed` parameters
-2. JavaScript classes, introduced in ECMAScript 2015, are primarily ___________ over JavaScript's existing prototype-based inheritance. 
-3. True or False. The JavaScript class syntax introduces a new object-oriented inheritance model to JavaScript.
 
 
 <hr><hr>
