@@ -33,8 +33,9 @@
 - All of our **HW assignments** - which are linked from the weekly notes above
 
 ## IV. Sample Questions
-- [Midterm Review: Variables, Scope & Functions](../exams/midterm-variables-scope-functions-review.md)
-- [Midterm Review: Objects & Classes](../exams/midterm-objects-classes-review.md)
+- [Midterm Review: Variables, Scope & Functions](./midterm-variables-scope-functions-review.md)
+- [Midterm Review: Objects & Classes](./midterm-objects-classes-review.md)
+- [Midterm Review: DOM](./midterm-dom-review.md)
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
 
 ## V. Major Topics (but everything is fair game)
