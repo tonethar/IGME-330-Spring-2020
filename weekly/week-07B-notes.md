@@ -1,6 +1,6 @@
-# Week 7B - Finish up Web Audio
+# Week 7B - Bitmap Manipulation
 
-
+- [Demo: Webcam Links](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-webcam-links.md)
 
 <hr><hr>
 
