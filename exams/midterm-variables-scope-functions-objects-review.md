@@ -41,14 +41,34 @@ VII. Answer Sheet
 
 JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by *default*. This includes variables & functions declared with `let`, `var`, and `const`, as well as functions declared with the `function` keyword
 
-- Assume that all following code is running in *strict mode*
 
 ### I-D. Questions on Variable Scope
 
 - For each question, what will be logged out? 
 - If there is an error, write "ERROR" next to the line of code that produces it
+- After you have answered all of the questions, test yourself in the debugger to see if you were right
+- Assume that all following code is running in *strict mode*
 
+<hr>
 1. 
+
+```js
+<script>
+  init();
+  
+  function init(){
+    var myNum = 0;
+    let myNum2 = 0;
+  }
+  
+   console.log(myNum);
+   console.log(myNum2);
+</script>
+```
+
+<hr>
+
+2. 
 
 ```js
 <script>
@@ -65,7 +85,7 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 <hr>
 
-2.
+3.
 
 ```js
 <script>
@@ -82,7 +102,7 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 <hr>
 
-3.
+4.
 
 ```js
 <script>
@@ -98,7 +118,7 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 <hr>
 
-4. 
+5. 
 
 ```js
 <script>
@@ -113,15 +133,78 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 <hr>
 
-4. What is the scope of variable `myNum` below?
+6. 
 
 ```js
-<script type="module">
-	const myNum = 0;
+<script>
+  function init(){
+    if(true){
+      for(var i=0;i<5;i++){
+      //
+      }
+    }
+   console.log(i);
+  }
+  
+</script>
+```
 
-	function init(){
-		console.log(myNum);
-	}
+<hr>
+
+7. 
+
+```js
+<script>
+  function init(){
+    if(true){
+      for(let i=0;i<5;i++){
+      //
+      }
+    }
+   console.log(i);
+  }
+  
+</script>
+```
+
+<hr>
+
+8. 
+
+```js
+<script>
+function init(){
+  console.log("Hi there!");
+}
+
+init();
+</script>
+```
+
+<hr>
+
+9. 
+
+```js
+<script>
+let init = () => {
+  console.log("Hi there!");
+}
+
+init();
+</script>
+```
+
+<hr>
+
+10. What is the *scope* of the `init` function below?
+
+```js
+<script>
+let init = () => {
+  console.log("Hi there!");
+}
+
 </script>
 ```
 
@@ -131,26 +214,20 @@ B) function/local
 
 C) global
 
-D) property
+D) script
 
-E) script
-
-F) module
+E) module
 
 <hr>
 
 
-5. What is the scope of variable `myNum` below?
+11. What is the *scope* of the `init` function below?
 
 ```js
 <script>
-	function init(){
-		if(true){
-			for(var i=0;i<5;i++){
-				let myNum = 0;
-			}
-		}
-	}
+  function init(){
+    console.log("Hi there!");
+  }
 </script>
 ```
 
@@ -160,50 +237,23 @@ B) function/local
 
 C) global
 
-D) property
+D) script
 
-E) script
-
-F) module
+E) module
 
 <hr>
 
-
-6. What is the scope of the `init` function below?
-
-```js
-<script>
-	function init(){
-		console.log("Hi there!");
-	}
-</script>
-```
-
-A) block
-
-B) function/local
-
-C) global
-
-D) property
-
-E) script
-
-F) module
-
-<hr>
-
-7. What is the scope of the `pi` function below?
+12. What is the *scope* of the `pi` function below?
 
 ```js
 <script>
-	function init(){
-		console.log("pi is approximately " + pi());
+  function init(){
+    console.log("pi is approximately " + pi());
 		
-		function pi(){
-			return 3.1415;
-		}
-	}
+    function pi(){
+      return 3.1415;
+    }
+  }
 </script>
 ```
 
@@ -213,114 +263,37 @@ B) function/local
 
 C) global
 
-D) property
+D) script
 
-E) script
-
-F) module
+E) module
 
 <hr>
 
-- **Note: questions #8 - #12 below are mostly illustrating "`var` weirdness" and the effects of variable *hoisting***
-- **We will not be asking you a lot of `var` questions on the midterm as we are discouraging its use in this course**
-
-<hr>
-
-8. What will be logged out below?
+13. What is the *scope* of the `pi` function below?
 
 ```js
 <script>
-	var x;
-	console.log(x);
-	x = 10;
+  function init(){
+    const pi = () => {
+      return 3.1415;
+    }
+  }
 </script>
 ```
 
-A) This will produce a runtime error
+A) block
 
-B) 10
+B) function/local
 
-C) undefined
+C) global
+
+D) script
+
+E) module
 
 <hr>
 
-9. What will be logged out below?
 
-```js
-<script>
-	console.log(x);
-	var x;
-	x = 10;
-</script>
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-10. What will be logged out below?
-
-```js
-<script>
-	console.log(x);
-	let x;
-	x = 10;
-</script>
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-11. What will be logged out below?
-
-```js
-<script>
-	if (true){
-		var x = 10;
-	}
-	if(true){
-		console.log(x);
-	}
-	
-</script>
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-12. What will be logged out below?
-
-```js
-<script>
-	if (true){
-		let x = 10;
-	}
-	if(true){
-		console.log(x);
-	}
-	
-</script>
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
 
 <hr><hr>
 
@@ -329,7 +302,30 @@ C) undefined
 
 - "The `const` declaration creates a read-only reference to a value. It does not mean the value it holds is immutable, just that the variable identifier cannot be reassigned. For instance, in the case where the content is an object, this means the object's contents (e.g., its properties) can be altered." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 
+- After you have answered all of the questions, test yourself in the debugger to see if you were right
+- Assume that all following code is running in *strict mode*
+
+<hr>
+
 1. What will be logged when this code runs?
+
+```js
+const y = 1;
+y++;
+console.log(y);
+```
+
+A) This will produce a runtime error
+
+B) 1
+
+C) 2
+
+D) undefined
+
+<hr>
+
+2. What will be logged when this code runs?
 
 ```js
 const x = {};
@@ -345,7 +341,7 @@ C) undefined
 
 <hr>
 
-2. What will be logged when this code runs?
+3. What will be logged when this code runs?
 
 ```js
 const x = {};
@@ -364,22 +360,46 @@ D) undefined
 
 <hr>
 
+- Read about what `Object.seal()` and `Object.freeze()` do there:
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
 
-3. What will be logged when this code runs?
+<hr>
+
+4. What will be logged when this code runs?
 
 ```js
-const y = 1;
-y++;
-console.log(y);
+const x = Object.seal({species: "Orc"});
+x.species = "Goblin";
+console.log(x.species);
 ```
 
 A) This will produce a runtime error
 
-B) 1
+B) "Orc"
 
-C) 2
+C) "Goblin"
 
 D) undefined
+
+<hr>
+
+5. What will be logged when this code runs?
+
+```js
+const x = Object.freeze({species: "Orc"});
+x.species = "Goblin";
+console.log(x.species);
+```
+
+A) This will produce a runtime error
+
+B) "Orc"
+
+C) "Goblin"
+
+D) undefined
+
 
 
 <hr><hr>
