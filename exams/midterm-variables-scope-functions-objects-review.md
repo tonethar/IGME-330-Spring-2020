@@ -17,7 +17,7 @@ V. [Classes](#classes)
 
 VI. [Interview-Style Question](#interview-question)
 
-VII. [Answer Sheet]()#
+VII. [Answer Sheet](#answer-sheet)
 
 <hr><hr>
 
