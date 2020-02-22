@@ -11,13 +11,9 @@ II. [Immutabilty](#immutabilty)
 
 III. [Writing JavaScript Functions](#javaScript-functions)
 
-IV. [Object Literals](#object-literals)
+IV. [Interview-Style Question](#interview-question)
 
-V. [Classes](#classes)
-
-VI. [Interview-Style Question](#interview-question)
-
-VII. [Answer Sheet](#answer-sheet)
+V. [Answer Sheet](#answer-sheet)
 
 <hr><hr>
 
@@ -552,7 +548,7 @@ D) undefined
 
 ## VII. Answer Sheet
 
-- Here it is --> [midterm-inclass-review-answer-sheet.txt](./midterm-inclass-review-answer-sheet.txt)
+- Here it is --> [midterm-review-variables-scope-functions-answer-sheet.txt](./midterm-review-variables-scope-functions-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 
 <hr><hr>
