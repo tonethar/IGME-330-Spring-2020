@@ -1,8 +1,6 @@
-# Week 7B - Midterm Exam
+# Week 7B - Finish up Web Audio
 
-- Don't be late
-- Bring 2 pencils (or bring a pen and don't make any mistakes)
-- No makeups will be give without prior approval by professor
+
 
 <hr><hr>
 
