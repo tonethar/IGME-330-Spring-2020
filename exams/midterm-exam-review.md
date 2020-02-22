@@ -33,7 +33,7 @@
 - All of our **HW assignments** - which are linked from the weekly notes above
 
 ## IV. Sample Questions
-- [Midterm Review: Variables, scope & functions](../exams/midterm-variables-scope-functions-review.md)
+- [Midterm Review: Variables, Scope & Functions](../exams/midterm-variables-scope-functions-review.md)
 - [Midterm Review: Objects & Classes](../exams/midterm-objects-classes-review.md)
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
 
