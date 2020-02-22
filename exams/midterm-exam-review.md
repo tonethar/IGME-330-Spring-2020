@@ -3,8 +3,7 @@
 ## I. Overview
 
 **When:**
-- Sections 01 & 02 - Thursday 10/10/19 - start of class
-- Section 03 - Wednesday 10/09/19 - start of class
+- Thursday 3/05/2020 - start of class
 
 **What is tested:**
 - Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 8A](../weekly/week-08-notes.md)
@@ -34,12 +33,9 @@
 - All of our **HW assignments** - which are linked from the weekly notes above
 
 ## IV. Sample Questions
-- [midterm-variables-scope-functions-objects-review.md](./midterm-variables-scope-functions-objects-review.md)
+- [Midterm Review: Variables, scope & functions](../exams/midterm-variables-scope-functions-review.md)
+- [Midterm Review: Objects & Classes](../exams/midterm-objects-classes-review.md)
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
-- [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
-- [week-05A-notes.md#review-questions](../weekly/week-05A-notes.md#review-questions)
-- [week-06A-notes.md#review-questions](../weekly/week-06A-notes.md#review-questions)
-- [week-07A-notes.md#review-questions](../weekly/week-07A-notes.md#review-questions)
 
 ## V. Major Topics (but everything is fair game)
 
