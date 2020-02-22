@@ -12,12 +12,15 @@
 10)
 11)
 12)
+13)
 
 **II. Immutability**
 
 1)
 2)
 3)
+4)
+5)
 
 **III. Writing JavaScript Functions**
 
@@ -36,3 +39,4 @@
 
 1)
 2)
+3)
