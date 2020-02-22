@@ -1,4 +1,4 @@
-# Objects & Clases *Review*
+# Objects & Classes *Review*
 
 - For the review questions below, assume that all of the code is running in *strict mode*
 - Be sure to study for the exam by reviewing the resources that we suggested --> [midterm-exam-review.md](./midterm-exam-review.md)
