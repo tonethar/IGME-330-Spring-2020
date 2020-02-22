@@ -54,13 +54,11 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 ```js
 <script>
-  init();
-  
   function init(){
     var myNum = 0;
     let myNum2 = 0;
   }
-  
+   init();
    console.log(myNum);
    console.log(myNum2);
 </script>
