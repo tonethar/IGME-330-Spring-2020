@@ -8,4 +8,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-07B-notes.md**](week-07B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-09A-notes.md**](week-09A-notes.md)
+| [**week-07B-notes.md**](week-07B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-08B-notes.md**](week-09A-notes.md)
