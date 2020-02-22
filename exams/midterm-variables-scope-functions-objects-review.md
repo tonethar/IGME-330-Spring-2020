@@ -526,17 +526,17 @@ D) undefined
 
 1. Create an ES6 class named `Person`
 
-  - give it a constructor that takes `age` and `name` as values
-  - initialize those values as  `age` and `name` properties
-  - implement a `reincarnate()` method that sets the `age` property to `0`
+    - give it a constructor that takes `age` and `name` as values
+    - initialize those values as  `age` and `name` properties
+    - implement a `reincarnate()` method that sets the `age` property to `0`
 
 2. Create a new instance of `Person` called `p1`, with an `age` of 18, and `name` of `Ace Coder`
 
 3. Write a class named `WarriorKing` that subclasses `Person`:
 
-  - give it a constructor that takes `age` and `name` and `nemesis` as values
-  - initialize the `age` and `name` properties by  calling the super class
-  - create a property named `nemesis` using the passed in value
+    - give it a constructor that takes `age` and `name` and `nemesis` as values
+    - initialize the `age` and `name` properties by  calling the super class
+    - create a property named `nemesis` using the passed in value
 
 <hr><hr>
 
