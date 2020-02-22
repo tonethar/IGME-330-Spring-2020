@@ -5,19 +5,19 @@
 
 <hr>
 
-I. Declaring variables with `var`, `let` & `const`
+I. [Declaring variables with `var`, `let` & `const`](#variable-scope)
 
-II. Immutabilty
+II. [Immutabilty](#immutabilty)
 
-III. Writing JavaScript Functions
+III. [Writing JavaScript Functions](#javaScript-functions)
 
-IV. Object Literals
+IV. [Object Literals](#object-literals)
 
-V. Classes
+V. [Classes](#classes)
 
-VI. Interview-Style Question
+VI. [Interview-Style Question](#interview-question)
 
-VII. Answer Sheet
+VII. [Answer Sheet]()#
 
 <hr><hr>
 
@@ -41,6 +41,9 @@ VII. Answer Sheet
 
 JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by *default*. This includes variables & functions declared with `let`, `var`, and `const`, as well as functions declared with the `function` keyword
 
+<hr>
+
+<a id="variable-scope"/>
 
 ### I-D. Questions on Variable Scope
 
@@ -49,7 +52,6 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 - After you have answered all of the questions, test yourself in the debugger to see if you were right
 - Assume that all following code is running in *strict mode*
 
-<hr>
 1. 
 
 ```js
@@ -295,6 +297,7 @@ E) module
 
 <hr><hr>
 
+<a id="immutability"/>
 
 ## II. Immutability
 
@@ -402,6 +405,8 @@ D) undefined
 
 <hr><hr>
 
+<a id="javascript-functions"/>
+
 ## III. Writing JavaScript Functions
 
 1) Declare a JavaScript function named `doubleIt` that accepts a number as an argument. This function will double the number and return the result.
@@ -411,6 +416,8 @@ D) undefined
 
 
 <hr><hr>
+
+<a id="object-literals"/>
 
 ## IV. Object Literals
 
@@ -513,6 +520,8 @@ D) undefined
 
 <hr><hr>
 
+<a id="classes"/>
+
 ## V. Classes
 
 1. Create an ES6 class named `Person`
@@ -525,11 +534,15 @@ D) undefined
 
 <hr><hr>
 
+<a id="interview-questions"/>
+
 ## VI. Interview-Style Question
 
 - Be sure you practice the interview question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
 
 <hr><hr>
+
+<a id="answer-sheet"/>
 
 ## VII. Answer Sheet
 
