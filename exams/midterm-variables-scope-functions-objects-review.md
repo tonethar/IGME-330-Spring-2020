@@ -41,86 +41,75 @@ VII. Answer Sheet
 
 JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by *default*. This includes variables & functions declared with `let`, `var`, and `const`, as well as functions declared with the `function` keyword
 
+- Assume that all following code is running in *strict mode*
+
 ### I-D. Questions on Variable Scope
 
-1. What is the scope of the variable `myNum` below?
+- For each question, what will be logged out? 
+- If there is an error, write "ERROR" next to the line of code that produces it
+
+1. 
 
 ```js
 <script>
-	function init(){
-		if(true){
-		  var myNum = 0;
-		  console.log(myNum);
-		}
-	}
+  init();
+  
+  function init(){
+    if(true){
+      var myNum = 0;
+    }
+    console.log(myNum);
+  }
 </script>
 ```
-
-A) block
-
-B) function/local
-
-C) global
-
-D) property
-
-E) script
-
-F) module
 
 <hr>
 
-2. What is the scope of variable `myNum` below?
+2.
 
 ```js
 <script>
-	var myNum = 0;
-
-	function init(){
-		console.log(myNum);
-	}
+  init();
+  
+  function init(){
+    if(true){
+      let myNum = 0;
+    }
+    console.log(myNum);
+  }
 </script>
 ```
-
-
-A) block
-
-B) function/local
-
-C) global
-
-D) property
-
-E) script
-
-F) module
 
 <hr>
 
-3. What is the scope of variable `myNum` below?
+3.
 
 ```js
 <script>
-	let myNum = 0;
+  init();
+  
+  var myNum = 0;
 
-	function init(){
-		console.log(myNum);
-	}
+  function init(){
+    console.log(myNum);
+  }
 </script>
 ```
 
+<hr>
 
-A) block
+4. 
 
-B) function/local
+```js
+<script>
+  init();
+  let myNum = 0;
 
-C) global
-
-D) property
-
-E) script
-
-F) module
+  function init(){
+    console.log(myNum);
+  }
+</script>
+```
 
 <hr>
 
