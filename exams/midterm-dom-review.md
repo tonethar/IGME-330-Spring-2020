@@ -17,3 +17,26 @@
     - Add this list to a &lt;section> of `id="content"` 
     
 `let colors=["Red", "Green", "Blue"];`
+
+5. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Example 1</title>
+<script>
+	function init(){
+		let myH1 = document.querySelector("#main");
+		myH1.innerHTML="Welcome to my favorite music page";
+	}
+	
+	init();
+
+</script>
+</head>
+<body>
+	<h1 id="main">This is my header</h1>
+</body>
+</html>
+```
