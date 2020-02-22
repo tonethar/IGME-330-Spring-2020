@@ -36,6 +36,8 @@
 - [Midterm Review: Variables, Scope & Functions](./midterm-variables-scope-functions-review.md)
 - [Midterm Review: Objects & Classes](./midterm-objects-classes-review.md)
 - [Midterm Review: DOM](./midterm-dom-review.md)
+- [Midterm Review: JS Modules](./midterm-js-modules-review.md)
+- [Midterm Review: Web Audio](./midterm-webaudio-review.md)
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
 
 ## V. Major Topics (but everything is fair game)
