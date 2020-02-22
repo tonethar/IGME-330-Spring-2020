@@ -15,7 +15,7 @@ III. [Answer Sheet](#answer-sheet)
 
 <a id="object-literals"/>
 
-## IV. Object Literals
+## I. Object Literals
 
 1. What will be logged when this code runs?
 
@@ -118,7 +118,7 @@ D) undefined
 
 <a id="classes"/>
 
-## V. Classes
+## II. Classes
 
 1. Create an ES6 class named `Person`
 
