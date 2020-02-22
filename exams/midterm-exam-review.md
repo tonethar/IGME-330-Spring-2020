@@ -7,7 +7,7 @@
 - Section 03 - Wednesday 10/09/19 - start of class
 
 **What is tested:**
-- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 7A](../weekly/week-07A-notes.md)
+- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 8A](../weekly/week-08-notes.md)
 
 **What else:**
 - No make up's allowed without prior permission.
