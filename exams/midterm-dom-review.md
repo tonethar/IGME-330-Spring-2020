@@ -12,7 +12,7 @@
 
 3. Given a page with a &lt;p> element of `id="score"`, utilize JavaScript to change the visible text of the paragraph to "Score: 100"
 
-4. Loop through the `colors` array and:
+4. Write code that loops through the `colors` array and:
     - Create an *unordered* list of the contents of the array
     - Add this list to a &lt;section> of `id="content"` 
     
