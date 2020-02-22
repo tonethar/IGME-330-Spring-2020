@@ -13,8 +13,8 @@
 - [Week 04 (Feb 03) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
 - [Week 05 (Feb 10) : Sprites / ES6 Module Pattern](#week5)
 - [Week 06 (Feb 17) : Intro to Web Audio](#week6)
-- [Week 07 (Feb 24) : More Web Audio](#week7)
-- [Week 08 (Mar 03) : Begin Computational Text Unit  ](#week8)
+- [Week 07 (Feb 24) : Finish Web Audio & Bitmap Manipulation](#week7)
+- [Week 08 (Mar 03) : Catchup / Midterm Exam](#week8)
 - ***\*\*March 08-15 -- Spring Break\*\****
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
 - [Week 10 (Mar 24) : Context-free Grammars / Web Services Review](#week10)
@@ -50,13 +50,14 @@
   - [Week 6B - More Audio Visualizer](weekly/week-06B-notes.md)
  
 ## <a id="week7">Week 7 : More Web Audio
-  - [Week 7A - Review Project 2 Checkpoint #2](weekly/week-07A-notes.md)
-  - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
+  - [Week 7A - Finish WebAudio](weekly/week-07A-notes.md)
+  - [Week 7B - Bitmap Manipulation](weekly/week-07B-notes.md)
  
-## <a id="week8">Week 8 : Review midterm/ Project 2 / Begin Computational Text Unit
-  - [Week 8 - Text & Computation](weekly/week-08-notes.md)
+## <a id="week8">Week 8 : Catchup / Midterm Exam
+  - [Week 8A - Catchup](weekly/week-08A-notes.md)
+  - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
   
-## <a id="week9">Week 9 :  Constrained Writing and Simple Text Analysis / Computational Literature
+## <a id="week9">Week 9 :  Begin Computational Text Unit Constrained Writing and Simple Text Analysis / Computational Literature
   - [Week 9A - Constrained Writing and Simple Text Analysis](weekly/week-09A-notes.md)
   - [Week 9B - Computational Literature with RiTa](weekly/week-09B-notes.md) 
   
