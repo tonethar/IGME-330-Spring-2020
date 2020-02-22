@@ -297,7 +297,7 @@ E) module
 
 <hr><hr>
 
-<a id="immutability"/>
+<a id="immutabilty"/>
 
 ## II. Immutability
 
