@@ -16,7 +16,7 @@
     - Creates an *unordered* list of the contents of the array
     - Adds this list to a &lt;section> of `id="content"` 
     
-`let colors=["Red", "Green", "Blue"];`
+    `let colors=["Red", "Green", "Blue"];`
 
 5. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
 
