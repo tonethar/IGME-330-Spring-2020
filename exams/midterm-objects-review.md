@@ -1,4 +1,4 @@
-# Variables and scope and functions *Review*
+# Objects & Clases *Review*
 
 - For the review questions below, assume that all of the code is running in *strict mode*
 - Be sure to study for the exam by reviewing the resources that we suggested --> [midterm-exam-review.md](./midterm-exam-review.md)
@@ -139,7 +139,7 @@ D) undefined
 
 ## III. Answer Sheet
 
-- Here it is --> [midterm-inclass-review-answer-sheet.txt](./midterm-inclass-review-answer-sheet.txt)
+- Here it is --> [midterm-review-objects-classes-answer-sheet.txt](./midterm-review-objects-classes-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 - Then check your answers by trying the code out in a browser
 
