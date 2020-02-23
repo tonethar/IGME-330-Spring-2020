@@ -4,13 +4,14 @@
 1) Reminder: 
 - ***the midterm exam is next week on 8B (Thursday 3/5/2020)*** 
 - [Midterm Exam Notes](../exams/midterm-exam-review.md)
-- here are some study resources to get you started (we'll take a quick peek now):
+- here are some study resources to get you started (*we'll review the first of these now*):
     - [Midterm Review: Variables, Scope & Functions](../exams/midterm-variables-scope-functions-review.md)
     - [Midterm Review: Objects & Classes](../exams/midterm-objects-classes-review.md)
     - [Midterm Review: DOM](../exams/midterm-dom-review.md)
     - [Midterm Review: JS Modules](../exams/midterm-js-modules-review.md)
     - [Midterm Review: Web Audio](../exams/midterm-webaudio-review.md)
 2) More WebAudio:
+- Convolutions
 
 
 
