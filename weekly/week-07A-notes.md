@@ -11,8 +11,8 @@
     - [Midterm Review: JS Modules](../exams/midterm-js-modules-review.md)
     - WebAudio:
       - [Midterm Review: Web Audio](../exams/midterm-webaudio-review.md)
-      - [WebAudio "Home Page"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md) -  links to all IGME-330 WebAudio resources
       - [Web Audio Study Guide - Chapter 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-chapter-1.md) - there are sample questions here
+       - [WebAudio "Home Page"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md) -  links to all IGME-330 WebAudio resources
 2) More WebAudio:
     - [Web Audio IV - Audio Concepts Review](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-4.md)
     - [Web Audio V - The WebAudio Convolver Node](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-5.md)
