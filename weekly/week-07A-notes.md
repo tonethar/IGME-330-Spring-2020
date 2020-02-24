@@ -10,6 +10,7 @@
     - [Midterm Review: DOM](../exams/midterm-dom-review.md)
     - [Midterm Review: JS Modules](../exams/midterm-js-modules-review.md)
     - [Midterm Review: Web Audio](../exams/midterm-webaudio-review.md)
+    - [All IGME-330 WebAudio Resources](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
 2) More WebAudio:
     - [Web Audio IV - Audio Concepts Review](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-4.md)
     - [Web Audio V - The WebAudio Convolver Node](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-5.md)
