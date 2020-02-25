@@ -1,6 +1,7 @@
 # Week 7B - Bitmap Manipulation
 
-- Look at (a few) [Project 2]() protoypes
+- Look at (a few) [Project 2](../projects/project-2.md) protoypes
+- Do some midterm exam review
 - [Web Audio VI - Bitmap Effects](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md)
 
 <hr><hr>
