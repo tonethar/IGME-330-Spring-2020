@@ -1,6 +1,7 @@
 # Week 7B - Bitmap Manipulation
 
-- [Demo: Webcam Links](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-webcam-links.md)
+- Look at (a few) [Project 2]() protoypes
+- [Web Audio VI - Bitmap Effects](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md)
 
 <hr><hr>
 
