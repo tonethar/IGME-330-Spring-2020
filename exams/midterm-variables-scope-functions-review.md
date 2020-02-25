@@ -173,11 +173,11 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 ```js
 <script>
+init();
+
 function init(){
   console.log("Hi there!");
 }
-
-init();
 </script>
 ```
 
@@ -187,11 +187,11 @@ init();
 
 ```js
 <script>
+init();
+
 let init = () => {
   console.log("Hi there!");
 }
-
-init();
 </script>
 ```
 
