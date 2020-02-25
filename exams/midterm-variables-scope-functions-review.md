@@ -142,6 +142,8 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
    console.log(i);
   }
   
+  init();
+  
 </script>
 ```
 
@@ -159,6 +161,8 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
     }
    console.log(i);
   }
+  
+  init();
   
 </script>
 ```
