@@ -453,6 +453,7 @@ D) undefined
 ## V. Answer Sheet
 
 - Test yourself!  Answer the questions without using your neighbor or the Internet
+- Then check your answers by trying the code out in a browser
 
 ```text
 **I. Variable Scope**
