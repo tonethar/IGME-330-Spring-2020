@@ -43,7 +43,7 @@ JavaScript code written inside of an ES6 Module is *private* (not visible from o
 
 ### I-D. Questions on Variable Scope
 
-- For each question, what will be logged out? 
+- For questions #1 - #9, what will be logged out? 
 - If there is an error, write "ERROR" next to the line of code that produces it
 - After you have answered all of the questions, test yourself in the debugger to see if you were right
 - Assume that all following code is running in *strict mode*
