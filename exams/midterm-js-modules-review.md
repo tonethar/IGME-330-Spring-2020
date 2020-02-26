@@ -84,4 +84,37 @@ function hello(){
 
 ```
 
-<hr>
+<hr><hr>
+
+##  II. Answer Sheet
+
+- Test yourself!  Answer the questions without using your neighbor or the Internet
+- Then check your answers by trying the code out in a browser
+
+```text
+**I. IIFE Fun**
+
+1)
+
+2)
+
+3)
+
+**II. ES6 Module Fun**
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+```
