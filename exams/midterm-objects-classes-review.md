@@ -59,7 +59,7 @@ console.log(car.cylinders);
 
 A) This will produce a runtime error
 
-B) 10
+B) 0
 
 C) undefined
 
@@ -81,7 +81,7 @@ console.log(car.cylinders);
 
 A) This will produce a runtime error
 
-B) 10
+B) 0
 
 C) undefined
 
