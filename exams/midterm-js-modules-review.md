@@ -1,5 +1,7 @@
 # JavaScript Modules *Review*
 
+<hr><hr>
+
 ## I. IIFE Fun
 
 <hr>
