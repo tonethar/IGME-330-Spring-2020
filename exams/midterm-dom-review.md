@@ -6,7 +6,7 @@
 
 <hr><hr>
 
-1. Given a page that has a &lt;button> with an `id="button1"`, write JS code to attach a click event to the button. When the button is clicked, the function should print "I was clicked"
+1. Given a page that has a &lt;button> with an `id="button1"`, write JS code to attach a click event to the button. When the button is clicked, the function should print "I was clicked" to the console.
 
 <hr>
 
