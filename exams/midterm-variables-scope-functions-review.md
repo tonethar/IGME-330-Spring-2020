@@ -22,8 +22,8 @@ V. [Answer Sheet](#answer-sheet)
 ### I-A. Declaring variables with `var`
 
 - "The scope of a variable declared with `var` is its current execution context, which is either the enclosing function or, for variables declared outside any function, global. If you re-declare a JavaScript variable, it will not lose its value." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
-- PS: When a function is declared, it follows the same scope rules
-- "Because variable declarations (and declarations in general) are processed before any code is executed, declaring a variable *anywhere* in the code is equivalent to declaring it at the top. This also means that a variable can appear to be used before it's declared. This behavior is called "hoisting", as it appears that the variable declaration is moved to the top of the function or global code."
+- PS: When a function is declared with the `function` keyword, it follows the same scope rules
+- "Because `var` variable declarations (and declarations in general) are processed before any code is executed, declaring a variable *anywhere* in the code is equivalent to declaring it at the top. This also means that a variable can appear to be used before it's declared. This behavior is called "hoisting", as it appears that the variable declaration is moved to the top of the function or global code."
 
 ### I-B. Declaring variables with `let` & `const`
 
