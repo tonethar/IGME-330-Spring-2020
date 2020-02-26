@@ -118,7 +118,7 @@ D) undefined
 
 <hr>
 
-6. Create an object literal named "monster":
+6. Create a JS [*object literal*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) named `monster`:
     - give it a `species` property with a value of "orc"
     - give it a `hitpoints` property with a value of 10
     - give it a method named `slay()` - this method sets `hitpoints` to 0 when it is called
