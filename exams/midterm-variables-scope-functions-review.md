@@ -304,9 +304,6 @@ E) module
     myNum = 0;
     myNum2 = 0;
   }
-   init();
-   console.log(myNum);
-   console.log(myNum2);
 </script>
 ```
 
@@ -314,12 +311,10 @@ E) module
 
 ```js
 <script type="module">
-
   var myNum = 10;
   let myNum2 = 10;
   window["myNum3"] = 30;
   window.myNum4 = 40;
-  
 </script>
 ```
 
