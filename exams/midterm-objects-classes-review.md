@@ -5,9 +5,9 @@
 
 <hr>
 
-I. [Object Literals](#object-literals)
+I. [Object Literals](#object-literals) - 6 questions
 
-II. [Classes](#classes)
+II. [Classes](#classes) - 3 questions
 
 III. [Answer Sheet](#answer-sheet)
 
@@ -143,14 +143,31 @@ D) undefined
     - initialize the `age` and `name` properties by  calling the super class
     - create a property named `nemesis` using the passed in value
 
+<hr><hr>
 
 <a id="answer-sheet"/>
 
 ## III. Answer Sheet
 
-- Here it is --> [midterm-review-objects-classes-answer-sheet.txt](./midterm-review-objects-classes-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 - Then check your answers by trying the code out in a browser
+
+```text
+**I. Object Literals**
+
+1)
+2)
+3)
+4)
+5)
+6)
+
+**II. Classes**
+
+1)
+2)
+3)
+```
 
 <hr><hr>
 
