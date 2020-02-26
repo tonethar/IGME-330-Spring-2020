@@ -312,7 +312,7 @@ E) module
 ```js
 <script type="module">
   var myNum = 10;
-  let myNum2 = 10;
+  let myNum2 = 20;
   window["myNum3"] = 30;
   window.myNum4 = 40;
 </script>
