@@ -1,6 +1,6 @@
 # DOM *Review*
 
-- For the review questions below, assume that all of the code is running in *strict mode*
+- For the review questions below, assume that all of the code is running in [*strict mode*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 - In the short answer questions below, you may not use `document.getElementsByTagname()` or `document.getElementById()` etc. Instead, use one of the 2 methods we have been using in class 
 - Be sure to study for the exam by reviewing the resources that we suggested --> [midterm-exam-review.md](./midterm-exam-review.md)
 
