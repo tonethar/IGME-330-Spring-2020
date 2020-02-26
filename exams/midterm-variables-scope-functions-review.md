@@ -304,7 +304,7 @@ E) module
 - "The `const` declaration creates a read-only reference to a value. It does not mean the value it holds is immutable, just that the variable identifier cannot be reassigned. For instance, in the case where the content is an object, this means the object's contents (e.g., its properties) can be altered." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 
 - After you have answered all of the questions, test yourself in the debugger to see if you were right
-- Assume that all following code is running in *strict mode*
+- Assume that all of the following code is running in [*strict mode*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
 <hr>
 
