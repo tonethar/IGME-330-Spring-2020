@@ -2,6 +2,8 @@
 
 ## I. IIFE Fun
 
+<hr>
+
 1) What does IIFE ("Iffy") stand for?
 
 <hr>
@@ -77,3 +79,5 @@ function hello(){
 }
 
 ```
+
+<hr>
