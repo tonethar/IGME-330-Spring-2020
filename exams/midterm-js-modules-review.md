@@ -22,6 +22,8 @@ function hello(){
   console.log(`Hello ${name}`);
 }
 
+hello();
+
 ```
 
 <hr><hr>
