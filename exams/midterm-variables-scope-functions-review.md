@@ -7,7 +7,7 @@
 
 I. [Declaring variables with `var`, `let` & `const`](#variable-scope) - 15 questions
 
-II. [Immutabilty](#immutabilty) - 5 questions 
+II. [Immutabilty](#immutabilty) - 6 questions 
 
 III. [Writing JavaScript Functions](#javaScript-functions) -  2 questions
 
@@ -411,6 +411,24 @@ D) undefined
 5. What will be logged when this code runs?
 
 ```js
+const x = Object.seal({species: "Orc"});
+x.hitpoints = 10;
+console.log(x.species);
+```
+
+A) This will produce a runtime error
+
+B) "Orc"
+
+C) "Goblin"
+
+D) undefined
+
+<hr>
+
+6. What will be logged when this code runs?
+
+```js
 const x = Object.freeze({species: "Orc"});
 x.species = "Goblin";
 console.log(x.species);
@@ -481,6 +499,7 @@ D) undefined
 3)
 4)
 5)
+6)
 
 **III. Writing JavaScript Functions**
 
