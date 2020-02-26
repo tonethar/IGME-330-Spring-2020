@@ -485,6 +485,10 @@ D) undefined
 
 1)
 2)
+
+**Interview-Style Question**
+
+1)
 ```
 
 <hr><hr>
