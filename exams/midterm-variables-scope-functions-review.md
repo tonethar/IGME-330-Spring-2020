@@ -452,7 +452,6 @@ D) undefined
 
 ## V. Answer Sheet
 
-- Here it is --> [midterm-review-variables-scope-functions-answer-sheet.txt](./midterm-review-variables-scope-functions-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 
 ```text
