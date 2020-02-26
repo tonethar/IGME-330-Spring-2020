@@ -60,9 +60,9 @@ function hello(){
   
     C) are designed in such a way as to minimize dependencies between different modules
 
-  - **Describe how A above is reflected in ES6 Modules**
-  - **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
-  - **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+    - **Describe how A above is reflected in ES6 Modules**
+    - **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+    - **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
 
 <hr>
 
