@@ -114,6 +114,15 @@ C) "green"
 
 D) undefined
 
+
+
+<hr>
+
+6. Create an object literal named "monster":
+    - give it a `species` property with a value of "orc"
+    - give it a `hitpoints` property with a value of 10
+    - give it a method named `slay()` - this method sets `hitpoints` to 0 when it is called
+
 <hr><hr>
 
 <a id="classes"/>
