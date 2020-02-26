@@ -28,6 +28,8 @@ function hello(){
 
 ## II. ES6 Module Fun
 
+<hr>
+
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
 <hr>
