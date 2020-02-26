@@ -71,8 +71,8 @@ hello();
 <hr>
 
 8) Modify the code below to turn the following into an ES6 module (without using a &lt;script> tag):
-  - `name` will remain "private" and NOT be visible outside of the module
-  - the `hello` function will be "public" and visible outside of the module
+  - `name` will remain "private", and NOT be visible outside of the module
+  - the `hello` function will be "public", and WILL be visible outside of the module
 
 ```js
 
