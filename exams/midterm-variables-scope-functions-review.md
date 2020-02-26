@@ -440,113 +440,9 @@ D) undefined
 
 <hr><hr>
 
-<a id="object-literals"/>
-
-## IV. Object Literals
-
-1. What will be logged when this code runs?
-
-```js
-let car = {color: "red"};
-car.cylinders = 10;
-console.log(car.cylinders);
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-2. What will be logged when this code runs?
-
-```js
-let car = {color: "red"};
-car["cylinders"] = 10;
-console.log(car.cylinders);
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-
-3. What will be logged when this code runs?
-
-```js
-let car = {color: "red"};
-console.log(car.cylinders);
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-4. What will be logged when this code runs?
-
-```js
-class Car{
-	constructor(color){
-		this.car = color;
-	}
-}
-
-let car = new Car("red");
-car.cylinders = 10;
-console.log(car.cylinders);
-```
-
-A) This will produce a runtime error
-
-B) 10
-
-C) undefined
-
-<hr>
-
-5. What will be logged when this code runs?
-
-```js
-class Car{
-	constructor(color){
-		this.car = color;
-	}
-	
-	repaint(newColor){
-		let oldColor = this.color;
-		this.color = newColor; 
-	}
-}
-
-let car = new Car("red");
-car.repaint("green");
-console.log(car.oldColor);
-```
-
-A) This will produce a runtime error
-
-B) "red"
-
-C) "green"
-
-D) undefined
-
-<hr><hr>
-
-
 <a id="interview-question"/>
 
-## V. Interview-Style Question
+## IV. Interview-Style Question
 
 - Be sure you practice the interview question at the end of [sample-midterm-exam.md](./sample-midterm-exam.md)
 
@@ -554,7 +450,7 @@ D) undefined
 
 <a id="answer-sheet"/>
 
-## VI. Answer Sheet
+## V. Answer Sheet
 
 - Here it is --> [midterm-review-variables-scope-functions-answer-sheet.txt](./midterm-review-variables-scope-functions-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
