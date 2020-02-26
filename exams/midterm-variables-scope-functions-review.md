@@ -5,13 +5,13 @@
 
 <hr>
 
-I. [Declaring variables with `var`, `let` & `const`](#variable-scope)
+I. [Declaring variables with `var`, `let` & `const`](#variable-scope) - 15 questions
 
-II. [Immutabilty](#immutabilty)
+II. [Immutabilty](#immutabilty) - 5 questions 
 
-III. [Writing JavaScript Functions](#javaScript-functions)
+III. [Writing JavaScript Functions](#javaScript-functions) -  2 questions
 
-IV. [Interview-Style Question](#interview-question)
+IV. [Interview-Style Question](#interview-question) - 1 question
 
 V. [Answer Sheet](#answer-sheet)
 
