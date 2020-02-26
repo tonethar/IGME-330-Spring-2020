@@ -455,6 +455,39 @@ D) undefined
 - Here it is --> [midterm-review-variables-scope-functions-answer-sheet.txt](./midterm-review-variables-scope-functions-answer-sheet.txt)
 - Test yourself!  Answer the questions without using your neighbor or the Internet
 
+```text
+**I. Variable Scope**
+
+1) 
+2) 
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
+
+**II. Immutability**
+
+1)
+2)
+3)
+4)
+5)
+
+**III. Writing JavaScript Functions**
+
+1)
+2)
+```
+
 <hr><hr>
 
 
