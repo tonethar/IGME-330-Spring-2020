@@ -6,6 +6,8 @@
 
 <hr><hr>
 
+## I. DOM Questions
+
 1. Given a page that has a &lt;button> with an `id="button1"`, write JS code to attach a click event to the button. When the button is clicked, the function should print "I was clicked" to the console.
 
 <hr>
@@ -47,4 +49,25 @@
 	<h1 id="main">This is my header</h1>
 </body>
 </html>
+```
+
+<hr><hr>
+
+##  II. Answer Sheet
+
+- Test yourself!  Answer the questions without using your neighbor or the Internet
+- Then check your answers by trying the code out in a browser
+
+```text
+**I. DOM Questions**
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
 ```
