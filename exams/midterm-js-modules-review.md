@@ -10,13 +10,11 @@
 
 ```js
 
-
 let name = "Jimmy";
 
 function hello(){
   console.log(`Hello ${name}`);
 }
-
 
 ```
 
@@ -42,6 +40,20 @@ function hello(){
   
     C) are designed in such a way as to minimize dependencies between different modules
 
-- **Describe how A above is reflected in ES6 Modules**
-- **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
-- **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+  - **Describe how A above is reflected in ES6 Modules**
+  - **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+  - **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+  
+8) Modify the code below to turn the following into an ES6 module (without using a &lt;script> tag):
+  - `name` will remain "private" and NOT be visible outside of the module
+  - the `hello` function will be "public" and visible outside of the module
+
+```js
+
+let name = "Jimmy";
+
+function hello(){
+  console.log(`Hello ${name}`);
+}
+
+```
