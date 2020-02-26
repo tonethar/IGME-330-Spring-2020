@@ -293,7 +293,35 @@ E) module
 
 <hr>
 
+14. What is the *scope* of `myNum`, `myNum2` & `init` below?
 
+```js
+<script type="module">
+  var myNum;
+  let myNum2;
+  
+  function init(){
+    myNum = 0;
+    myNum2 = 0;
+  }
+   init();
+   console.log(myNum);
+   console.log(myNum2);
+</script>
+```
+
+15. What is the *scope* of `myNum`, `myNum2`, `myNum3` & `myNum4` below?
+
+```js
+<script type="module">
+
+  var myNum = 10;
+  let myNum2 = 10;
+  window["myNum3"] = 30;
+  window.myNum4 = 40;
+  
+</script>
+```
 
 <hr><hr>
 
