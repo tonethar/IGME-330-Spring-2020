@@ -27,7 +27,7 @@ V. [Answer Sheet](#answer-sheet)
 
 ### I-B. Declaring variables with `let` & `const`
 
-- `"let` allows you to declare variables that are limited to a scope of a block statement, or expression on which it is used, unlike the `var` keyword, which defines a variable globally, or locally to an entire function regardless of block scope. The other difference between `var` and `let` is that the latter is initialized to a value only when a parser evaluates it..." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+- `let` allows you to declare variables that are limited to a scope of a block statement, or expression on which it is used, unlike the `var` keyword, which defines a variable globally, or locally to an entire function regardless of block scope. The other difference between `var` and `let` is that the latter is initialized to a value only when a parser evaluates it..." - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 - P.S. `const` has the same rules of scope as `let`
 - P.P.S. If `let` is used to declare a variable *outside* of a function, method, or class, it ends up in what is called *script scope*, which is a "global-like" scope where it will be visible in other JavaScript files
 - "Redeclaring the same variable (with `let`) within the same function or block scope raises a SyntaxError"
