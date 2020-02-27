@@ -248,6 +248,7 @@ E) module
 
 ```js
 <script>
+  init();
   function init(){
     console.log("pi is approximately " + pi());
 		
@@ -275,6 +276,7 @@ E) module
 
 ```js
 <script>
+  init();
   function init(){
     const pi = () => {
       return 3.1415;
@@ -302,12 +304,13 @@ E) module
 <script type="module">
   var myNum;
   let myNum2;
-  
+  debugger;
   function init(){
     myNum = 0;
     myNum2 = 0;
+    debugger;
   }
-  debugger;
+  init();
 </script>
 ```
 
