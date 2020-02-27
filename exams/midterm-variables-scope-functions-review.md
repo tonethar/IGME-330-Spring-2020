@@ -307,7 +307,6 @@ E) module
   function init(){
     myNum = 0;
     myNum2 = 0;
-    debugger;
   }
   init();
 </script>
