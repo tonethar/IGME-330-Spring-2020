@@ -204,7 +204,7 @@ let init = () => {
 let init = () => {
   console.log("Hi there!");
 }
-
+debugger; // to help you test it a browser debugger yourself
 </script>
 ```
 
@@ -228,6 +228,7 @@ E) module
   function init(){
     console.log("Hi there!");
   }
+  debugger;
 </script>
 ```
 
@@ -253,6 +254,7 @@ E) module
     function pi(){
       return 3.1415;
     }
+    debugger;
   }
 </script>
 ```
@@ -277,6 +279,7 @@ E) module
     const pi = () => {
       return 3.1415;
     }
+    debugger;
   }
 </script>
 ```
@@ -304,6 +307,7 @@ E) module
     myNum = 0;
     myNum2 = 0;
   }
+  debugger;
 </script>
 ```
 
@@ -315,6 +319,7 @@ E) module
   let myNum2 = 20;
   window["myNum3"] = 30;
   window.myNum4 = 40;
+  debugger;
 </script>
 ```
 
