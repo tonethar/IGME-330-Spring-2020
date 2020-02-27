@@ -70,7 +70,7 @@ C) undefined
 ```js
 class Car{
 	constructor(color){
-		this.car = color;
+		this.color = color;
 	}
 }
 
@@ -81,7 +81,7 @@ console.log(car.cylinders);
 
 A) This will produce a runtime error
 
-B) 0
+B) 10
 
 C) undefined
 
@@ -92,7 +92,7 @@ C) undefined
 ```js
 class Car{
 	constructor(color){
-		this.car = color;
+		this.color = color;
 	}
 	
 	repaint(newColor){
