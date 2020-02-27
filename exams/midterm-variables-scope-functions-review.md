@@ -554,7 +554,7 @@ D) undefined
 
 12) Try it in the browser's debugger
 
-13) We are calling it "block" scope. The debugger says "local", which means `pi` is scoped to the entire function, which is true in this instance. But because `pi` uses a `let` declaration, it's actually *block-scoped* (which just happens to also be the entire function in this instance)
+13) We are calling it "block" scope. The debugger says "local", which means `pi` is scoped to the entire function, which is true in this instance. But because `pi` uses a `let` declaration, it's actually *block-scoped* (which just happens to also be the entire function in this instance). We will make sure that any exam questions will be phrased in such a way to not have this ambiguity
 
 14) Try it in the browser's debugger
 
