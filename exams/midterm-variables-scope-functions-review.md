@@ -520,4 +520,27 @@ D) undefined
 <hr><hr>
 
 
+## VI. Some of the answers
+
+```text
+**I. Variable Scope**
+
+1) ERROR - because both `myNum1 and myNum2` have been declared inside of `init()`, and are thus *scoped* to that function
+2) `0` - because `var` variables are *scoped* to the entire function in which they are declared
+3) ERROR - because `let` variables are *scoped* to the *block* in which they are declared
+4) `undefined` - because the `var` *declaration* of `myNum` (but NOT the *initialization* of a value) is *hoisted* to the top of the &lt;script> tag (which is the enclosing *scope* in this instance). The `init()` function is then called, which logs out the current value of `myNum`, which is `undefined`
+5) ERROR - because a `let` variable is initialized to a value only when a parser evaluates it
+6) `5` - because `var` variables are *scoped* to the entire function in which they are declared, thus `i` is visible outside of the `for` block
+7) ERROR - `let` variables are scoped to the enclosing block, so `i` here is only visible within the `for` block
+8) `Hi there!` - because function *declarations* (where the `function` keyword is used) are *hoisted* to the beginning of the scope, and can thus be used before they appear in code
+9) ERROR - because function *expressions* (where we use `var`, `let`, or `const`) are NOT *hoisted* to the beginning of the scope, and thus cannot be used before they are declared
+10) Try it in the browser's debugger
+11) Try it in the browser's debugger
+12) Try it in the browser's debugger
+13) We are calling it "block" scope. The debugger says "local", which means `pi` is scoped to the entire function, which is true in this instance. But because `pi` uses a `let` declaration, it's actually *block-scoped* (which just happens to also be the entire function in this instance)
+14) Try it in the browser's debugger
+15) Try it in the browser's debugger
+```
+
+
 
