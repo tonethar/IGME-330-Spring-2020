@@ -298,13 +298,12 @@ E) module
 
 <hr>
 
-14. What is the *scope* of `myNum`, `myNum2` & `init` below?
+14. What is the *scope* of `myNum`, `myNum2` & `init` below? (*note that the script is of `type="module"`*)
 
 ```js
 <script type="module">
   var myNum;
   let myNum2;
-  debugger;
   function init(){
     myNum = 0;
     myNum2 = 0;
@@ -314,7 +313,7 @@ E) module
 </script>
 ```
 
-15. What is the *scope* of `myNum`, `myNum2`, `myNum3` & `myNum4` below?
+15. What is the *scope* of `myNum`, `myNum2`, `myNum3` & `myNum4` below? (*note that the script is of `type="module"`*)
 
 ```js
 <script type="module">
