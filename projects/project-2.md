@@ -246,7 +246,7 @@
 |    - *Code standards NOT followed (per incident)* | *(-1 to -5)* |
 |    - *Inline event handlers used* | *(-5)* |
 |    - *Missing index.js* | *(-10)* | |
-|    - *Missing/improperly implemented ES5-style/IIFE Library* | *(-15)* | |
+|    - *Missing/improperly implemented ES6 Modules* | *(-15)* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
