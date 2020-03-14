@@ -50,8 +50,8 @@
 <a id="week12">
 
 ## III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)
-- [Week 12A - ](week-12A-NEW.md)
-- [Week 12B - ](week-12B-NEW.md)
+- [Week 12A -](week-12A-NEW.md)
+- [Week 12B -](week-12B-NEW.md)
 - [HW - Node Web Service Command-line tool.  (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
 - [HW - Improved Giphy Web Service App (Due: 4/10)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
 - [HW - Maps (Due:  4/13?)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md)
@@ -62,8 +62,8 @@
 <a id="week13">
 
 ## IV. Week 13 - MVVM (Mon 4/13-Sun 4/19)
-- [Week 13A - ](week-13A-NEW.md)
-- [Week 13B - ](week-13B-NEW.md)
+- [Week 13A - Intro to MVVM & Vue.js ](week-13A-NEW.md)
+- [Week 13B - Vue.js Components](week-13B-NEW.md)
 - [HW - Vue.js Part I - Dynamic List (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 - [HW - Vue.js Part II - Ajax App (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
 - [HW - Vue.js Part III - Simple Component (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
