@@ -16,6 +16,10 @@
 - [Week 07 (Feb 24) : Finish Web Audio & Bitmap Manipulation](#week7)
 - [Week 08 (Mar 03) : Catchup / Midterm Exam](#week8)
 - ***\*\*March 08-15 -- Spring Break\*\****
+- ***\*\*March 15-22 -- 2nd "Spring Break"\*\****
+- [See interstitial.md for revised course outline!](./weekly/interstitial.md)
+
+<!--
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
 - [Week 10 (Mar 24) : Context-free Grammars / Web Services Review](#week10)
 - [Week 11 (Mar 31) : Node.js + More Web Services](#week11)
@@ -23,6 +27,7 @@
 - [Week 13 (Apr 13) : Cloud Data & JavaScript Topics](#week13)
 - [Week 14 (Apr 20) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
+-->
 
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
