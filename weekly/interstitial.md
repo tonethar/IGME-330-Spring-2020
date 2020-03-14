@@ -1,8 +1,8 @@
 # Semester Interstitial 
 
 ## Overview
-- Call this a "cut scene" if you prefer
-- Discuss major themes
+- Or, call this a "cut scene" for *IGME-330 Part II - The Virus Strikes Back* if you prefer
+- (... discuss major themes ...)
 - [Project 3](../projects/project-3.md)
 
 ***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignments particulars and due dates.***
