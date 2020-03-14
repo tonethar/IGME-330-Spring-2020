@@ -8,6 +8,7 @@
 - [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
 ## III. HW Assignments
+- [HW - Vue.js Part I - Dynamic List](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 
 ## IV. Videos
 
