@@ -83,9 +83,9 @@
 
 ## VI. Extra Credit
 - Firebase (Cloud Storage) - see myCourses dropboxes for details:
-  - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md) - worth 2 HW assignments
+  - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
   - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
-  - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
-  - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
+  - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) - Worth 2 HW Assignments
+  - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md) - Worth 2 HW Assignments
 - Node.js:
   - make a node driven web service and post it to Heroku (coming TBD)
