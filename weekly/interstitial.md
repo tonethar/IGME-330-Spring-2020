@@ -1,7 +1,7 @@
 # Semester Interstitial 
 
 ## Overview
-- Outline to first 8 weeks is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
+- Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
 - Below is the "cut scene" for *IGME-330 Part II - The Virus Strikes Back*
 - (... discuss major themes ...)
 - [Project 3](../projects/project-3.md)
