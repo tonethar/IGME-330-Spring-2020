@@ -5,7 +5,7 @@
 - (... discuss major themes ...)
 - [Project 3](../projects/project-3.md)
 
-***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignments particulars and due dates.***
+***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignment particulars and due dates.***
 
 [I. Week 10 - Computational Literature (Mon 3/23-Sun 3/29)](#week10)
 
