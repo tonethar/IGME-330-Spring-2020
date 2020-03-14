@@ -1,6 +1,9 @@
-# Week 11A - What's a Web Service & PHP Intro
+# Week 11A - What is a Web Service? & PHP Intro
 
 ## I. Overview & Agenda
+
+- What is a web service?
+- Intro to PHP
 
 ## II. Lecture Notes
 
