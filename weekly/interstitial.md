@@ -7,6 +7,8 @@
 
 ***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignment particulars and due dates.***
 
+## Outline
+
 [I. Week 10 - Computational Literature (Mon 3/23-Sun 3/29)](#week10)
 
 [II. Week 11 - PHP - Build your own web service (Mon 3/30-Sun 4/5)](#week11)
