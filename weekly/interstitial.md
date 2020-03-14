@@ -16,7 +16,7 @@
 
 [III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)](#week12)
 
-[IV. Week 13 - MVVM (Mon 4/13-Sun 4/19)](#week13)
+[IV. Week 13 - MVVM & Vue.js (Mon 4/13-Sun 4/19)](#week13)
 
 [V. Week 14 - Finish MVVM & Catch up (Mon 4/20-Sun 4/26)](#week14)
 
@@ -41,7 +41,7 @@
 
 ## II. Week 11 - PHP - Build your own web service (Mon 3/30-Sun 4/5)
 - [Week 11A - What is a Web Service? & PHP Intro](week-11A-NEW.md)
-- [Week 11B - Creating a PHP Web Service & Passing paramters to it](week-11B-NEW.md)
+- [Week 11B - Creating a PHP Web Service & passing parameters to it](week-11B-NEW.md)
 - [HW - Make your own PHP Web Service - Parts I & II (Due: 4/4)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-1.md)
 - [HW - Make your own PHP Web Service - Parts III & IV (Due: 4/6)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-3.md)
 
