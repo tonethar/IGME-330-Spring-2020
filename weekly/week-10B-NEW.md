@@ -1,4 +1,4 @@
-# Week 10B - 
+# Week 10B - Computational Literature & Context-free grammars with Rita.js
 
 ## I. Overview & Agenda
 
