@@ -65,6 +65,7 @@
 
 ![screenshot](./_images/webservice-demo-2.png)
 
+<a id="homework"/>
 
 ## V. Homework - Improved GIF Finder
 A really nice feature that all web apps have is ability to allow the user to "page" through large numbers of results. Unfortunately, in our current version of [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md), did you notice that we always get the same 25 "cat" GIFs back when we search? Let's fix that!
