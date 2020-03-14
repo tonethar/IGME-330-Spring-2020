@@ -31,4 +31,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-08-notes.md**](week-08-notes.md)     |  [**Semester Interstitial.md**](../interstitial.md.md) | [**week-10B-NEW.md**](week-10B-NEW.md)
+| [**week-08-notes.md**](week-08-notes.md)     |  [**Semester Interstitial.md**](interstitial.md) | [**week-10B-NEW.md**](week-10B-NEW.md)
