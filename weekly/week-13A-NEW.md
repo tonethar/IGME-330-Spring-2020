@@ -1,4 +1,4 @@
-# Week 13A - 
+# Week 13A - Intro to MVVM & Vue.js
 
 ## I. Overview & Agenda
 - Up until now, we've been using pretty just the standard [VanillaJS](http://vanilla-js.com/) library!
