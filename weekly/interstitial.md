@@ -86,4 +86,4 @@
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
   - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
 - Node.js:
- - make a node driven web service and post it to Heroku (coming TBD)
+  - make a node driven web service and post it to Heroku (coming TBD)
