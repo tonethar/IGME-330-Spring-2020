@@ -6,7 +6,7 @@
 
 ## III. HW Assignments
 
-# IV. Videos
+## IV. Videos
 
 <hr><hr>
 
