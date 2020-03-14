@@ -12,4 +12,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-13A-NEW.md**](week-13A-NEW.md)    |  [**Semester Interstitial.md**](../interstitial.md.md) | [**week-14A-NEW.md**](week-14A-NEW.md)
+| [**week-13A-NEW.md**](week-13A-NEW.md)    |  [**Semester Interstitial.md**](interstitial.md) | [**week-14A-NEW.md**](week-14A-NEW.md)
