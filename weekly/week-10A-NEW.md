@@ -1,10 +1,16 @@
 # Week 10A - Constrained Writing and Simple Text Analysis
 
-## I. Overview & Agenda
+## Overview
+- For week 10, we will be looking at some ways to process and do some interesting things with *unstructured*, plain text - meaning text that has NOT (for example) been marked up with HTML or XML or markdown or JSON, or otherwise pre-processed
+- Today, we will walk through some text manipulation techniques that will help us build a *palindrome detector*:
+  - using *regular expressions* to strip out puncutation and spaces
+  - turns
+
+## I. Agenda
 
 - Topics:
   - Loading text into the browser
-  - *Constrained writing* techniques:
+  - *Constrained writing*:
     - Palindromes
   - Look at word counting, stop words, and building a word cloud app
 - Homework
