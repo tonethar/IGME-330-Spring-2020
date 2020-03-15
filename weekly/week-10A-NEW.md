@@ -2,9 +2,9 @@
 
 ## Overview
 - For week 10, we will be looking at some ways to process and do some interesting things with *unstructured*, plain text - meaning text that has NOT (for example) been marked up with HTML or XML or markdown or JSON, or otherwise pre-processed
-- Today, we will walk through some text manipulation techniques that will help us build a *palindrome detector*:
-  - using *regular expressions* to strip out puncutation and spaces
-  - turns
+- ***Get started on this week's assignment's *early* - there's quite a bit of content for this week - and it's going to be "new to you"***
+- For 10A, we will first walk through some text manipulation techniques that will help us build a *palindrome detector*:
+
 
 ## I. Agenda
 
