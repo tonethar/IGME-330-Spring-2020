@@ -61,6 +61,9 @@
 - [HW - Make your own PHP Web Service - Parts I & II (Due: 4/4)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-1.md)
 - [HW - Make your own PHP Web Service - Parts III & IV (Due: 4/6)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-3.md)
 
+### All Videos
+- Coming soon!
+
 <hr>
 
 <a id="week12">
@@ -77,6 +80,7 @@
 - Demo: iTunes API & PHP Proxy Server
 
 ### All Videos
+- Coming soon!
 
 <hr>
 
