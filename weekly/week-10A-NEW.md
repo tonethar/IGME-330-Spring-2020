@@ -5,7 +5,7 @@
 - ***Get started on this week's assignment's *early* - there's quite a bit of content for this week - and it's going to be mostly "new to you".***
 - For 10A (today), we will first walk through some text manipulation techniques that will help us build a *palindrome detector*.
 - We will then walk through how to count the frequency of words in a document, which you will need to know how to do for your Word Cloud HW
-- See the lecture video links at the bottom of this page
+- See the lecture video links at the bottom of this page - the videos (in Section IV.) walk through the lecture notes (Section II.)
 - See the myCourses dropboxes for the precise instructions of each HW assignment
 
 
