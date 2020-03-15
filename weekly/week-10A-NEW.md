@@ -20,8 +20,13 @@
 
 ## II. Lecture Notes
 - [Text-1 - Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md)
+  - A video linked below walks though these notes
 - [Text-2 - Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
+  - There is NOT a video for this particular demo page, and there is NOT an associated HW assignment for this page - you have enough assignments to do this week!
+  - Please DO take a look at some of the links on this page that discuss *constrained writing* techniques such as "Cut up & Fold in", as well as N+7
+  - Look over the *Diastic Machine* demo - we have provided both the start code and the finished code for this
 - [Text-3 - Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
+  - A video linked below walks though these notes
 
 ## III. HW Assignments
 - [HW - Palindrome Detector](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
