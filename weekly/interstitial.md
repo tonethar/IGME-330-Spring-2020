@@ -122,7 +122,7 @@
   - [Yip-4: Moving POI to an external module, coding `createPOIfromYelpBusiness()` (08:47)](https://video.rit.edu/Watch/330-yip-part-4)
   - [Yip-5: Moving map to an external module, adding markers and popups to the map (19:06)](https://video.rit.edu/Watch/330-yip-part-5)
   - [Yip-6: minor main.js refactor, styling markers with CSS (06:31)](https://video.rit.edu/Watch/330-yip-part-6)
-  - [Yip-7: import Bootstrap Vue, add &lt;jumbrotron>, &lt;input> and &lt;button> (09:21)](https://video.rit.edu/Watch/330-yip-part-7
+  - [Yip-7: import Bootstrap Vue, add &lt;jumbrotron>, &lt;input> and &lt;button> (09:21)](https://video.rit.edu/Watch/330-yip-part-7)
   - [Yip-8: encapsulate &lt;jumbrotron>, &lt;input> and &lt;button> into a component named &lt;yip-header> (12:01)](https://video.rit.edu/Watch/330-yip-part-8) - See how to export 2 (or more) components from the same ES6 module file. Use `$emit()` to send a custom event from component to main Vue interface. 
   - [Yip-9: add `v-model` binding to <yip-header> (10:18)](https://video.rit.edu/Watch/330-yip-part-9)
 
