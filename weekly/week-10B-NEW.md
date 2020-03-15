@@ -1,6 +1,8 @@
 # Week 10B - Computational Literature & Context-free grammars with Rita.js
 
 ## I. Overview & Agenda
+- Today we will use RiTa.js to analyze the parts of speech of text, and utilize this capability to create a "Mad Libs" application
+- We will also learn about *Context-free Grammars*
 
 ## II. Lecture Notes & Homework
 
@@ -14,11 +16,11 @@
 
 ## IV. Videos
 
-- These videos cover the topics on Text-4 above:
+- These videos cover the topics on Text-4 above, and will help you with the *Maddening Libs* HW:
   - [Intro to Rita (12:08)](https://video.rit.edu/Watch/rita-js-1-intro)
   - [Getting parts-of-speech (06:39)](https://video.rit.edu/Watch/rita-js-2-getting-parts-of-speech)
   - [Proper noun replacer (07:57)](https://video.rit.edu/Watch/rita-js-3-proper-noun-replacer)
-- This video covers the topics on Text-5 above:
+- This video covers the topics on Text-5 above, and will help you with the *ill-Favored Coast* HW:
   - []()
 
 <hr><hr>
