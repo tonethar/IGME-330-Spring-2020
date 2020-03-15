@@ -45,7 +45,7 @@
         - `element.dispatchEvent()`
         - `event.stopPropagation()` & `event.preventDefault()`
         - `element.classList.add()` and `element.classList.remove()`
-        - events and attributes related to drag & drop - which can be load files from the user's hard drive:
+        - events and attributes related to drag & drop - which can be used to load files from the user's hard drive:
           - `draggable`, `ondragenter`, `ondragover`, `ondrop`, `event.dataTransfer.setData()`, `event.dataTransfer.getData()`
     - lastly, we use the `XMLHttpRequest` object to load files that are *local* to the web server where the HTML page is hosted (as opposed to files or services on *other* servers) 
 
