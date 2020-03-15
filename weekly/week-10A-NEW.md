@@ -31,24 +31,24 @@
 - These will help with the HW assignments! 
 
 1) [Text-1: Six ways to load text (19:04)](https://video.rit.edu/Watch/text-1-six-ways-to-load-text):
-  - we walk through how the code works for the 6 text loading techniques above
-  - we also work with some JavaScript we have not used in this class before:
-    - be sure to note the difference between the `oninput` and `onchange` events
-    - and note what these methods do:
-      - `element.dispatchEvent()`
-      - `event.stopPropagation()` & `event.preventDefault()`
-      - `element.classList.add()` and `element.classList.remove()`
-      - events and attributes related to drag & drop - which can be load files from the user's hard drive:
-        - `draggable`, `ondragenter`, `ondragover`, `ondrop`, `event.dataTransfer.setData()`, `event.dataTransfer.getData()`
-  - lastly, we use the `XMLHttpRequest` object to load files that are *local* to the web server where the HTML page is hosted (as opposed to files or services on *other* servers) 
+    - we walk through how the code works for the 6 text loading techniques above
+    - we also work with some JavaScript we have not used in this class before:
+      - be sure to note the difference between the `oninput` and `onchange` events
+      - and note what these methods do:
+        - `element.dispatchEvent()`
+        - `event.stopPropagation()` & `event.preventDefault()`
+        - `element.classList.add()` and `element.classList.remove()`
+        - events and attributes related to drag & drop - which can be load files from the user's hard drive:
+          - `draggable`, `ondragenter`, `ondragover`, `ondrop`, `event.dataTransfer.setData()`, `event.dataTransfer.getData()`
+    - lastly, we use the `XMLHttpRequest` object to load files that are *local* to the web server where the HTML page is hosted (as opposed to files or services on *other* servers) 
 
 2) [Text-1: Palindrome HW (21:57)](https://video.rit.edu/Watch/text-1-palindrome-HW):
-  - definitely watch this one for valuable tips on completing the Palidrome homework! I give you plenty of hints on how to use regular expressions to strip out spaces and punctuation, and how to reverse your strings for comparison
-  - you should "code along" with what we are doing in this video
+    - definitely watch this one for valuable tips on completing the Palidrome homework! I give you plenty of hints on how to use regular expressions to strip out spaces and punctuation, and how to reverse your strings for comparison
+    - you should "code along" with what we are doing in this video
   
 3) These videos cover how to build an app that strips out "stop words", and counts the frequency of unique words in a document
-  - [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
-  - [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
+    - [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
+    - [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
 
 <hr><hr>
 
