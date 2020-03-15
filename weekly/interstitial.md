@@ -2,9 +2,16 @@
 
 ## Overview
 - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
-- Below is the "cut scene" for *IGME-330 Part II - The Virus Strikes Back*
-- (... discuss major themes ...)
-- [Project 3](../projects/project-3.md)
+- Up to now in the course, we have worked with the following media types:
+  - a state-driven procedural drawing API (canvas)
+  - bitmapped data and Photoshop-style effects (obtained via `canvas.getImageData()`)
+  - audio (frequency and waveform data, as well as various effects)
+- Moving forward through the rest of the course, we will work with:
+  - *unstructured text* - and see how to catagorize and manipulate it
+  - *structured text* - we will see how to create our own a PHP-driven web API
+  - *web APIs* such as Google Maps and MapBox
+  - an *MVVM* framework - Vue.js
+- Here are the [Project 3](../projects/project-3.md) requirements that we are working towards for the remainder of the semester. We'll talk about some project ideas soon
 
 ***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignment particulars and due dates. Everything below is subject to revision.***
 
