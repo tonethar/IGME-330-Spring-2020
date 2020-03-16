@@ -17,7 +17,7 @@
 - [Week 08 (Mar 03) : Catchup / Midterm Exam](#week8)
 - ***\*\*March 08-15 -- Spring Break\*\****
 - ***\*\*March 15-22 -- 2nd "Spring Break"\*\****
-- [See interstitial.md for revised week 10-14 course outline!](./weekly/interstitial.md)
+- [See interstitial.md for revised weeks 10-14 course outline!](./weekly/interstitial.md)
 
 <!--
 - [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
@@ -62,6 +62,8 @@
 ## <a id="week8">Week 8 : Catchup / Midterm Exam
   - [Week 8A - Catchup](weekly/week-08A-notes.md)
   - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
+  
+- [See interstitial.md for revised weeks 10-14 course outline!](./weekly/interstitial.md)
 
 <!--
 
