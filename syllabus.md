@@ -86,7 +86,7 @@ Final course grades are determined using the following scale:
 * Project 3 (30%) - [MVVM Web Application](projects/project-3.md)
 
 
-### Exams (30%)
+### Exams (15%)
 These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
 * **Written Midterm Exam**  - will be given the second class meeting of the 7th week of the semester, which is Thursday February 27th
 <!--* **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday April 24th -->
