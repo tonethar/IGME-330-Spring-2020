@@ -1,13 +1,16 @@
 # Week 11A - What is a Web Service? & PHP Intro
 
 ## I. Overview & Agenda
-
 - What is a web service?
 - Intro to PHP
 
 ## II. Lecture Notes
 
 - [HW - Make your own PHP Web Service - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-1.md)
+  - there's not a need for a video for this page as the notes are fairly detailed, and much of what is discussed is review of concepts covered in IGME-230/235's "Web App" project
+  - please read this page "interactively" by copy/pasting in the web service URLS and adjusting the passed in parameters (where possible) to see the results
+  - if you don't already have Chrome's [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) browser extension installed - please do so now
+  - be sure to take note of the "Seven things we'll need to create our web service" section
 - [HW - Make your own PHP Web Service - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-2.md)
 
 ## III. HW Assignments
