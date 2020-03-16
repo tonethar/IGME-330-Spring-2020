@@ -29,7 +29,7 @@
 - [Finals Week Meeting](#finalsweek)
 -->
 
-<!--
+
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
@@ -62,7 +62,9 @@
 ## <a id="week8">Week 8 : Catchup / Midterm Exam
   - [Week 8A - Catchup](weekly/week-08A-notes.md)
   - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
-  
+
+<!--
+
 ## <a id="week9">Week 9 :  Begin Computational Text Unit Constrained Writing and Simple Text Analysis / Computational Literature
   - [Week 9A - Constrained Writing and Simple Text Analysis](weekly/week-09A-notes.md)
   - [Week 9B - Computational Literature with RiTa](weekly/week-09B-notes.md) 
