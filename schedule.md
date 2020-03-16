@@ -29,6 +29,7 @@
 - [Finals Week Meeting](#finalsweek)
 -->
 
+<!--
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
@@ -88,6 +89,8 @@
   
 ## <a id="finalsweek">Finals Week Meeting
   - All sections will have already taken the final written exam on the last day of class, and will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
+  
+  -->
 
 <hr>
 
