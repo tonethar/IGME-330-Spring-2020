@@ -80,16 +80,16 @@ Final course grades are determined using the following scale:
 | 65+%	| D |
 | <65%	| F |
 
-### Projects (50%)
+### Projects (65%)
 * Project 1 (10%) - [Interactive Sandbox](projects/project-1.md)
-* Project 2 (20%) - [Audio Visualizer](projects/project-2.md)
-* Project 3 (20%) - [MVVM Web Application](projects/project-3.md)
+* Project 2 (25%) - [Audio Visualizer](projects/project-2.md)
+* Project 3 (30%) - [MVVM Web Application](projects/project-3.md)
 
 
 ### Exams (30%)
 These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
 * **Written Midterm Exam**  - will be given the second class meeting of the 7th week of the semester, which is Thursday February 27th
-* **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday April 24th
+<!--* **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday April 24th -->
 
 ### Homework (15%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
