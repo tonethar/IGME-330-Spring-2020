@@ -17,7 +17,7 @@
 - HW - Make your own PHP Web Service - Parts I & II - see myCourses dropbox
 
 ## IV. Videos
-- [PHP and Web Services-1: Introduction (14:22](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
+- [PHP and Web Services-1: Introduction (14:22)](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
 - ...
 
 <hr><hr>
