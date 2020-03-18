@@ -69,7 +69,7 @@
 - [HW - Make your own PHP Web Service - Parts III & IV (Due: 4/6)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-3.md)
 
 ### All Videos
-- [PHP and Web Services-1: Introduction (14:22](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
+- [PHP and Web Services-1: Introduction (14:22)](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
 - Coming soon!
 
 <hr>
