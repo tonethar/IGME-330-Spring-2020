@@ -37,9 +37,9 @@
 ## I. Week 10 -  Computational Literature (Mon 3/23-Sun 3/29)
 ### Lecture Notes
 - [Week 10A - Constrained Writing & Simple Text Analysis](week-10A-NEW.md)
+- [Week 10B - Computational Literature & Context-free grammars with Rita.js](week-10B-NEW.md)
 
 ### Homework
-- [Week 10B - Computational Literature & Context-free grammars with Rita.js](week-10B-NEW.md)
 - [HW - Palindrome Detector (Due: 3/26)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
 - [HW - Word Cloud (Due: 3/29)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
 - [HW - Maddening Libs (Due: 4/1)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-4.md#III)
