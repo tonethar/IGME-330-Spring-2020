@@ -70,6 +70,7 @@
 
 ### All Videos
 - [PHP and Web Services-1: Introduction (14:22)](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
+- [PHP and Web Services-1: Foundations - Intro to PHP (14:52)](https://video.rit.edu/Watch/php-and-web-services-1-foundations-intro-php)
 - Coming soon!
 
 <hr>
