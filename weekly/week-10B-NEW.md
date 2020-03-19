@@ -16,11 +16,11 @@
 
 ## IV. Videos
 
-- These videos cover the topics on Text-4 above, and will help you with the *Maddening Libs* HW:
+- These videos cover the topics of Text-4 above, and will help you with the *Maddening Libs* HW:
   - [Text-4: Rita-1 - Intro to Rita (12:08)](https://video.rit.edu/Watch/rita-js-1-intro)
   - [Text-4: Rita-2 - Getting parts-of-speech (06:39)](https://video.rit.edu/Watch/rita-js-2-getting-parts-of-speech)
   - [Text-4: Rita-3 - Proper noun replacer (07:57)](https://video.rit.edu/Watch/rita-js-3-proper-noun-replacer)
-- This video covers the topics on Text-5 above, and will help you with the *ill-Favored Coast* HW:
+- This video covers the topics of Text-5 above, and will help you with the *ill-Favored Coast* HW:
   - [Text-5: Rita-4 - Context-free Grammars (12:15)](https://video.rit.edu/Watch/rita-js-4-context-free-grammars)
 
 <hr><hr>
