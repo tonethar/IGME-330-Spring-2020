@@ -11,7 +11,10 @@
   - please read this page "interactively" by copy/pasting in the web service URLS and adjusting the passed in parameters (where possible) to see the results
   - if you don't already have Chrome's [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) browser extension installed - please do so now
   - be sure to take note of the "Seven things we'll need to create our web service" section
+  - watch the first video linked below
 - [HW - Make your own PHP Web Service - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-2.md)
+  - this page reviews the basics of PHP
+  - watch the remaining videos linked below
 
 ## III. HW Assignments
 - HW - Make your own PHP Web Service - Parts I & II - see myCourses dropbox
