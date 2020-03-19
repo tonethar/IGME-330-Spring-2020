@@ -50,10 +50,10 @@
 - [Text-1: Palindrome HW (21:57)](https://video.rit.edu/Watch/text-1-palindrome-HW)
 - [Text-3: Word Counter - part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
 - [Text-3: Word Counter - part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
-- [Rita-1: Intro to Rita (12:08)](https://video.rit.edu/Watch/rita-js-1-intro)
-- [Rita-2: Getting parts-of-speech (06:39)](https://video.rit.edu/Watch/rita-js-2-getting-parts-of-speech)
-- [Rita-3: Proper noun replacer (07:57)](https://video.rit.edu/Watch/rita-js-3-proper-noun-replacer)
-- [Rita-4: Context-free Grammars (12:15)](https://video.rit.edu/Watch/rita-js-4-context-free-grammars)
+- [Text-4: Rita-1 - Intro to Rita (12:08)](https://video.rit.edu/Watch/rita-js-1-intro)
+- [Text-4: Rita-2 - Getting parts-of-speech (06:39)](https://video.rit.edu/Watch/rita-js-2-getting-parts-of-speech)
+- [Text-4: Rita-3 - Proper noun replacer (07:57)](https://video.rit.edu/Watch/rita-js-3-proper-noun-replacer)
+- [Text-5: Rita-4 - Context-free Grammars (12:15)](https://video.rit.edu/Watch/rita-js-4-context-free-grammars)
 
 <hr>
 
