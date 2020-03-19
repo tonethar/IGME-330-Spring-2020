@@ -14,7 +14,8 @@
 - HW - Make your own PHP Web Service - Parts III & IV - see myCourses dropbox
 
 ## IV. Videos
-- Coming soon!
+- [PHP and Web Services-3: Foundations - coding get-random-joke.php (15:08)](https://video.rit.edu/Watch/php-and-web-services-3-coding-get-random-joke)
+- [PHP and Web Services-4: Foundations - coding get-jokes.php (07:35)](https://video.rit.edu/Watch/php-and-web-services-4-coding-get-jokes)
 
 <hr><hr>
 
