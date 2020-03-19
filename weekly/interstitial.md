@@ -48,8 +48,8 @@
 ### All Videos
 - [Text-1: Six ways to load text (19:04)](https://video.rit.edu/Watch/text-1-six-ways-to-load-text)
 - [Text-1: Palindrome HW (21:57)](https://video.rit.edu/Watch/text-1-palindrome-HW)
-- [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
-- [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
+- [Text-3: Word Counter - part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
+- [Text-3: Word Counter - part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
 - [Rita-1: Intro to Rita (12:08)](https://video.rit.edu/Watch/rita-js-1-intro)
 - [Rita-2: Getting parts-of-speech (06:39)](https://video.rit.edu/Watch/rita-js-2-getting-parts-of-speech)
 - [Rita-3: Proper noun replacer (07:57)](https://video.rit.edu/Watch/rita-js-3-proper-noun-replacer)
