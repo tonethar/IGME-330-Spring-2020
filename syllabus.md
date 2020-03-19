@@ -24,14 +24,14 @@
 ### Section 02
 - Professor: Andrew Wheeland 
 - Teaching Assistant: Nick Mercadante 
-- Office:  GOL-2547 (new)
-- Email: anwigm@rit.edu (Discord contact preferred)
-- Office hours:
-  - M  04:00PM - 05:30PM
-  - T  11:00AM - 12:30PM
-  - R  11:00AM - 12:00PM
-- Class meetings: TR 9:30AM - 10:45PM in GOL-2435
-- Finals Week Meeting: Thursday 4/30/2020, from 8:00AM - 10:30AM, in GOL-2435
+- Office:  GOL-2547 (but working from home for the foreseeable future)
+- Email: anwigm@rit.edu (Discord contact strongly preferred)
+- Office hours (I'll be available for a Zoom meeting at these times, but I'll be available on Discord at plenty of other times):
+  - M  04:00PM - 05:00PM
+  - T  10:00AM - 12:00PM
+  - R  10:00AM - 12:00PM
+- Class meetings: No more face-to-face meetings.
+- Finals Week Meeting: No finals week meeting, but you'll be submitting a final project during finals week.  Exact date TBD.
 
 ### Section 03
 - Professor: Tony Jefferson  
