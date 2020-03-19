@@ -20,14 +20,14 @@
 
 ## II. Lecture Notes
 - [Text-1 - Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md)
-  - A video linked below walks though these notes
+  - A video linked below walks through these notes
   - There IS an associated HW assignment, the *HW - Palindrome Detector*
 - [Text-2 - Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
   - There is NOT a video for this particular demo page, and there is NOT an associated HW assignment for this page - you have enough assignments to do this week!
   - Please DO take a look at some of the links on this page that discuss *constrained writing* techniques such as "Cut up & Fold in", as well as N+7
   - Look over the *Diastic Machine* demo - we have provided both the start code and the finished code for this. As with the *Palindrome Detector*, this example uses *regular expressions* to strip out punctuation and spaces
 - [Text-3 - Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
-  - A video linked below walks though these notes
+  - Two videos linked below walk through these notes
   - There IS an associated HW assignment, *HW - Word Cloud*
 
 ## III. HW Assignments
@@ -54,8 +54,8 @@
     - you should "code along" with what we are doing in this video
   
 3) These videos cover how to build an app that strips out "stop words", and counts the frequency of unique words in a document
-    - [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
-    - [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
+    - [Text-3: Word Counter - part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
+    - [Text-3: Word Counter - part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
 
 <hr><hr>
 
