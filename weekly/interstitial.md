@@ -70,12 +70,12 @@
 
 ### All Videos
 - [PHP and Web Services-1: Introduction (14:22)](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
-- [PHP and Web Services-2: Foundations](Intro to PHP (14:52) - https://video.rit.edu/Watch/php-and-web-services-2-foundations-intro-to-php)
-- [PHP and Web Services-2: Foundations](PHP Variables and Data Types (15:25) - https://video.rit.edu/Watch/php-and-web-services-2-php-variables-and-data-types)
-- [PHP and Web Services-2: Foundations](PHP Arrays (13:38) - https://video.rit.edu/Watch/php-and-web-services-2-php-arrays)
-- [PHP and Web Services-2: Foundations](php.ini file (05:13) - https://video.rit.edu/Watch/php-and-web-services-2-php-ini-file)
-- [PHP and Web Services-3: Foundations](coding get-random-joke.php (15:08) - https://video.rit.edu/Watch/php-and-web-services-3-coding-get-random-joke)
-- [PHP and Web Services-4: Foundations](coding get-jokes.php (07:35) - https://video.rit.edu/Watch/php-and-web-services-4-coding-get-jokes)
+- [PHP and Web Services-2: Foundations- Intro to PHP (14:52)](https://video.rit.edu/Watch/php-and-web-services-2-foundations-intro-to-php)
+- [PHP and Web Services-2: Foundations - PHP Variables and Data Types (15:25)](https://video.rit.edu/Watch/php-and-web-services-2-php-variables-and-data-types)
+- [PHP and Web Services-2: Foundations - PHP Arrays (13:38)](https://video.rit.edu/Watch/php-and-web-services-2-php-arrays)
+- [PHP and Web Services-2: Foundations - php.ini file (05:13)](https://video.rit.edu/Watch/php-and-web-services-2-php-ini-file)
+- [PHP and Web Services-3: Foundations - coding get-random-joke.php (15:08)](https://video.rit.edu/Watch/php-and-web-services-3-coding-get-random-joke)
+- [PHP and Web Services-4: Foundations - coding get-jokes.php (07:35)](https://video.rit.edu/Watch/php-and-web-services-4-coding-get-jokes)
 
 <hr>
 
