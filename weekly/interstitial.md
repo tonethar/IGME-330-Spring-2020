@@ -1,25 +1,67 @@
 # Semester Interstitial 
 
-## Overview
-- Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
-- Up to now in the course, we have worked with the following media types:
-  - a state-driven procedural drawing API (canvas)
-  - bitmapped data and Photoshop-style effects (obtained via `canvas.getImageData()`)
-  - audio - frequency and waveform data, as well as the applying of various effects such as bass, treble, and distortion
-- Moving forward through the rest of the course, we will work with:
-  - *unstructured text* - and see how to catagorize and manipulate it
-  - *structured text* - we will see how to create our own PHP-driven web API that returns data in the JSON format
-  - *web APIs* such as Google Maps and MapBox
-  - an *MVVM* framework - Vue.js. MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
-    - BTW: this MVVM architectural pattern is what the [React](https://reactjs.org) and [Angular](https://angular.io) frameworks use - and there is currently a big demand for developers who understand how to use these frameworks 
+[I. Overview](#overview)
+
+[II. Outline](#outline)
+
+<hr>
+
+<a id="overview" />
+
+## I. Overview
+
+1) Course Delivery
+    - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignment. This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
+    - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
+    
+2) What are we covering in the next 5 weeks?
+    - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
+    - Up to now in the course, we have worked with the following media types:
+      - a state-driven procedural drawing API (canvas)
+      - bitmapped data and Photoshop-style effects (obtained via `canvas.getImageData()`)
+      - audio - frequency and waveform data, as well as the applying of various effects such as bass, treble, and distortion
+    - Moving forward through the rest of the course, we will work with:
+      - *unstructured text* - and see how to catagorize and manipulate it
+      - *structured text* - we will see how to create our own PHP-driven web API that returns data in the JSON format
+      - *web APIs* such as Google Maps and MapBox
+      - an *MVVM* framework - Vue.js. MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
+        - BTW: this MVVM architectural pattern is what the [React](https://reactjs.org) and [Angular](https://angular.io) frameworks use - and there is currently a big demand for developers who understand how to use these frameworks 
   - understanding these 4 remaining *units* of content are crucial to your success on Project 3
-- Here are the requirements for [Project 3](../projects/project-3.md)
-  - we'll talk about project ideas and look at more examples soon
-  - for the finals week presentation, you will need to use a screen share utility to create a narrated video of your project
+  - some of the content from previous semesters - using the "cloud storage" Firebase API for example - has been made optional and extra credit - see the myCourses dropboxes, and the links at the bottom of this page 
+
+3) Getting help
+
+  A) Online Office Hours (but you can email your Prof any time!):
+    - Noah Bast - nbbigm@rit.edu
+    - Tony Jefferson - tony@mail.rit.edu - TBA
+    - Andrew Wheeland
+  B) Discord:
+    - IGME-330: https://discord.gg/9ktQfZJ
+    - gccis-igm-tutoring: https://discord.gg/N6gddC8
+
+4) Final Exam
+    - The final exam has been cancelled. In the overall course rubric, the 15% weight of the final exam has been distributed between Project 2 (weight increased from 20% to 25%) and Project 3 (weight increased from 20% to 30%)
+    
+5) Homework Assignments
+    - Your completion of the remaining assignments is crucial to your successful completion of Project 3. We strongly recommend that you WORK AHEAD on all assignments and complete them well in advance of the due date
+    - If you have time conflict, get sick, have unforeseen responsibilities, and so on, you can get an extension, but you need to:
+        - 1)  notify your professor in advance of the due date
+        - 2) propose and commit to a day & time when the work will be completed
+        - 3) your professor will then notify you of a revised due date (which may or may not be the same date that you proposed), and they will then add an *exception* to the dropbox that reflects the new due date
+        - 4) complete and submit the work prior to the expiration of you dropbox exception
+
+6) Project 3 - Web App of Awesomeness
+    - the requirements are here —> [Project 3](../projects/project-3.md)
+    - we will show some example of completed projects soon
+    - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
+    
+<hr>
+
+<a id="outline" />
 
 ***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignment particulars and due dates. Everything below is subject to revision.***
 
-## Outline
+## II. Outline
 
 [I. Week 10 - Computational Literature (Mon 3/23-Sun 3/29)](#week10)
 
