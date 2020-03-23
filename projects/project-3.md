@@ -15,17 +15,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
     
-<!---
-
-- Resources:
-   - This HW covered the basics of working with web services --> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
-   - These weekly notes link to the relevant course content:
-     - [Week 10B - Web Services Review](../weekly/week-10B-notes.md)
-     - [Week 11B - More About Web Services](../weekly/week-11B-notes.md)
-     - [Week 12A - Intro to Vue.js](../weekly/week-12A-notes.md)
-     - [Week 12B - More Vue.js](../weekly/week-12B-notes.md)
-     - [Week 13A - Storing data in cloud](../weekly/week-13A-notes.md)
--->
 
 ## II. Project Requirements
 
@@ -63,27 +52,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
-2. You will utilize a cloud storage API in some way:
-   - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp or IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
-   - See our Firebase exercises for help on this:
-     - [firebase-1.md - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
-     - [firebase-2.md - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
-     - [firebase-3.md - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
-   - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
-   - The other part of this deliverable is a separate **admin.html** page:
-     - this page must be zipped and posted to the mycourses dropbox with your final project submission, don't put it on the web
-     - this page will display the contents of your Firebase Realtime database using Vue.js, NOT DOM manipulation
-     - make sure:
-       - the data you are displaying is actually *useful* to a hypothetical administrator - for example, search terms that users are typing in, and the number of times those terms are being chosen, is actually useful information that tells us how the app is being used
-       - the data is formatted nicely, and is not merely a JSON "object dump" to the screen
-     - we will use this page to verify that your cloud data is updating
-     - this will not be hard to do - the *Firebase Highscore Viewer* tutorial above gives you everything you need 
 
-3. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
     - ideally this will also be true of the other controls, but we won't require it
 
-4. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
@@ -97,9 +71,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-5. There will be no JavaScript errors or exceptions thrown by the app
+4. There will be no JavaScript errors or exceptions thrown by the app
 
-6. Optional Features:
+5. Optional Features:
     - Sound:
       - Subtle UI sound can be a nice extra
       - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
@@ -195,7 +169,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## V. Grading
-  - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
+
 
 Your project will be graded on the following criteria:
 
@@ -208,8 +182,6 @@ Your project will be graded on the following criteria:
 |    4. Has required Controls | |
 |    5. Runs without errors | |
 |    - *Missing web services* | *(-20 each)* |
-|    - *Missing cloud storage or **admin.html*** | *(-10)* |
-|    - **admin.html** uses DOM manipulation instead of Vue.js | *(-5)* |
 |    - *Does not remember last search term* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
 |    - *Errors* | *(-? depending on severity)* |
@@ -244,7 +216,6 @@ Your project will be graded on the following criteria:
 | *Deduction if MVVM framework "created by you" component is missing* | *(-10)* | |
 | *Deduction if MVVM framework is not used* | *(-30)* | |
 | *Deduction if app does not function when deployed to web* | *(-15)* | |
-| *Deduction if students does not attend finals week meeting to present app to either class or professor* | *(-15)* | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
