@@ -14,6 +14,7 @@
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignment. This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
     - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
     
+    
 2) What are we covering in the next 5 weeks?
     - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
     - Up to now in the course, we have worked with the following media types:
@@ -29,6 +30,7 @@
   - understanding these 4 remaining *units* of content are crucial to your success on Project 3
   - some of the content from previous semesters - using the "cloud storage" Firebase API for example - has been made optional and extra credit - see the myCourses dropboxes, and the links at the bottom of this page 
 
+
 3) Getting help
 
   A) Online Office Hours (but you can email your Prof any time!):
@@ -39,9 +41,11 @@
     - IGME-330: https://discord.gg/9ktQfZJ
     - gccis-igm-tutoring: https://discord.gg/N6gddC8
 
+
 4) Final Exam
     - The final exam has been cancelled. In the overall course rubric, the 15% weight of the final exam has been distributed between Project 2 (weight increased from 20% to 25%) and Project 3 (weight increased from 20% to 30%)
-    
+ 
+ 
 5) Homework Assignments
     - Your completion of the remaining assignments is crucial to your successful completion of Project 3. We strongly recommend that you WORK AHEAD on all assignments and complete them well in advance of the due date
     - If you have time conflict, get sick, have unforeseen responsibilities, and so on, you can get an extension, but you need to:
@@ -49,6 +53,7 @@
         - 2) propose and commit to a day & time when the work will be completed
         - 3) your professor will then notify you of a revised due date (which may or may not be the same date that you proposed), and they will then add an *exception* to the dropbox that reflects the new due date
         - 4) complete and submit the work prior to the expiration of you dropbox exception
+
 
 6) Project 3 - Web App of Awesomeness
     - the requirements are here —> [Project 3](../projects/project-3.md)
