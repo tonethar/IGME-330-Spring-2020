@@ -15,6 +15,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
     
+<!---
+
 - Resources:
    - This HW covered the basics of working with web services --> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
    - These weekly notes link to the relevant course content:
@@ -23,6 +25,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
      - [Week 12A - Intro to Vue.js](../weekly/week-12A-notes.md)
      - [Week 12B - More Vue.js](../weekly/week-12B-notes.md)
      - [Week 13A - Storing data in cloud](../weekly/week-13A-notes.md)
+-->
 
 ## II. Project Requirements
 
