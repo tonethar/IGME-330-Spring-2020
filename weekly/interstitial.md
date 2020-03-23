@@ -10,14 +10,13 @@
 
 ## I. Overview
 
-**1) Course Delivery**
-
+1) Course Delivery
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignment. This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
     - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
     
 
 
-**2) What are we covering in the next 5 weeks?**
+2) What are we covering in the next 5 weeks?
 
     - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
     - Up to now in the course, we have worked with the following media types:
