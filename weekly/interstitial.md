@@ -10,13 +10,13 @@
 
 ## I. Overview
 
-1) Course Delivery
+**1) Course Delivery**
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignment. This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
     - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
     
 
 
-2) What are we covering in the next 5 weeks?
+**2) What are we covering in the next 5 weeks?**
     - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
     - Up to now in the course, we have worked with the following media types:
       - a state-driven procedural drawing API (canvas)
@@ -33,7 +33,7 @@
 
 
 
-3) Getting help
+**3) Getting help**
 
     A) Online Office Hours (but you can email your Prof any time!):
       - Noah Bast - nbbigm@rit.edu
@@ -46,12 +46,12 @@
 
 
 
-4) Final Exam
+**4) Final Exam**
     - The final exam has been cancelled. In the overall course rubric, the 15% weight of the final exam has been distributed between Project 2 (weight increased from 20% to 25%) and Project 3 (weight increased from 20% to 30%)
  
  
  
-5) Homework Assignments
+**5) Homework Assignments**
     - Your completion of the remaining assignments is crucial to your successful completion of Project 3. We strongly recommend that you WORK AHEAD on all assignments and complete them well in advance of the due date
     - If you have time conflict, get sick, have unforeseen responsibilities, and so on, you can get an extension, but you need to:
         - 1)  notify your professor in advance of the due date
@@ -61,7 +61,7 @@
 
 
 
-6) Project 3 - Web App of Awesomeness
+**6) Project 3 - Web App of Awesomeness**
     - the requirements are here —> [Project 3](../projects/project-3.md)
     - we will show some example of completed projects soon
     - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
