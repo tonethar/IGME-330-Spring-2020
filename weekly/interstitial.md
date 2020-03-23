@@ -4,7 +4,7 @@
 
 [II. Outline](#outline)
 
-<hr>
+<hr><hr>
 
 <a id="overview" />
 
@@ -68,7 +68,7 @@
     - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
     - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explaination of how you and your proposed partner will manage remotely, and what each of you indivdually brings to the partnership
     
-<hr>
+<hr><hr>
 
 <a id="outline" />
 
@@ -89,7 +89,7 @@
 [VI. Extra Credit](#extra-credit)
 
 
-<hr><hr>
+<hr>
 
 <a id="week10">
 
