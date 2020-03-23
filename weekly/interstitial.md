@@ -10,7 +10,7 @@
 
 ## I. Overview
 
-### I-1) Course Delivery
+1) Course Delivery
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignment. This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
     - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
     
@@ -65,6 +65,7 @@
     - the requirements are here —> [Project 3](../projects/project-3.md)
     - we will show some example of completed projects soon
     - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
+    - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explaination of how you and your proposed partner will manage remotely, and what each of you indivdually brings to the partnership
     
 <hr>
 
