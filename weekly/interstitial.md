@@ -15,6 +15,7 @@
   - understanding these 4 remaining *units* of content are crucial to your success on Project 3
 - Here are the requirements for [Project 3](../projects/project-3.md)
   - we'll talk about project ideas and look at more examples soon
+  - for the finals week presentation, you will need to use a screen share utility to create a narrated video of your project
 
 ***IMPORTANT: All assignment due dates listed below are tentative, and are provided in order to communicate the expected flow of topics for the remainder of the semester. See myCourses for exact assignment particulars and due dates. Everything below is subject to revision.***
 
