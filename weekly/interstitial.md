@@ -39,6 +39,7 @@
       - Noah Bast - nbbigm@rit.edu
       - Tony Jefferson - tony@mail.rit.edu - TBA
       - Andrew Wheeland
+      
     B) Discord:
       - IGME-330: https://discord.gg/9ktQfZJ
       - gccis-igm-tutoring: https://discord.gg/N6gddC8
