@@ -39,7 +39,9 @@
 
     A) Online Office Hours (but you can email your Prof any time!):
       - Noah Bast - nbbigm@rit.edu
-      - Tony Jefferson - tony@mail.rit.edu - TBA
+      - Tony Jefferson - tony@mail.rit.edu
+        - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
+        - Week 11 (Tuesday 3/31 & Thursday 4/2) - will be on 330 Discord channel during regularly scheduled classtime 
       - Andy Wheeland - anwigm@rit.edu
       
     B) Discord:
@@ -56,10 +58,10 @@
 5) Homework Assignments
     - Your completion of the remaining assignments is crucial to your successful completion of Project 3. We strongly recommend that you WORK AHEAD on all assignments and complete them well in advance of the due date
     - If you have time conflict, get sick, have unforeseen responsibilities, and so on, you can get an extension, but you need to:
-        - 1)  notify your professor in advance of the due date
+        - 1) notify your professor of your situation *in advance* of the due date
         - 2) propose and commit to a day & time when the work will be completed
         - 3) your professor will then notify you of a revised due date (which may or may not be the same date that you proposed), and they will then add an *exception* to the dropbox that reflects the new due date
-        - 4) complete and submit the work prior to the expiration of you dropbox exception
+        - 4) complete and submit the work prior to the expiration of your dropbox exception
 
 
 
