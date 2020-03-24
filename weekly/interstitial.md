@@ -13,7 +13,8 @@
 1) Course Delivery
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignments
     - This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
-    - Other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
+    - IGME-330 has previously been taught as a 100% online course in an asynchronous format, with good results, and we are therefore cautiously optimistic that this semester will go reasonably well for the majority of you
+    - **Going forward from here** --> other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
     
 
 
@@ -40,7 +41,7 @@
     A) Online Office Hours (but you can email your Prof any time!):
       - Noah Bast - nbbigm@rit.edu
         - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
-        - Remainging weeks - will be on 330 Discord channel during regularly scheduled classtime 
+        - Remaining weeks - will be on 330 Discord channel during regularly scheduled classtime 
         - I am generally available via email on Discord outside of those times as well
       - Tony Jefferson - tony@mail.rit.edu
         - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
