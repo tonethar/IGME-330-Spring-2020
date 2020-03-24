@@ -24,10 +24,10 @@
       - bitmapped data and Photoshop-style effects (obtained via `canvas.getImageData()`)
       - audio - frequency and waveform data, as well as the applying of various effects such as bass, treble, and distortion
     - Moving forward through the rest of the course, we will work with:
-      - *unstructured text* - and see how to catagorize and manipulate it
-      - *structured text* - we will see how to create our own PHP-driven web API that returns data in the JSON format
-      - *web APIs* such as Google Maps and MapBox
-      - an *MVVM* framework - Vue.js. MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
+      - A) *unstructured text* - and see how to catagorize and manipulate it
+      - B) *structured text* - we will see how to create our own PHP-driven web API that returns data in the JSON format
+      - C) *web APIs* such as Google Maps and MapBox
+      - D) an *MVVM* framework - Vue.js. MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
         - BTW: this MVVM architectural pattern is what the [React](https://reactjs.org) and [Angular](https://angular.io) frameworks use - and there is currently a big demand for developers who understand how to use these frameworks 
     - understanding these 4 remaining *units* of content is crucial to your success on Project 3
     - some of the content from previous semesters - using the "cloud storage" Firebase API for example - has been made optional and extra credit - see the myCourses dropboxes, and the links at the bottom of this page 
@@ -67,7 +67,11 @@
     - we will show some example of completed projects soon
     - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
     - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explaination of how you and your proposed partner will manage remotely, and what each of you indivdually brings to the partnership
-    
+ 
+ 
+7) What are your questions? What did we forget to talk about?
+
+
 <hr><hr>
 
 <a id="outline" />
