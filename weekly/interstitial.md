@@ -39,7 +39,7 @@
     A) Online Office Hours (but you can email your Prof any time!):
       - Noah Bast - nbbigm@rit.edu
       - Tony Jefferson - tony@mail.rit.edu - TBA
-      - Andrew Wheeland
+      - Andy Wheeland - anwigm@rit.edu
       
     B) Discord:
       - IGME-330: https://discord.gg/9ktQfZJ
@@ -66,7 +66,8 @@
     - the requirements are here —> [Project 3](../projects/project-3.md)
     - we will show some example of completed projects soon
     - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
-    - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explaination of how you and your proposed partner will manage remotely, and what each of you indivdually brings to the partnership
+    - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explanation of how you and your proposed partner will collaborate remotely, and what each of you individually brings to the partnership
+ 
  
  
 7) What are your questions? What did we forget to talk about?
