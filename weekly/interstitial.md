@@ -27,7 +27,7 @@
       - A) *unstructured text* - and see how to catagorize and manipulate it
       - B) *structured text* - we will see how to create our own PHP-driven web API that returns data in the JSON format
       - C) *web APIs* such as Google Maps and MapBox
-      - D) an *MVVM* framework - Vue.js - MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
+      - D) an [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) framework - [Vue.js](https://vuejs.org) - MVVM stands for "Model View View-Model" (kind of a super-powered MVC)
         - BTW: this MVVM architectural pattern is what the [React](https://reactjs.org) and [Angular](https://angular.io) frameworks use - and there is currently a big demand for developers who understand how to use these frameworks 
     - understanding these 4 remaining *units* of content is crucial to your success on Project 3
     - some of the content from previous semesters - using the "cloud storage" Firebase API for example - has been made optional and extra credit - see the myCourses dropboxes, and the links at the bottom of this page 
