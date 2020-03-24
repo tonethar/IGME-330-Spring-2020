@@ -39,6 +39,9 @@
 
     A) Online Office Hours (but you can email your Prof any time!):
       - Noah Bast - nbbigm@rit.edu
+        - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
+        - Remainging weeks - will be on 330 Discord channel during regularly scheduled classtime 
+        - I am generally available via email on Discord outside of those times as well
       - Tony Jefferson - tony@mail.rit.edu
         - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
         - Week 11 (Tuesday 3/31 & Thursday 4/2) - will be on 330 Discord channel during regularly scheduled classtime 
