@@ -44,8 +44,10 @@
         - Remaining weeks - will be on 330 Discord channel during regularly scheduled classtime 
         - I am generally available via email on Discord outside of those times as well
       - Tony Jefferson - tony@mail.rit.edu
-        - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
-        - Week 11 (Tuesday 3/31 & Thursday 4/2) - will be on 330 Discord channel during regularly scheduled classtime 
+          - Week 10 (Tuesday 3/24 & Thursday 3/26)
+            - will be on the 430 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
+          - Week 11 (Tuesday 3/31 & Thursday 4/2)
+            - will be on the 430 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
       - Andy Wheeland - anwigm@rit.edu - Discord DM Preferred
         - Mondays: 4-5pm, Tuesdays/Thursdays: 10am to noon.  Will be on Discord & available through Zoom chat at http://rit.zoom.us/my/anwigm.
       
