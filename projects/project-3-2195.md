@@ -123,12 +123,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### D. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
-2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
+2) Ajax - utilize the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
 3) Use at least 1 ES6 custom class, written by you:
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
 4) Conventions and structure:
     - All code is an external JavaScript files
-    - ES6 module pattern preferred
+    - ES6 module pattern required
     - `let` and `const` must be used to declare variables
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
@@ -142,7 +142,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - You do not need to cite code that you received from our in-class exercises, demos or HW
    - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
 6) **NOT allowed**:
-    - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
     - inline event handlers in your HTML
