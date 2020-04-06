@@ -14,6 +14,7 @@
 ## III. HW Assignments
 
  - [PHP Web Service Part V - creating a proxy server#submission](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md#submission)
+ - [HW - Improved Giphy Web Service App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
 
 ## IV. Videos
 
