@@ -14,7 +14,8 @@
 ## III. HW Assignments
 
  - [PHP Web Service Part V - creating a proxy server#submission](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md#submission)
- - [HW - Improved Giphy Web Service App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
+ - [HW - Improved Giphy Web Service App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md):
+   - you already did the Giphy Finder HW (and a web service project) in IGME-230/235 - so this is an opportunity to review that exercise, and add to it. To help your review of the material, we recommend that you re-do the Giphy Finder HW "from scratch" - rather than download and reuse the code you handed in before
 
 ## IV. Videos
 
