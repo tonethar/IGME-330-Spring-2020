@@ -13,12 +13,10 @@
 - [HW - Make your own PHP Web Service - Part IV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-4.md)
   - this gives you some hints on how to complete **get-jokes.php**
   - watch the second video linked below
-- [HW - Create a PHP Proxy Server -  Part V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md)
-  - this walks through the creation of **shout-proxy.php**
+
 
 ## III. HW Assignments
 - HW - Make your own PHP Web Service - Parts III & IV - see myCourses dropbox
-- HW - Create a PHP Proxy Server - Part V - see myCourses dropbox
 
 ## IV. Videos
 - [PHP and Web Services-3: Foundations - coding get-random-joke.php (15:08)](https://video.rit.edu/Watch/php-and-web-services-3-coding-get-random-joke)
