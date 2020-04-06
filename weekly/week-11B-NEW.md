@@ -8,12 +8,13 @@
 ## II. Lecture Notes
 
 - [HW - Make your own PHP Web Service - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-3.md)
-  - this walks through creating ***get-random-joke.php*
+  - this walks through creating **get-random-joke.php**
   - watch the first video linked below
 - [HW - Make your own PHP Web Service - Part IV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-4.md)
-  - this gives you some hints on how to complete ***get-jokes.php*
+  - this gives you some hints on how to complete **get-jokes.php**
   - watch the second video linked below
 - [HW - Create a PHP Proxy Server -  Part V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md)
+  - this walks through the creation of **shout-proxy.php**
 
 ## III. HW Assignments
 - HW - Make your own PHP Web Service - Parts III & IV - see myCourses dropbox
