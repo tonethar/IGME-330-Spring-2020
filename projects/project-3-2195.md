@@ -154,6 +154,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
+  
+### F. Extras
+  - Add "some above and beyond" if you have time - be sure to call your efforts out in the documentation. Here are some ideas:
+    - use of an MVVM framework like [Vue.js](https://vuejs.org) (which we covered in class) or [React](https://reactjs.org) is strongly encouraged
+    - integrate some custom visualizations into your app using canvas or similar
+    - use the [D3](https://d3js.org) visualization library
 
 ## III. Milestones
   - **Deliverable A** - Project proposal with working prototype - see myCourses for due date/time:
