@@ -157,14 +157,15 @@
 
 ## III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)
 ### Lecture Notes
-- [Week 12A -](week-12A-NEW.md)
-- [Week 12B -](week-12B-NEW.md)
+- [Week 12A - Week 12A - Client-side web applications](week-12A-NEW.md)
+- [Week 12B - Mapbox API](week-12B-NEW.md)
 
 ### Homework
-- [HW - Node Web Service Command-line tool.  (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
+
+ - [PHP Web Service Part V - creating a proxy server#submission (Due: 4/8)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md#submission)
 - [HW - Improved Giphy Web Service App (Due: 4/10)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
 - [HW - Maps (Due:  4/13?)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md)
-- Demo: iTunes API & PHP Proxy Server
+
 
 ### All Videos
 - Coming soon!
