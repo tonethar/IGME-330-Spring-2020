@@ -160,6 +160,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - use of an MVVM framework like [Vue.js](https://vuejs.org) (which we covered in class) or [React](https://reactjs.org) is strongly encouraged
     - integrate some custom visualizations into your app using canvas or similar
     - use the [D3](https://d3js.org) visualization library
+    - utilize a cloud storage service such as Firebase in some way. There were several extra credit Firebase exercises this semester that could get you started
 
 ## III. Milestones
   - **Deliverable A** - Project proposal with working prototype - see myCourses for due date/time:
@@ -182,10 +183,9 @@ Your project will be graded on the following criteria:
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
 |    1. TWO web services are used | |
-|    2. Cloud storage is used | |
-|    3. Last term searched stored in browser  | |
-|    4. Has required Controls | |
-|    5. Runs without errors | |
+|    2. Last term searched stored in browser  | |
+|    3. Has required Controls | |
+|    4. Runs without errors | |
 |    - *Missing web services* | *(-20 each)* |
 |    - *Does not remember last search term* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
@@ -204,11 +204,10 @@ Your project will be graded on the following criteria:
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
 | **D. [Code](#code)**  | **10** | |
-|    1. MVVM Framework used | |
-|    2. Ajax used | |
-|    3. *ES6 Custom Class not used* | *(-5)* |
-|    4. *Conventions NOT followed* | *(-5 per incident)* |
-|    5. *Code that is NOT allowed* | *(-5 per incident)* |
+|    1. Ajax used | |
+|    2. *ES6 Custom Class not used* | *(-5)* |
+|    3. *Conventions NOT followed* | *(-5 per incident)* |
+|    4. *Code that is NOT allowed* | *(-5 per incident)* |
 | **E. [Impact](#impact)**  | **10** | |
 |    - Does the app work as intended and do something useful? | |
 |    - Does the app functionality and programming go beyond what we did in class? | |
@@ -218,8 +217,6 @@ Your project will be graded on the following criteria:
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if MVVM framework "created by you" component is missing* | *(-10)* | |
-| *Deduction if MVVM framework is not used* | *(-30)* | |
 | *Deduction if app does not function when deployed to web* | *(-15)* | |
 
 Note:
