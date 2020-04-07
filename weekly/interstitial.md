@@ -159,7 +159,7 @@
 
 ## III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)
 ### Lecture Notes
-- [Week 12A - Week 12A - Client-side web applications](week-12A-NEW.md)
+- [Week 12A - Week 12A - Client-side web applications & PHP Proxy Server](week-12A-NEW.md)
 - [Week 12B - Mapbox API](week-12B-NEW.md)
 
 ### Homework
