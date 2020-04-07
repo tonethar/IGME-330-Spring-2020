@@ -19,7 +19,8 @@
 
 ## IV. Videos
 
-- coming soon!
+- [PHP and Web Services-5: Building a PHP proxy server I. (11:21)](https://video.rit.edu/Watch/php-proxy-server-1)
+- [PHP and Web Services-5: Building a PHP proxy server II. (12:40)](https://video.rit.edu/Watch/php-proxy-server-2)
 
 <hr><hr>
 
