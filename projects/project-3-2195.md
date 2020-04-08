@@ -22,7 +22,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
-    - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period. Approach these APIs with caution:
+    - **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
       - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
