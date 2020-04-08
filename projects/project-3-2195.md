@@ -43,8 +43,13 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
 	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
 	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
-      - Any API from GIPHY - https://developers.giphy.com/docs/
+    - **Option - make your own API in PHP:**
+      - the data should be useful and not an otherwise widely available subset from another public API
+      - you should have **a lot** of data - 50 to 100 records at least
+      - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
+      - or another custom dataset (a comprehensive RPG web service)
+    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
+      - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
       - Google Maps (use MapBox instead)
     - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
@@ -78,17 +83,22 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 1) Pleasing graphic design:
     - with a custom interface coded in HTML/CSS, by you
     - this interface does not resemble the GIPHY homework's UI
+    
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+    
 3) Users should be able to figure out how to use the app with minimal instruction:
     - be sure to provide instruction and tooltips if necessary
+    
 4) User errors must be handled gracefully:
     - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+    
 5) Users must know what *state* the app is in at all times:
     - for example, when they click the search button, there should some indication that a search is happening:
       - text that says "Searching for 'Tacos' near you" and so on
       - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
+      
 6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
     - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
     - The main controls of the application must fit in a 1024x768 window
@@ -113,19 +123,22 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
 3) Images are properly optimized (both dimensions and file size) for Web delivery
-4) you ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+4) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
+    - if you build off of a CSS template you found on the web or LinkedIn Learning etc, that's fine, just give credit both in the code comments and in your final documentation
 
 <a id="code"></a>
 
 ### D. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
+    
 2) Ajax - utilize the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
+
 3) Use at least 1 ES6 custom class, written by you:
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
 4) Conventions and structure:
