@@ -77,14 +77,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-
+4. Optional features:
+  - Firebase or a similar API to store data "in the cloud"
 
 <a id="design"></a>
 
 ### B. Design & Interaction
 1) Pleasing graphic design:
-    - with a custom interface coded in HTML/CSS, by you
-    - this interface does not resemble the GIPHY homework's UI
+    - must be usable
+    - minimally, it should be "not ugly"
+    - the interface does not resemble the GIPHY homework's UI at all
     
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
@@ -136,8 +138,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 <a id="code"></a>
 
 ### D. Code Requirements
-1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
-    - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
+1) ES6 Module Pattern required
     
 2) Ajax - utilize the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
 
@@ -145,10 +146,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
 4) Conventions and structure:
     - All code is an external JavaScript files
-    - ES6 module pattern required
-    - `let` and `const` must be used to declare variables
+    - `let` and `const` must be used to declare variables - no `var` allowed!
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
+    - Class names begin with an uppercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
 5) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
@@ -156,7 +157,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
    - Cite the code source **both** in the source code itself as a comment, and in your final documentation
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
-   - You do not need to cite code that you received from our in-class exercises, demos or HW
+   - You do not need to cite code that you received from this semester's in-class exercises, demos or HW
    - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
 6) **NOT allowed**:
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
@@ -179,16 +180,13 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - use the [D3](https://d3js.org) visualization library
     - utilize a cloud storage service such as Firebase in some way. There were several extra credit Firebase exercises this semester that could get you started
 
-## III. Milestones
-  - **Deliverable A** - Project proposal with working prototype - see myCourses for due date/time:
-    - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
-    - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
-    - one submission per team please. Make sure both team members' names are included.
-  - **Deliverable B** - An improved prototype with BOTH webs ervices working. See dropbox for due date.
-  - **Final project deliverable** - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+## III. Milestones (one submission per team please - make sure both team members' names are stated)
+  - **Project Proposal** - see myCourses for details & due date/time
+  - **Checkpoint #1** - see myCourses for details & due date/time
+  - **Final project deliverable & documentation** - see myCourses for details & due date/time
 
 ## IV. Documentation
-  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth
+  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a numeric grade for the project that you feel fairly represents what its worth
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## V. Grading
