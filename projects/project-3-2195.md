@@ -2,13 +2,11 @@
 
 ## I. Overview
 
-\*\* **TLDR** \*\* - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc.  - you could also use the [Leaflet maps API](https://leafletjs.com/examples.html) or the [Mapbox API](https://www.mapbox.com) - just be sure to fullfill all of the requirements - read on!*
-
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a web browser context, utilizing a MVVM framework such as Vue.js
+- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS "rich media" programming in a web browser context
 - You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
@@ -23,11 +21,14 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
-        - try to use an API that supports *CORS* (Cross-origin resource sharing)
-        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
+        - try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
+        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period. ***Beware these APIs:***
+	  - The YouTube API is severely rate limited - AVOID
+	  - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
+	  - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for you use
+	  - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
     - Somethat utilizes text - maybe with RiTa.js, you could also use the Wordnik API - https://developer.wordnik.com/faq
     - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
-    - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - or [Leaflet Maps API](https://leafletjs.com/examples.html) - here's an example call to the earthquake service in JSON-P --> http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded
     - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
     - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
     - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
@@ -39,23 +40,21 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
 	- For lists of even more Web services, see:
           - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-	  - https://github.com/toddmotto/public-apis
-	  - https://github.com/abhishekbanthia/Public-APIs
 	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
 	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
 	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    - **Important note:** - Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
+      - Google Maps (use MapBox instead)
     - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 
-2. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
-    - ideally this will also be true of the other controls, but we won't require it
+2. You will save the last term searched by the user in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+    - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
+    - we are going to test this capability by typing in a search term, slecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible,and the rest of the UI should be in the same *state*
 
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
@@ -71,16 +70,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-4. There will be no JavaScript errors or exceptions thrown by the app
 
-5. Optional Features:
-    - Sound:
-      - Subtle UI sound can be a nice extra
-      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
-    - Canvas Drawing/Animation:
-      - &lt;canvas> visualization of web service data can be a nice extra
-      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
-      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
 <a id="design"></a>
 
@@ -102,6 +92,18 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
     - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
     - The main controls of the application must fit in a 1024x768 window
+
+7) Optional Features:
+    - Sound:
+      - Subtle UI sound can be a nice extra
+      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
+    - UI Animations:
+      - https://www.creativebloq.com/features/create-cool-ui-animations-with-css
+      - https://www.mockplus.com/blog/post/css-animation-examples
+    - Canvas Drawing/Animation:
+      - &lt;canvas> visualization of web service data can be a nice extra
+      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
+      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
 <a id="media"></a>
 
