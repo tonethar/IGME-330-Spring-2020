@@ -21,7 +21,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ### II-A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project:
-    - i. try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
+    - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
@@ -54,7 +54,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
       - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
       - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-    - ix. **Option - make your own API in PHP:**
+    - ix. **Another Option - make your own API in PHP:**
       - the data should be useful and not an otherwise widely available subset from another public API
       - you should have **a lot** of data - 50 to 100 records at least
       - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is queried
@@ -99,9 +99,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ### II-B. Design & Interaction
 1) Pleasing graphic design:
-    - must be usable
-    - minimally, it should be "not ugly"
-    - the interface does not resemble the GIPHY homework's UI at all
+    - must be *usable*
+    - minimally, it must be "not ugly"
+    - the interface must not resemble the GIPHY homework's UI at all
+    - an *embedded* font must be used - for example from https://fonts.google.com:
+      - be cautious about using this embedded font - especially a cursive font - for UI labels
+      - instead, utilize the embedded font on ornamental elements
     
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
@@ -144,7 +147,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
 3) Images are properly optimized (both dimensions and file size) for Web delivery
-4) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+4) An embedded font must be used
+5) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
