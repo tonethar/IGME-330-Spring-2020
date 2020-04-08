@@ -12,13 +12,14 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - the soundness of your programming
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
-    
+
+<hr>
 
 ## II. Project Requirements
 
 <a id="functionality"></a>
 
-### A. Functional Requirements
+### II-A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project:
     - i. try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
@@ -44,7 +45,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - vi. Earthquakes:
       - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
       - here's a video that runs through mapping earthquake data --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-    - vii. Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
+    - vii. Book information APIs:
+      - [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
     - viii. Others:
       - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
       - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
@@ -55,9 +57,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - ix. **Option - make your own API in PHP:**
       - the data should be useful and not an otherwise widely available subset from another public API
       - you should have **a lot** of data - 50 to 100 records at least
-      - the API must have at least 2 [Endpoints](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is queried
+      - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is queried
       - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
-      - or another custom dataset (a comprehensive RPG web service)
+      - or another custom dataset (a comprehensive RPG web service?), or ???
     - x. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
       - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
@@ -67,9 +69,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 
-2. You will save the last term searched by the user in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2. You will save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
-    - we are going to test this capability by typing in a search term, slecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible,and the rest of the UI should be in the same *state*
+    - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
+
 
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
@@ -85,12 +88,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
+
 4. Optional features:
   - Firebase or a similar API to store data "in the cloud"
+  - ???
+  
+<hr>
 
 <a id="design"></a>
 
-### B. Design & Interaction
+### II-B. Design & Interaction
 1) Pleasing graphic design:
     - must be usable
     - minimally, it should be "not ugly"
@@ -127,9 +134,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
       - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
+<hr>
+
 <a id="media"></a>
 
-### C. HTML/CSS & Media
+### II-C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
@@ -143,9 +152,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - https://github.com/troxler/awesome-css-frameworks
     - if you build off of a CSS template you found on the web or LinkedIn Learning etc, that's fine, just give credit both in the code comments and in your final documentation
 
+<hr>
+
 <a id="code"></a>
 
-### D. Code Requirements
+### II-D. Code Requirements
 1) ES6 Module Pattern required
     
 2) Ajax - utilize the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
@@ -173,29 +184,41 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - inline event handlers in your HTML
     - `console.log()` calls (delete or comment them out)
 
+<hr>
+
 <a id="impact"></a>
 
-### E. Impact
+### II-E. Impact
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
   - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
-  
-### F. Extras
+
+<hr>
+
+<a id="extras"></a>
+
+### II-F. Extras
   - Add "some above and beyond" if you have time - be sure to call your efforts out in the documentation. Here are some ideas:
     - use of an MVVM framework like [Vue.js](https://vuejs.org) (which we covered in class) or [React](https://reactjs.org) is strongly encouraged
     - integrate some custom visualizations into your app using canvas or similar
     - use the [D3](https://d3js.org) visualization library
     - utilize a cloud storage service such as Firebase in some way. There were several extra credit Firebase exercises this semester that could get you started
 
+<hr>
+
 ## III. Milestones (one submission per team please - make sure both team members' names are stated)
   - **Project Proposal** - see myCourses for details & due date/time
   - **Checkpoint #1** - see myCourses for details & due date/time
   - **Final project deliverable & documentation** - see myCourses for details & due date/time
 
+<hr>
+
 ## IV. Documentation
   - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a numeric grade for the project that you feel fairly represents what its worth
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
+
+<hr>
 
 ## V. Grading
 
@@ -247,9 +270,12 @@ Note:
 - **Better** (Go beyond expectations in 2 or more areas) = 95%
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
+<hr>
+
 ## VI. Submission
-- ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to Banjo, and put the link in the mycourses dropbox comments field
+- see myCourses for details & due date/time
+
+<hr>
 
 ## VII. Examples
 
