@@ -19,15 +19,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 <a id="functionality"></a>
 
 ### A. Functional Requirements
-1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
-    - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
-        - try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
+1. You must use **TWO** distinctive web service APIs in your completed project:
+    - try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
       - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
       - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
       - Always verify that the API returns current data. There's a "gasoline prices" API out there that has 4 year-old data ...
+    - The exact web services used are up to you, here are some ideas:
+    - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
     - APIs that utilize text - maybe RiTa.js, you could also use the Wordnik API - https://developer.wordnik.com/faq
     - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
     - How about [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
