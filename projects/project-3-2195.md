@@ -20,42 +20,49 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ### A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project:
-    - try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
-    - **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
+    - i. try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
+    - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
       - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
       - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
       - Always verify that the API returns current data. There's a "gasoline prices" API out there that has 4 year-old data ...
-    - The exact web services used are up to you, here are some ideas:
-    - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
-    - APIs that utilize text - maybe RiTa.js, you could also use the Wordnik API - https://developer.wordnik.com/faq
-    - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
-    - How about [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-    - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
-    - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
-	- Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
-    - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
-	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
-	- Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
-	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
-	- For lists of even more Web services, see:
-          - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
-	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
-	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
-    - **Option - make your own API in PHP:**
+    - iii. Here are some lists of web services:
+      - https://github.com/toddmotto/public-apis
+      - https://github.com/abhishekbanthia/Public-APIs
+      - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
+      - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
+      - [Amazon Web Services (AWS)](https://aws.amazon.com)
+      - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
+    - iv. APIs that utilize text:
+      - [RiTa.js](https://rednoise.org/rita/)
+      - [Wordnik API](https://developer.wordnik.com/faq)
+    - v. Game APIs
+      - [Giant Bomb Game API](http://www.giantbomb.com/api/)
+      - [League of Legends API](https://developer.riotgames.com)
+      - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
+    - vi. Earthquakes:
+      - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
+      - here's a video that runs through mapping earthquake data --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+    - vii. Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
+    - viii. Others:
+      - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
+      - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
+      - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
+      - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
+      - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
+      - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
+    - ix. **Option - make your own API in PHP:**
       - the data should be useful and not an otherwise widely available subset from another public API
       - you should have **a lot** of data - 50 to 100 records at least
       - the API must have at least 2 [Endpoints](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is queried
       - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
       - or another custom dataset (a comprehensive RPG web service)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
+    - x. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
       - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
       - Google Maps (use MapBox instead)
-    - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
+    - xi. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
