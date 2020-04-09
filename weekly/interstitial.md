@@ -104,7 +104,7 @@
 
 2) Let's look over the myCourses Dropboxes - there's one big change:
     
-      - the Vue.js "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
+      - The [Vue.js](https://vuejs.org) "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
         - Reactive programming is an important topic
         - and we really don't want you to leave this course without being exposed to it
         - but its use is *optional* on Project 3
