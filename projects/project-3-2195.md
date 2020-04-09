@@ -168,6 +168,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 3) Use at least 1 ES6 custom class, written by you:
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
+    
 4) Conventions and structure:
     - All code is in external JavaScript files
     - `let` and `const` must be used to declare variables - no `var` allowed!
@@ -175,7 +176,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Variable and function names must begin with a lowercase letter
     - Class names must begin with an uppercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-5) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+    
+5) Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
+
+6) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
@@ -183,6 +187,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
    - You do not need to cite code that you received from this semester's in-class exercises, demos or HW
    - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
+   
 6) **NOT allowed**:
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
@@ -197,7 +202,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
-  - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
 <hr>
 
