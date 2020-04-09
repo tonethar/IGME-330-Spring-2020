@@ -247,7 +247,8 @@ Your project will be graded on the following criteria:
 |    3. Has required Controls | |
 |    - *Missing web services* | *(-20 each)* |
 |    - *Does not save/restore UI state* | *(-10)* |
-|    - *Missing controls* | *(-10 each)* |
+|    - *Missing reset button* | *(-10)* |
+|    - *Missing other controls* | *(-10 each)* |
 | **B. [Design & Interaction](#design)** | **20** | |
 |    1. Visual design is at a minimum, usable and "not ugly" | |
 |    2. Widgets are well labeled and follow interface conventions | |
