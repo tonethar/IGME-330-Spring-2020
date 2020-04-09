@@ -1,61 +1,78 @@
-# Project 3 - MVVM Web App Mashup of Awesomeness! (DRAFT)
+# Project 3 - Web App Mashup of Awesomeness!
 
 ## I. Overview
-
-\*\* **TLDR** \*\* - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc.  - you could also use the [Leaflet maps API](https://leafletjs.com/examples.html) or the [Mapbox API](https://www.mapbox.com) - just be sure to fullfill all of the requirements - read on!*
 
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a web browser context, utilizing a MVVM framework such as Vue.js
+- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS "rich media" programming in a web browser context
 - You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
-    
+
+<hr>
 
 ## II. Project Requirements
 
 <a id="functionality"></a>
 
-### A. Functional Requirements
-1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
-    - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
-        - try to use an API that supports *CORS* (Cross-origin resource sharing)
-        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - Somethat utilizes text - maybe with RiTa.js, you could also use the Wordnik API - https://developer.wordnik.com/faq
-    - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
-    - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - or [Leaflet Maps API](https://leafletjs.com/examples.html) - here's an example call to the earthquake service in JSON-P --> http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded
-    - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-    - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
-    - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
-	- Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
-    - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
-	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
-	- Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
-	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
-	- For lists of even more Web services, see:
-          - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-	  - https://github.com/toddmotto/public-apis
-	  - https://github.com/abhishekbanthia/Public-APIs
-	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
-	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
-	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
-      - Any API from GIPHY - https://developers.giphy.com/docs/
+### II-A. Functional Requirements
+1. You must use **TWO** distinctive web service APIs in your completed project:
+    - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
+    - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
+      - The YouTube API is severely rate limited - AVOID
+      - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
+      - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
+      - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
+      - Always verify that the API returns current data. There's a "gasoline prices" API out there that has 4 year-old data ...
+    - iii. Here are some lists of web services:
+      - https://github.com/toddmotto/public-apis
+      - https://github.com/abhishekbanthia/Public-APIs
+      - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
+      - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
+      - [Amazon Web Services (AWS)](https://aws.amazon.com)
+      - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
+    - iv. APIs that utilize text:
+      - [RiTa.js](https://rednoise.org/rita/)
+      - [Wordnik API](https://developer.wordnik.com/faq)
+    - v. Game APIs
+      - [Giant Bomb Game API](http://www.giantbomb.com/api/)
+      - [League of Legends API](https://developer.riotgames.com)
+      - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
+    - vi. Earthquakes:
+      - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
+      - here's a video that runs through mapping earthquake data --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+    - vii. Book information APIs:
+      - [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
+    - viii. Others:
+      - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
+      - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
+      - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
+      - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
+      - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
+      - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
+    - ix. **Another Option - make your own API in PHP:**
+      - the data should be useful and not an otherwise widely available subset from another public API
+      - you should have **a lot** of data - 50 to 100 records at least
+      - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is queried
+      - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
+      - or another custom dataset (a comprehensive RPG web service?), or ???
+    - x. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
+      - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    - **Important note:** - Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
-    - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
+      - Google Maps (use MapBox instead)
+    - xi. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 
-2. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
-    - ideally this will also be true of the other controls, but we won't require it
+2. You will save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+    - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
+    - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
+
 
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
@@ -71,102 +88,146 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-4. There will be no JavaScript errors or exceptions thrown by the app
 
-5. Optional Features:
-    - Sound:
-      - Subtle UI sound can be a nice extra
-      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
-    - Canvas Drawing/Animation:
-      - &lt;canvas> visualization of web service data can be a nice extra
-      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
-      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
+4. Optional features:
+  - Firebase or a similar API to store data "in the cloud"
+  - There's no rule against exceeding the minimum, and having 4 controls, or even 5!, if the app would benefit from them
+  
+<hr>
 
 <a id="design"></a>
 
-### B. Design & Interaction
+### II-B. Design & Interaction
 1) Pleasing graphic design:
-    - with a custom interface coded in HTML/CSS, by you
-    - this interface does not resemble the GIPHY homework's UI
+    - must be *usable*
+    - minimally, it must be "not ugly"
+    - the interface must not resemble the GIPHY homework's UI at all
+    - an *embedded* font must be used - for example from https://fonts.google.com:
+      - be cautious about using an embedded font - especially a cursive font - for UI labels
+      - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
+    
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+    
 3) Users should be able to figure out how to use the app with minimal instruction:
     - be sure to provide instruction and tooltips if necessary
+    
 4) User errors must be handled gracefully:
     - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+    
 5) Users must know what *state* the app is in at all times:
     - for example, when they click the search button, there should some indication that a search is happening:
       - text that says "Searching for 'Tacos' near you" and so on
       - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
+      
 6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
-    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
-    - The main controls of the application must fit in a 1024x768 window
+    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a 15" screen
+    - The main controls of the application must fit in a 1200x800 window (or smaller)
+
+7) Optional Features:
+    - Sound:
+      - Subtle UI sound can be a nice extra
+      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
+    - UI Animations:
+      - https://www.creativebloq.com/features/create-cool-ui-animations-with-css
+      - https://www.mockplus.com/blog/post/css-animation-examples
+    - Canvas Drawing/Animation:
+      - &lt;canvas> visualization of web service data can be a nice extra
+      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
+      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
+
+<hr>
 
 <a id="media"></a>
 
-### C. HTML/CSS & Media
+### II-C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
-3) Images are properly optimized (both dimensions and file size) for Web delivery
-4) you ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+3) Utilize at least 3 HTML semantic elements such as &lt;nav>, &lt;main>, &lt;footer>, etc 
+4) Images are properly optimized (both dimensions and file size) for Web delivery
+5) An embedded font must be used
+6) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
+    - if you build off of a CSS template you found on the web or LinkedIn Learning etc, that's fine, just give credit both in the code comments and in your final documentation
+
+<hr>
 
 <a id="code"></a>
 
-### D. Code Requirements
-1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
-    - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
-2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
+### II-D. Code Requirements
+1) ES6 Module Pattern required
+    
+2) Ajax - app utilizes the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
+
 3) Use at least 1 ES6 custom class, written by you:
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
+    
 4) Conventions and structure:
-    - All code is an external JavaScript files
-    - ES6 module pattern preferred
-    - `let` and `const` must be used to declare variables
+    - All code is in external JavaScript files
+    - `let` and `const` must be used to declare variables - no `var` allowed!
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
+    - Class names must begin with an uppercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-5) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+    
+5) Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
+
+6) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
    - Cite the code source **both** in the source code itself as a comment, and in your final documentation
    - Be sure to make borrowed code "your own" as much as possible for example by simplifying or improving the clarity of the code,  using `let` or `const` instead of `var`, getting rid of inline event handlers (which are prohibited in this project) and so on
-   - You do not need to cite code that you received from our in-class exercises, demos or HW
+   - You do not need to cite code that you received from this semester's in-class exercises, demos or HW
    - **If you have any doubt about what is acceptable to "borrow", ask the professor *in advance* of using it**
+   
 6) **NOT allowed**:
-    - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
-    - inline event handlers in your HTML
+    - inline event handlers in your HTML ex. `<button onclick="alert('Hi!')">Click Me</button>`
     - `console.log()` calls (delete or comment them out)
+
+<hr>
 
 <a id="impact"></a>
 
-### E. Impact
+### II-E. Impact
   - Does the app work as intended and do something useful?
   - Does the app functionality and programming go beyond what we did in class?
   - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
-  - Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
-## III. Milestones
-  - **Deliverable A** - Project proposal with working prototype - see myCourses for due date/time:
-    - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
-    - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
-    - one submission per team please. Make sure both team members' names are included.
-  - **Deliverable B** - An improved prototype with BOTH webs ervices working. See dropbox for due date.
-  - **Final project deliverable** - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+<hr>
+
+<a id="extras"></a>
+
+### II-F. Extras
+  - Add "some above and beyond" if you have time - be sure to call your efforts out in the documentation. Here are some ideas:
+    - use of an MVVM framework like [Vue.js](https://vuejs.org) (which we covered in class) or [React](https://reactjs.org) is strongly encouraged
+    - integrate some custom visualizations into your app using canvas or similar
+    - use the [D3](https://d3js.org) visualization library
+    - utilize a cloud storage service such as Firebase in some way. There were several extra credit Firebase exercises this semester that could get you started
+
+<hr>
+
+## III. Milestones (one submission per team please - make sure both team members' names are stated)
+  - **Project Proposal** - see myCourses for details & due date/time
+  - **Checkpoint #1** - see myCourses for details & due date/time
+  - **Final project deliverable & documentation** - see myCourses for details & due date/time
+
+<hr>
 
 ## IV. Documentation
-  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth
+  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a numeric grade for the project that you feel fairly represents what its worth
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
+
+<hr>
 
 ## V. Grading
 
@@ -177,54 +238,58 @@ Your project will be graded on the following criteria:
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
 |    1. TWO web services are used | |
-|    2. Cloud storage is used | |
-|    3. Last term searched stored in browser  | |
-|    4. Has required Controls | |
-|    5. Runs without errors | |
+|    2. Saves/restores last search term and other UI *state*  | |
+|    3. Has required Controls | |
 |    - *Missing web services* | *(-20 each)* |
-|    - *Does not remember last search term* | *(-10)* |
+|    - *Does not save/restore UI state* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
-|    - *Errors* | *(-? depending on severity)* |
 | **B. [Design & Interaction](#design)** | **20** | |
-|    1. Visual design is pleasing | |
+|    1. Visual design is at a minimum, usable and "not ugly" | |
 |    2. Widgets are well labeled and follow interface conventions | |
 |    3. Users should be able to figure out how to use the app with minimal instruction | |
 |    4. User errors must be handled gracefully | |
 |    5. The *state* the application is in is obvious | |
 |    6. The app should look good on a range of displays. | |
+|    - *Missing embedded font* | *(-5)* |
+|    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
 |    - *Interface looks like GIF Finder HW* | *(-15)* |
-|    - *Interface "broken" at 1024x768 or higher resolutions* | *(-10)* |
+|    - *Interface "broken" at 1200x800 or higher resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
-|    3. Images properly optimized | |
-| **D. [Code](#code)**  | **10** | |
-|    1. MVVM Framework used | |
-|    2. Ajax used | |
-|    3. *ES6 Custom Class not used* | *(-5)* |
-|    4. *Conventions NOT followed* | *(-5 per incident)* |
-|    5. *Code that is NOT allowed* | *(-5 per incident)* |
-| **E. [Impact](#impact)**  | **10** | |
-|    - Does the app work as intended and do something useful? | |
-|    - Does the app functionality and programming go beyond what we did in class? | |
-|    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
-| **Above and Beyond (see below)** | **10** | |
-| **Possible Total Points** | **100** | |
+|    3. Uses HTML5 Semantic elements | |
+|    4. Images properly optimized | |
+|    5. Has embedded font (see above) | |
+|    - *Fails HTML Validation* | *(-5)* |
+|    - *Fails CSS Validation* | *(-5)* |
+|    - *Missing required HTML5 semantic elements* | *(-5)* |
+|    - *Images larger than 50KB* | *(-2 each)* |
+| **D. [Code](#code)**  | | |
+|    1. *ES6 Module pattern not used* | *(-25)* |
+|    1. Ajax not used | *(-25)* |
+|    2. *ES6 Custom Class not used* | *(-5)* |
+|    3. *Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    4. *Code that is NOT allowed* | *(-1 to ? per incident)* |
+|    5. *Code shows errors in console* | *(-5 per incident)* |
+|    6. *App does not function on banjo* | *(-10)* |
+|    7. *App does not run locally or on banjo* | *(-10 to ?)* |
+| **E. [Impact](#impact)**  | **30** | |
+|    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
+|    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App is "portfolio quality" (or nearly so) | *(+1 to +10)* |
+| **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-| *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if required proposal/prototypes are not submitted to dropbox on time* | *(-10 each)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if MVVM framework "created by you" component is missing* | *(-10)* | |
-| *Deduction if MVVM framework is not used* | *(-30)* | |
-| *Deduction if app does not function when deployed to web* | *(-15)* | |
 
-Note:
-- **Good** (Meet all requirements above reasonably well) = 90%
-- **Better** (Go beyond expectations in 2 or more areas) = 95%
-- **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
+
+<hr>
 
 ## VI. Submission
-- ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to Banjo, and put the link in the mycourses dropbox comments field
+- see myCourses for details & due date/time
+
+<hr>
 
 ## VII. Examples
 
@@ -244,4 +309,5 @@ Note:
 **Biking route:**
 
 ![screenshot](_images/project-3-example-3.jpg)
+
 
