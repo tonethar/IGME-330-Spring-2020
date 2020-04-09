@@ -125,6 +125,7 @@
 
 4) Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
+5) Questions?
 
 <hr><hr>
 
