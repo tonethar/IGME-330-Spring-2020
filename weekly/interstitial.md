@@ -102,9 +102,11 @@
     - For fun, if you want, set your background to your favorite (or most feared) animal!
     - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) that you have been enjoying?
 
+
 2) Let's look over the myCourses Dropboxes - there's one big change:
     
-      - The [Vue.js](https://vuejs.org) "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
+    A) The [Vue.js](https://vuejs.org) "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
+     
         - Reactive programming is an important topic
         - and we really don't want you to leave this course without being exposed to it
         - but its use is *optional* on Project 3
@@ -121,9 +123,12 @@
     
     E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long to complete
 
+
 3) Project 3 - let's look at examples from past semesters
 
+
 4) Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
+
 
 5) Please ask Questions!
 
