@@ -4,7 +4,11 @@
 
 ## II. Lecture Notes
 
+- [HW - Mapbox Intro (Due:  4/13)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
+
 ## III. HW Assignments
+
+- [HW - Mapbox Intro (Due:  4/13)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
 
 ## IV. Videos
 
