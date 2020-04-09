@@ -149,11 +149,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### II-C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
+    
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
-    - Most CSS is in an external style sheet.
+    - Most CSS is in an external style sheet
+    
 3) Utilize at least 3 HTML semantic elements such as &lt;nav>, &lt;main>, &lt;footer>, etc 
+
 4) Images are properly optimized (both dimensions and file size) for Web delivery
+
 5) An embedded font must be used
+
 6) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
