@@ -91,7 +91,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 4. Optional features:
   - Firebase or a similar API to store data "in the cloud"
-  - ???
+  - There's no rule against exceeding the minimum, and having 4 controls, or even 5!, if the app would benefit from them
   
 <hr>
 
@@ -103,8 +103,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - minimally, it must be "not ugly"
     - the interface must not resemble the GIPHY homework's UI at all
     - an *embedded* font must be used - for example from https://fonts.google.com:
-      - be cautious about using this embedded font - especially a cursive font - for UI labels
-      - instead, utilize the embedded font on ornamental elements
+      - be cautious about using an embedded font - especially a cursive font - for UI labels
+      - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
     
 2) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
@@ -122,8 +122,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
       
 6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
-    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen
-    - The main controls of the application must fit in a 1024x768 window
+    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a 15" screen
+    - The main controls of the application must fit in a 1200x800 window (or smaller)
 
 7) Optional Features:
     - Sound:
