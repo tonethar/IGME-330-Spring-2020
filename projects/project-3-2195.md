@@ -146,9 +146,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
     - Most CSS is in an external style sheet.
-3) Images are properly optimized (both dimensions and file size) for Web delivery
-4) An embedded font must be used
-5) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+3) Utilize at least 3 HTML semantic elements such as &lt;nav>, &lt;main>, &lt;footer>, etc 
+4) Images are properly optimized (both dimensions and file size) for Web delivery
+5) An embedded font must be used
+6) You ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
     - https://bootstrap-vue.js.org
     - http://getbootstrap.com
     - http://materializecss.com
@@ -252,31 +253,32 @@ Your project will be graded on the following criteria:
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
-|    3. Images properly optimized | |
-|    4. Has embedded font (see above) | |
+|    3. Uses HTML5 Semantic elements | |
+|    4. Images properly optimized | |
+|    5. Has embedded font (see above) | |
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
+|    - *Missing required Validation* | *(-5)* |
 |    - *Images larger than 50KB* | *(-2 each)* |
-| **D. [Code](#code)**  | **10** | |
-|    1. Ajax used | |
+| **D. [Code](#code)**  | | |
+|    1. *ES6 Module pattern not used* | *(-25)* |
+|    1. Ajax not used | *(-25)* |
 |    2. *ES6 Custom Class not used* | *(-5)* |
-|    3. *Conventions NOT followed* | *(-5 per incident)* |
-|    4. *Code that is NOT allowed* | *(-5 per incident)* |
-| **E. [Impact](#impact)**  | **10** | |
-|    - Does the app work as intended and do something useful? | |
-|    - Does the app functionality and programming go beyond what we did in class? | |
-|    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
-| **Above and Beyond (see below)** | **10** | |
-| **Possible Total Points** | **100** | |
+|    3. *Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    4. *Code that is NOT allowed* | *(-1 to ? per incident)* |
+|    5. *Code shows errors in console* | *(-5 per incident)* |
+|    6. *App does not function on banjo* | *(-10)* |
+|    7. *App does not run locally or on banjo* | *(-10 to ?)* |
+| **E. [Impact](#impact)**  | **30** | |
+|    - If the app meets the requirements above, we will award a 20% in this category, which is a grade of 90% | |
+|    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App is "portfolio quality" (or nearly so) | *(+1 to +10)* |
+| **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-| *Deduction if required proposal/prototype is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if required proposal/prototypes are not submitted to dropbox on time* | *(-10 each)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if app does not function when deployed to web* | *(-15)* | |
 
-Note:
-- **Good** (Meet all requirements above reasonably well) = 90%
-- **Better** (Go beyond expectations in 2 or more areas) = 95%
-- **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
 <hr>
 
