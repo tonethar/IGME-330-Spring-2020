@@ -2,8 +2,8 @@
 
 [I. Overview](#overview)
 
-    - [3/24/2020 - Course "kickoff" meeting](#course-kickoff)
-    - [4/09/2020 - Project 3 "kickoff" meeting](#project3-kickoff)
+  - [3/24/2020 - Course "kickoff" meeting](#course-kickoff)
+  - [4/09/2020 - Project 3 "kickoff" meeting](#project3-kickoff)
 
 [II. Outline](#outline)
 
