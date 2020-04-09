@@ -92,8 +92,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 
 4. Optional features:
-  - Firebase or a similar API to store data "in the cloud"
-  - There's no rule against exceeding the minimum, and having 4 controls, or even 5!, if the app would benefit from them
+    - Firebase or a similar API to store data "in the cloud"
+    - There's no rule against exceeding the minimum, and having 4 controls, or even 5!, if the app would benefit from them
   
 <hr>
 
