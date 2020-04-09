@@ -4,7 +4,9 @@
 
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 
-- Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
+- Your goal is to create an application that does something useful easy to use, functional, and aesthetically pleasing.
+- The app should serve a purpose - i.e it should be useful to *someone*
+- As a counter-example, *Otaku-za* - a (hypothetical) app that mashes up a Manga search API with a Pizza shop locator, is not actually useful
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS "rich media" programming in a web browser context
 - You will be evaluated on:
