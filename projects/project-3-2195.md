@@ -163,16 +163,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### II-D. Code Requirements
 1) ES6 Module Pattern required
     
-2) Ajax - utilize the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
+2) Ajax - app utilizes the [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or [`Fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API
 
 3) Use at least 1 ES6 custom class, written by you:
     - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
 4) Conventions and structure:
-    - All code is an external JavaScript files
+    - All code is in external JavaScript files
     - `let` and `const` must be used to declare variables - no `var` allowed!
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
-    - Class names begin with an uppercase letter
+    - Class names must begin with an uppercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
 5) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
@@ -185,7 +185,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 6) **NOT allowed**:
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
-    - inline event handlers in your HTML
+    - inline event handlers in your HTML ex. `<button onclick="alert('Hi!')">Click Me</button>`
     - `console.log()` calls (delete or comment them out)
 
 <hr>
@@ -233,26 +233,30 @@ Your project will be graded on the following criteria:
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
 |    1. TWO web services are used | |
-|    2. Last term searched stored in browser  | |
+|    2. Saves/restores last search term and other UI *state*  | |
 |    3. Has required Controls | |
-|    4. Runs without errors | |
 |    - *Missing web services* | *(-20 each)* |
-|    - *Does not remember last search term* | *(-10)* |
+|    - *Does not save/restore UI state* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
-|    - *Errors* | *(-? depending on severity)* |
 | **B. [Design & Interaction](#design)** | **20** | |
-|    1. Visual design is pleasing | |
+|    1. Visual design is at a minimum, usable and "not ugly" | |
 |    2. Widgets are well labeled and follow interface conventions | |
 |    3. Users should be able to figure out how to use the app with minimal instruction | |
 |    4. User errors must be handled gracefully | |
 |    5. The *state* the application is in is obvious | |
 |    6. The app should look good on a range of displays. | |
+|    - *Missing embedded font* | *(-5)* |
+|    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
 |    - *Interface looks like GIF Finder HW* | *(-15)* |
-|    - *Interface "broken" at 1024x768 or higher resolutions* | *(-10)* |
+|    - *Interface "broken" at 1200x800 or higher resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
+|    4. Has embedded font (see above) | |
+|    - *Fails HTML Validation* | *(-5)* |
+|    - *Fails CSS Validation* | *(-5)* |
+|    - *Images larger than 50KB* | *(-2 each)* |
 | **D. [Code](#code)**  | **10** | |
 |    1. Ajax used | |
 |    2. *ES6 Custom Class not used* | *(-5)* |
