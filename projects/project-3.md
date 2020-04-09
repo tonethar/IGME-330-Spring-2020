@@ -29,7 +29,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
       - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
       - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
-        - but some students have had luck with this on --> https://developer.sportradar.com
+        - but some students have had luck with this one --> https://developer.sportradar.com
       - Always verify that the API returns current data. There's a "gasoline prices" API out there that has 4 year-old data ...
     - iii. Here are some lists of web services:
       - https://github.com/toddmotto/public-apis
