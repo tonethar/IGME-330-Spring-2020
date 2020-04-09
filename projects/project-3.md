@@ -280,14 +280,14 @@ Your project will be graded on the following criteria:
 |    - *Missing required HTML5 semantic elements* | *(-5)* |
 |    - *Images larger than 50KB* | *(-2 each)* |
 | **D. [Code](#code)**  | | |
-|    1. *ES6 Module pattern not used* | *(-25)* |
-|    2. Ajax not used | *(-25)* |
-|    3. *ES6 Custom Class not used* | *(-5)* |
-|    4. *Conventions NOT followed* | *(-1 to -5 per incident)* |
-|    5. *Code that is NOT allowed* | *(-1 to ? per incident)* |
-|    6. *Code shows errors in console* | *(-5 per incident)* |
-|    7. *App does not function on banjo* | *(-10)* |
-|    8. *App does not run locally or on banjo* | *(-10 to ?)* |
+|    - *ES6 Module pattern not used* | *(-25)* |
+|    - *Ajax not used* | *(-25)* |
+|    - *ES6 Custom Class missing* | *(-5)* |
+|    - *Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
+|    - *Code shows errors in console* | *(-5 per incident)* |
+|    - *App does not function on banjo* | *(-10)* |
+|    - *App does not run locally or on banjo* | *(-10 to ?)* |
 | **E. [Impact](#impact)**  | **30** | |
 |    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
