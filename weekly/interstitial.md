@@ -102,17 +102,16 @@
     - For fun, if you want, set your background to your favorite (or most feared) animal!
     - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) have you been enjoying? 
 
-2) Let's look over the myCourses Dropboxes:
-    A) One big change:
+2) Let's look over the myCourses Dropboxes - there's one big change:
     
       - the Vue.js "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
-      - Reactive programming is an important topic
-      - and we really don't want you to leave this course without being exposed to it
-      - but its use is optional on Project 3
-      - and the Vue.js assignment due dates were conflicting with Project 3 deliverables, and we don't want you all to have to focus on more than one big thing at a time in this course
-      - so, please do these assignments when you have time, it's valuable knowledge to have and the assignments shouldn't take you too long
-      - and do so earlier rather than later as you might wish to use Vue.js in your Project 3
-      - ***Another way to think of this "finals week" Vue HW is that it's replacing our (cancelled) final exam***
+        - Reactive programming is an important topic
+        - and we really don't want you to leave this course without being exposed to it
+        - but its use is optional on Project 3
+        - and the Vue.js assignment due dates were conflicting with Project 3 deliverables, and we don't want you all to have to focus on more than one big thing at a time in this course
+        - so, please do these assignments when you have time, it's valuable knowledge to have and the assignments shouldn't take you too long
+        - and do so earlier rather than later as you might wish to use Vue.js in your Project 3
+        - ***Another way to think of this "finals week" Vue HW is that it's replacing our (cancelled) final exam***
     
     B) The PHP unit is almost done - hopefully you found value in constructing your own web service - and understand them better
     
