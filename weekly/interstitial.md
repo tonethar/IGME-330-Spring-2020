@@ -231,10 +231,10 @@
 - [Week 13B - Vue.js Components](week-13B-NEW.md)
 
 ### Homework
-- [HW - Vue.js Part I - Dynamic List (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
-- [HW - Vue.js Part II - Ajax App (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
-- [HW - Vue.js Part III - Simple Component (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
-- [HW - Vue.js Part IV - Nested Component (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
+- [HW - Vue.js Part I - Dynamic List (Due 5/5)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
+- [HW - Vue.js Part II - Ajax App (Due 5/5)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
+- [HW - Vue.js Part III - Simple Component (Due 5/5)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
+- [HW - Vue.js Part IV - Nested Component (Due 5/5)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
 
 ### All Videos
 - [Vue.js - Part I - Intro - (10:47)](https://video.rit.edu/Watch/Rs48BbWz)
