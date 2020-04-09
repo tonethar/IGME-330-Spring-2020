@@ -222,6 +222,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - **Project Proposal** - see myCourses for details & due date/time
   - **Checkpoint #1** - see myCourses for details & due date/time
   - **Final project deliverable & documentation** - see myCourses for details & due date/time
+  - **Demo reel** - 1 to 2 minute video demo of the app (alternatively, have a Zoom meeting with us finals week to demo it)
 
 <hr>
 
