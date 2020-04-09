@@ -292,7 +292,7 @@ Your project will be graded on the following criteria:
 |    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
-|    - *App is "portfolio quality" (or nearly so) | *(+1 to +10)* |
+|    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
 | **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required proposal/prototypes are not submitted to dropbox on time* | *(-10 each)* | |
