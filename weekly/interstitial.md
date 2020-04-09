@@ -2,6 +2,9 @@
 
 [I. Overview](#overview)
 
+    - [3/24/2020 - Course "kickoff" meeting](#course-kickoff)
+    - [4/09/2020 - Project 3 "kickoff" meeting](#project3-kickoff)
+
 [II. Outline](#outline)
 
 <hr><hr>
@@ -9,6 +12,10 @@
 <a id="overview" />
 
 ## I. Overview
+
+<a id="course-kickoff" />
+
+### I-A. 3/24/2020 - Course "kickoff" meeting
 
 1) Course Delivery
     - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignments
@@ -83,6 +90,34 @@
  
  
 7) What are your questions? What did we forget to talk about?
+
+
+<hr><hr>
+
+<a id="project3-kickoff" />
+
+### I-B. 4/09/2020 - Project 3 "kickoff" meeting
+
+1 - Welcome (5 minutes):
+    - For fun, if you want, set your background to your favorite (or most feared) animal!
+    - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) have you been enjoying? 
+
+2 - Let's look over the myCourses Dropboxes:
+    A) One big change - the Vue.js "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
+        - Reactive programming is an important topic
+        - and we really don't want you to leave this course without being exposed to it
+        - but its use is optional on Project 3
+        - and the Vue.js assignment due dates were conflicting with Project 3 deliverables, and we don't want you all to have to focus on more than one big thing at a time in this course
+        - so, please do these assignments when you have time, it's valuable knowledge to have and the assignments shouldn't take you too long
+        - and do so earlier rather than later as you might wish to use Vue.js in your Project 3
+    B) The PHP unit is almost done - hopefully you found value in constructing your own web service - and understand them better
+    C) The PHP proxy server exercise won't take you too long - and it's handy to know how to create one of these - you may find it necessary on Project 3
+    D) The final unit is Mapbox - which many (if not most) of you will use on Project 3
+    E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long
+
+3 - Project 3 - let's look at examples from past semesters
+
+4 - Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
 
 <hr><hr>
