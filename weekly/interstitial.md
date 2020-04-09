@@ -100,7 +100,7 @@
 
 1) Welcome (5 minutes):
     - For fun, if you want, set your background to your favorite (or most feared) animal!
-    - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) have you been enjoying? 
+    - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) that you have been enjoying?
 
 2) Let's look over the myCourses Dropboxes - there's one big change:
     
