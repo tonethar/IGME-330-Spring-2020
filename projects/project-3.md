@@ -246,7 +246,8 @@ Your project will be graded on the following criteria:
 | **A. [Functionality](#functionality)** | **40** | |
 |    1. TWO web services are used | |
 |    2. Saves/restores last search term and other UI *state*  | |
-|    3. Has required Controls | |
+|    3. Has "reset" button | |
+|    4. Has other required Controls | |
 |    - *Missing web services* | *(-20 each)* |
 |    - *Does not save/restore UI state* | *(-10)* |
 |    - *Missing reset button* | *(-10)* |
