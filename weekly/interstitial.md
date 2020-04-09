@@ -55,8 +55,9 @@
             - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
           - Week 11 (Tuesday 3/31 & Thursday 4/2)
             - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
-          - Week 12 (Tuesday 4/07 & Thursday 4/9)
+          - Week 12 (Tuesday 4/07)
             - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
+            - on Thursday 4/09 will be in several "Kickoff" meetings and is best reached via email
       - Andy Wheeland - anwigm@rit.edu - Discord DM Preferred
         - Mondays: 4-5pm, Tuesdays/Thursdays: 10am to noon.  Will be on Discord & available through Zoom chat at http://rit.zoom.us/my/anwigm.
       
