@@ -44,9 +44,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - [Giant Bomb Game API](http://www.giantbomb.com/api/)
       - [League of Legends API](https://developer.riotgames.com)
       - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
-    - vi. Earthquakes:
+    - vi. US Government Data:
       - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
       - here's a video that runs through mapping earthquake data --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+      - https://api.nasa.gov
     - vii. Book information APIs:
       - [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
     - viii. Others:
