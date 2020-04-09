@@ -274,7 +274,7 @@ Your project will be graded on the following criteria:
 |    6. *App does not function on banjo* | *(-10)* |
 |    7. *App does not run locally or on banjo* | *(-10 to ?)* |
 | **E. [Impact](#impact)**  | **30** | |
-|    - If the app meets the requirements above, we will award a 20% in this category, which is a grade of 90% | |
+|    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App is "portfolio quality" (or nearly so) | *(+1 to +10)* |
