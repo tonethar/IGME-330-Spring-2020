@@ -107,25 +107,25 @@
       - the Vue.js "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
         - Reactive programming is an important topic
         - and we really don't want you to leave this course without being exposed to it
-        - but its use is optional on Project 3
+        - but its use is *optional* on Project 3
         - and the Vue.js assignment due dates were conflicting with Project 3 deliverables, and we don't want you all to have to focus on more than one big thing at a time in this course
-        - so, please do these assignments when you have time, it's valuable knowledge to have and the assignments shouldn't take you too long
+        - so, please do these assignments when you have time, it's valuable knowledge to have, and the Vue.js assignments shouldn't take you too long
         - and do so earlier rather than later as you might wish to use Vue.js in your Project 3
         - ***Another way to think of this "finals week" Vue HW is that it's replacing our (cancelled) final exam***
     
-    B) The PHP unit is almost done - hopefully you found value in constructing your own web service - and understand them better
+    B) The PHP unit is almost done - hopefully you found value in constructing your own web service - and now understand them better
     
-    C) The PHP proxy server exercise won't take you too long - and it's handy to know how to create one of these - you may find it necessary on Project 3
+    C) The PHP proxy server exercise won't take you too long - and it's handy to know how to create one of these - and you may find it useful on Project 3
     
     D) The final unit is Mapbox - which many (if not most) of you will use on Project 3
     
-    E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long
+    E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long to complete
 
 3) Project 3 - let's look at examples from past semesters
 
 4) Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
-5) Questions?
+5) Please ask Questions!
 
 <hr><hr>
 
