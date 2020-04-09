@@ -276,6 +276,7 @@ Your project will be graded on the following criteria:
 |    5. Has embedded font (see above) | |
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
+|    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Missing required HTML5 semantic elements* | *(-5)* |
 |    - *Images larger than 50KB* | *(-2 each)* |
 | **D. [Code](#code)**  | | |
