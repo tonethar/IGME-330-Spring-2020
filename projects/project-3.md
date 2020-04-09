@@ -34,7 +34,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - https://github.com/toddmotto/public-apis
       - https://github.com/abhishekbanthia/Public-APIs
       - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-      - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
+      - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up and then check out their API console
       - [Amazon Web Services (AWS)](https://aws.amazon.com)
       - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
     - iv. APIs that utilize text:
