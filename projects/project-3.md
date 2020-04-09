@@ -76,9 +76,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
 
 
-3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
-    - a search button (which doesn't count)
-    - a "reset" button that clears the search text field (in any) and resets other UI elements to their default state (this doesn't count towards the 3 controls either)
+3) You must have a "reset" button that clears the search text field (in any) and resets other UI elements to their default state (this reset button doesn't count towards the 3 control requirement below)
+
+
+4. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+    - a search button (which doesn't count, and the "reset" button mentioned above does not count either)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
