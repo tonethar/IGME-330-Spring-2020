@@ -78,6 +78,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
+    - a "reset" button that clears the search text field (in any) and resets other UI elements to their default state (this doesn't count towards the 3 controls either)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
@@ -221,8 +222,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## III. Milestones (one submission per team please - make sure both team members' names are stated)
   - **Project Proposal** - see myCourses for details & due date/time
   - **Checkpoint #1** - see myCourses for details & due date/time
+  - **Checkpoint #2** - see myCourses for details & due date/time
   - **Final project deliverable & documentation** - see myCourses for details & due date/time
-  - **Demo reel** - 1 to 2 minute video demo of the app (alternatively, have a Zoom meeting with us finals week to demo it)
+  - **Demo reel** - 1 to 2 minute video demo of the final version of app (alternatively, have a Zoom meeting with us finals week to demo it)
 
 <hr>
 
