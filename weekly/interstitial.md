@@ -98,11 +98,11 @@
 
 ### I-B. 4/09/2020 - Project 3 "kickoff" meeting
 
-1 - Welcome (5 minutes):
+1) Welcome (5 minutes):
     - For fun, if you want, set your background to your favorite (or most feared) animal!
     - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) have you been enjoying? 
 
-2 - Let's look over the myCourses Dropboxes:
+2) Let's look over the myCourses Dropboxes:
     A) One big change - the Vue.js "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
         - Reactive programming is an important topic
         - and we really don't want you to leave this course without being exposed to it
@@ -115,9 +115,9 @@
     D) The final unit is Mapbox - which many (if not most) of you will use on Project 3
     E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long
 
-3 - Project 3 - let's look at examples from past semesters
+3) Project 3 - let's look at examples from past semesters
 
-4 - Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
+4) Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
 
 <hr><hr>
