@@ -128,15 +128,15 @@
 3) Project 3 - let's look at examples from past semesters
 
 
-4) Project 3:
-  - This course is about the *intersection* between programming and multiple types of *media*
-    - Project 1 was about procedural drawing (canvas) and "creative coding" that explored a theme
-    - Project 2 worked with canvas, bitmapped images, and analyzing/manipulating audio 
-    - Since the "break", we have worked with unstructured text (Word Cloud, Maddening Libs), "tagged" text (RiTa,js), text-based web services, and maps
-    - Project 3, minimally:
-      - is a mashup of two web APIs
-      - but it could also draw on anything we've covered this semester - you have a lot of freedom - this IS a creative coding class 
-      - the Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
+4) Project 3 Requirements:
+    - This course is about the *intersection* between programming and multiple types of *media*
+      - Project 1 was about procedural drawing (canvas) and "creative coding" that explored a theme
+      - Project 2 worked with canvas, bitmapped images, and analyzing/manipulating audio 
+      - Since the "break", we have worked with unstructured text (Word Cloud, Maddening Libs), "tagged" text (RiTa,js), text-based web services, and maps
+      - Project 3, minimally:
+        - is a mashup of two web APIs
+        - but it could also draw on anything we've covered this semester - you have a lot of freedom - this IS a creative coding class 
+        - the Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
 
 5) Please ask Questions!
