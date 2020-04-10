@@ -55,16 +55,19 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - viii. Coronavarius:
       - https://rapidapi.com/collection/coronavirus-covid-19
       - https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
-      - https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
-      - https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD
-      - https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-      - https://www.census.gov/programs-surveys/acs/guidance/estimates.html
-      - https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html
-      - https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals/data
-      - https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj/data
-      - Zip Codes Tab areas
-https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
-      - https://catalog.data.gov/dataset/tiger-line-shapefile-2019-2010-nation-u-s-2010-census-5-digit-zip-code-tabulation-area-zcta5-na
+      - NYS Case Data: 
+        - https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases
+        - https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+        - https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD
+      - US County Boundaries: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+      - Population data: 
+        - https://www.census.gov/programs-surveys/acs/guidance/estimates.html
+        - https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html
+      - Hospitals: https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals/data
+      - Grocery Stores: https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj/data
+      - Zip Codes Tab areas: 
+        - https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
+        - https://catalog.data.gov/dataset/tiger-line-shapefile-2019-2010-nation-u-s-2010-census-5-digit-zip-code-tabulation-area-zcta5-na
     - ix. Others:
       - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
       - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
