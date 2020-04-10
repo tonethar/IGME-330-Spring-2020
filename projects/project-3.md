@@ -37,6 +37,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
       - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up and then check out their API console
       - [Amazon Web Services (AWS)](https://aws.amazon.com)
+      - [RapidAPI](https://rapidapi.com)
       - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
     - iv. APIs that utilize text:
       - [RiTa.js](https://rednoise.org/rita/)
@@ -51,24 +52,37 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - https://api.nasa.gov
     - vii. Book information APIs:
       - [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
-    - viii. Others:
+    - viii. Coronavarius:
+      - https://rapidapi.com/collection/coronavirus-covid-19
+      - https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+      - https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+      - https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD
+      - https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+      - https://www.census.gov/programs-surveys/acs/guidance/estimates.html
+      - https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html
+      - https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals/data
+      - https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj/data
+      - Zip Codes Tab areas
+https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
+      - https://catalog.data.gov/dataset/tiger-line-shapefile-2019-2010-nation-u-s-2010-census-5-digit-zip-code-tabulation-area-zcta5-na
+    - ix. Others:
       - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
       - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
       - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
       - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
       - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
       - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-    - ix. **Another Option - make your own API in PHP:**
+    - x. **Another Option - make your own API in PHP:**
       - the data should be useful and not an otherwise widely available subset from another public API
       - you should have **a lot** of data - 50 to 100 records at least
       - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is called
       - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
       - or another custom dataset (a comprehensive RPG web service?), or ???
-    - x. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
+    - xi. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
       - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
       - Google Maps (use MapBox instead)
-    - xi. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
+    - xii. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
