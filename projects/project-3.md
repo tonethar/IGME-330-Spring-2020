@@ -50,6 +50,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
       - here's a video that runs through mapping earthquake data --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
       - https://api.nasa.gov
+      - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
     - vii. Book information APIs:
       - [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
     - viii. Coronavarius:
@@ -72,7 +73,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
       - Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
       - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
-      - Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
       - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
       - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
     - x. **Another Option - make your own API in PHP:**
