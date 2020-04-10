@@ -82,7 +82,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
       - or another custom dataset (a comprehensive RPG web service?), or ???
     - xi. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
-      - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++ Apps)
+      - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++" Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
       - Google Maps (use MapBox instead)
     - xii. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
