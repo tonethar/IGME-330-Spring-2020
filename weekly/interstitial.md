@@ -236,7 +236,9 @@
 
 ## IV. Week 13 - MVVM (Mon 4/13-Sun 4/19)
 
-**Note that Vue.js and MVVM and now *optional* for Project 3, and that the Vue.js dropboxes now close near the end of finals week, Tuesday 5/5**
+- **Note that Vue.js and MVVM and now *optional* for Project 3, and that the Vue.js dropboxes now close near the end of finals week, Tuesday 5/5**
+- **Week 13 is now devoted to finishing up the Map unit, and moving on to complete the Project 3 deliverables**
+
 ### Lecture Notes
 - [Week 13A - Intro to MVVM & Vue.js ](week-13A-NEW.md)
 - [Week 13B - Vue.js Components](week-13B-NEW.md)
@@ -261,7 +263,7 @@
 
 <a id="week14">
 
-## V. Week 14 - Finish MVVM & Catch up (Mon 4/20-Sun 4/26)
+## V. Week 14 - Work on Project 3 (Mon 4/20-Sun 4/26)
 - [Week 14A - ](week-14A-NEW.md)
 - [Week 14B - ](week-14B-NEW.md)
 
