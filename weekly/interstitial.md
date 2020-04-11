@@ -221,9 +221,9 @@
 ### Homework
 
 - [PHP Web Service Part V - creating a proxy server#submission (Due: 4/9)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md#submission)
-- [HW - Improved Giphy Web Service App (Due: 4/11)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
-- [HW - Mapbox Intro (Due:  4/13)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
-- **HW - Mapbox II coming soon! (Due:  4/15)**
+- [HW - Improved Giphy Web Service App (Due: 4/12)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
+- [HW - Mapbox - I *Intro* (Due:  4/14)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
+- [HW - Mapbox - II *RIT Coffee Map* (Due:  4/16)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
 
 
 ### All Videos
