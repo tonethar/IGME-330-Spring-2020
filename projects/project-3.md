@@ -75,7 +75,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
       - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
       - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-    - x. **Another Option - make your own API in PHP:**
+    - x. **Another Option - make your own API in PHP (you can do this for ONE of the required APIs):**
       - the data should be useful and not an otherwise widely available subset from another public API
       - you should have **a lot** of data - 50 to 100 records at least
       - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is called
