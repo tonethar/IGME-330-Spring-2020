@@ -266,7 +266,7 @@
 - [Week 14B - ](week-14B-NEW.md)
 
 ### Homework
-- [HW - Transpiling from ES6 to ES5 with Node.js (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
+
 
 ### All Videos
 - These are a demo of how to build a "Yelp" clone with Vue.js:
@@ -292,4 +292,4 @@
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) - Worth 2 HW Assignments
   - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md) - Worth 2 HW Assignments
 - Node.js:
-  - make a node driven web service and post it to Heroku (coming TBD)
+  - [HW - Transpiling from ES6 to ES5 with Node.js (Due ???)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
