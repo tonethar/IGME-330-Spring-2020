@@ -292,4 +292,5 @@
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) - Worth 2 HW Assignments
   - [4 - Firebase "Draw & Share" App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md) - Worth 2 HW Assignments
 - Node.js:
+  - [HW - Node Web Service Command-line tool](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
   - [HW - Transpiling from ES6 to ES5 with Node.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md)
