@@ -222,8 +222,8 @@
 
 - [PHP Web Service Part V - creating a proxy server#submission (Due: 4/9)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md#submission)
 - [HW - Improved Giphy Web Service App (Due: 4/12)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
-- [HW - Mapbox - I *Intro* (Due:  4/14)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
-- [HW - Mapbox - II *RIT Coffee Map* (Due:  4/16)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
+- [HW - Mapbox I - *Intro* (Due:  4/14)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
+- [HW - Mapbox II - *RIT Coffee Map* (Due:  4/16)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
 
 
 ### All Videos
@@ -235,6 +235,8 @@
 <a id="week13">
 
 ## IV. Week 13 - MVVM (Mon 4/13-Sun 4/19)
+
+**Note that Vue.js and MVVM and now *optional* for Project 3, and that the Vue.js dropboxes now close near the end of finals week, Tuesday 5/5**
 ### Lecture Notes
 - [Week 13A - Intro to MVVM & Vue.js ](week-13A-NEW.md)
 - [Week 13B - Vue.js Components](week-13B-NEW.md)
