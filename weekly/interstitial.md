@@ -224,6 +224,7 @@
 - [HW - Improved Giphy Web Service App (Due: 4/12)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md)
 - [HW - Mapbox I - *Intro* (Due:  4/14)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
 - [HW - Mapbox II - *RIT Coffee Map* (Due:  4/16)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
+- [EXTRA CREDIT - HW - Mapbox III - *Virus Map* (Due: 4/20)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-3.md)
 
 
 ### All Videos
